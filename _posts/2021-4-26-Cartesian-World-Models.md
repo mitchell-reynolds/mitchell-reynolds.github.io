@@ -21,16 +21,16 @@ Suppose a Cartesian boundary between agent and environment:[^credit]
 
 [^credit]: This drawing is originally from [Embedded Agents](https://www.alignmentforum.org/s/Rm6oQRJJmhGCcLvxh/p/p7x32SEt43ZMC9r7r)
 
-There are four types: actions, observations, environmental states, and internal states. Actions and observations go from agent to environment and vice-versa. Environmental states are on the environment side, and internal states are on the agent side. Let $A, O, E, I$ refer to actions, observations, environmental states, and internal states.
+There are four types: actions, observations, environmental states, and internal states. Actions and observations go from agent to environment and vice-versa. Environmental states are on the environment side, and internal states are on the agent side. Let $$A, O, E, I$$ refer to actions, observations, environmental states, and internal states.
 
-We describe how the agent interfaces with the environment with four maps: $\text{observe}$, $\text{orient}$, $\text{decide}$, and $\text{execute}$.[^OODA]
+We describe how the agent interfaces with the environment with four maps: $$\text{observe}$$, $$\text{orient}$$, $$\text{decide}$$, and $$\text{execute}$$.[^OODA]
 
 [^OODA]: The decision-making model known as the [OODA Loop](https://www.lesswrong.com/posts/bh9gAZTmGyJ4j7h2L/training-regime-day-20-ooda-loop) inspired this naming scheme. Acting has been renamed to executing to avoid confusion with act-based agents.
 
-- $\text{observe}: E \to \Delta O$ describes how the agent observes the environment, e.g., if the agent sees with a video camera, $\text{observe}$ describes what the video camera would see given various environmental states. If the agent can see the entire environment, the image of $\text{observe}$ is distinct point distributions. In contrast, humans can see the same observation for different environmental states. 
-- $\text{orient}: O \times I \to \Delta I$ describes how the agent interprets the observation, e.g., the agent's internal state might be memories of high-level concepts derived from raw data. If there is no historical dependence, $\text{orient}$ depends only on the observation. In contrast, humans map multiple observations onto the same internal state.
-- $\text{decide}: I \to \Delta A$ describes how the agent acts in a given state, e.g., the agent might maximize a utility function over a world model. In simple devices like thermostats, $\text{decide}$ maps each internal state to one of a small number of actions. In contrast, humans have larger action sets.
-- $\text{execute}: E \times A \to \Delta E$ describes how actions affect the environment, e.g., code that turns button presses into game actions. If the agent has absolute control over the environment, for all $e \in E$, the image of $\text{execute}(e, \cdot)$ is all point distributions over $E$. In contrast, humans do not have full control over their environments.
+- $$\text{observe}: E \to \Delta O$$ describes how the agent observes the environment, e.g., if the agent sees with a video camera, $$\text{observe}$$ describes what the video camera would see given various environmental states. If the agent can see the entire environment, the image of $$\text{observe}$$ is distinct point distributions. In contrast, humans can see the same observation for different environmental states. 
+- $$\text{orient}: O \times I \to \Delta I$$ describes how the agent interprets the observation, e.g., the agent's internal state might be memories of high-level concepts derived from raw data. If there is no historical dependence, $$\text{orient}$$ depends only on the observation. In contrast, humans map multiple observations onto the same internal state.
+- $$\text{decide}: I \to \Delta A$$ describes how the agent acts in a given state, e.g., the agent might maximize a utility function over a world model. In simple devices like thermostats, $$\text{decide}$$ maps each internal state to one of a small number of actions. In contrast, humans have larger action sets.
+- $$\text{execute}: E \times A \to \Delta E$$ describes how actions affect the environment, e.g., code that turns button presses into game actions. If the agent has absolute control over the environment, for all $$e \in E$$, the image of $$\text{execute}(e, \cdot)$$ is all point distributions over $$E$$. In contrast, humans do not have full control over their environments.
 
 We analyze agents from a *mechanistic* perspective by supposing they are maximizing an explicit utility function, in contrast with a behavioral description of how they act. We expect many training procedures to produce mesa-optimizers that use explicit goal-directed search, making this assumption productive.[^mesa-optimizers]
 
@@ -38,7 +38,7 @@ We analyze agents from a *mechanistic* perspective by supposing they are maximiz
 
 ## Consequential Types
 
-We use four types of objects (actions, observations, environmental states, and internal states) and four maps between them ($\text{observe}$, $\text{orient}$, $\text{decide}$, and $\text{execute}$) to construct a world model. The maps are functions, but functions are also types. We will refer to the original four types as *consequential types* and the four maps as *structural types*.
+We use four types of objects (actions, observations, environmental states, and internal states) and four maps between them ($$\text{observe}$$, $$\text{orient}$$, $$\text{decide}$$, and $$\text{execute}$$) to construct a world model. The maps are functions, but functions are also types. We will refer to the original four types as *consequential types* and the four maps as *structural types*.
 
 We can broadly distinguish between four type signatures of utility functions over consequential types, producing four types of consequential agents.[^locality] 
 
@@ -46,7 +46,7 @@ We can broadly distinguish between four type signatures of utility functions ove
 
 - **Environment-based consequential agents** assign utility to _environmental states_. Most traditional agents are of this type. Examples include [the Stamp Collector](http://mindingourway.com/the-stamp-collector/), a paperclip maximizer, and some humans, e.g., utilitarians that do not value themselves.
 - **Internal-based consequential agents** assign utility to different _internal states_. Very few "natural" agents are of this type. Examples include meditation bot, which cares only about inner peace, happiness bot, which cares only about being happy, and some humans, e.g., those that only value their pleasure.
-- **Observation-based consequential agents** assign utility to different _observations_. Many toy agents have bijective $\text{observe}$ functions and could be either observation-based or environment-based. Examples include virtual reality bot, which wants to build itself a perfect VR environment, video game agents that value the observation of the score, and some humans, e.g., those that would enter the [experience machine](https://www.wikiwand.com/en/Experience_machine).
+- **Observation-based consequential agents** assign utility to different _observations_. Many toy agents have bijective $$\text{observe}$$ functions and could be either observation-based or environment-based. Examples include virtual reality bot, which wants to build itself a perfect VR environment, video game agents that value the observation of the score, and some humans, e.g., those that would enter the [experience machine](https://www.wikiwand.com/en/Experience_machine).
 - **Action-based consequential agents** assign utility to different _actions_. Very few "natural" agents are of this type. Examples include twitch bot, which just wants to twitch, ditto bot, which wants to do whatever it did previously, and some types of humans, e.g., deontologists.[^action]
 
 [^action]: There is dependence on the action space's representation. If the action space is muscle movements, deontologists have utility functions over internal states and actions; they disprefer flexing their index finger if they have the memory of holding a gun pointing at another person. However, if the action space is high-level descriptions like "kill someone," deontologists are action-based consequential agents.
@@ -63,45 +63,45 @@ We modify discrete-time partially observable Markov decision processes (POMDPs) 
 
 [^hadfield]: Hadfield-Menell, Dylan, Smitha Milli, Pieter Abbeel, Stuart Russell, and Anca Dragan. "Inverse Reward Design." *ArXiv:1711.02827 [Cs]*, October 7, 2020. http://arxiv.org/abs/1711.02827.
 
-Formally, a Cartesian world model is an 7-tuple $(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$, where
+Formally, a Cartesian world model is an 7-tuple $$(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$$, where
 
-* $E$ is the set of environmental states (called "states" in POMDP\Rs),
-* $O$ is the set of observations the agent could see (also called "observations" in POMDP\Rs),
-* $I$ is the set of internal states the agent could have (not present in POMDP\Rs),
-* $A$ is the set of actions available to the agent (also called actions in POMDP\Rs),
-* $\text{observe}: E \times A \to \Delta O$ is a function describing observation probabilities given environmental states (called "conditional observation probabilities" in POMDP\Rs),
-* $\text{orient}: O \times I \to \Delta I$ is a function describing internal state probabilities given observations (not present in POMDP\Rs),
-* $\text{execute}: E \times A \to \Delta E$ is a function describing transition probabilities between different states of the environment given different actions (called "conditional transition probabilities" in POMDP\Rs),
+* $$E$$ is the set of environmental states (called "states" in POMDP\Rs),
+* $$O$$ is the set of observations the agent could see (also called "observations" in POMDP\Rs),
+* $$I$$ is the set of internal states the agent could have (not present in POMDP\Rs),
+* $$A$$ is the set of actions available to the agent (also called actions in POMDP\Rs),
+* $$\text{observe}: E \times A \to \Delta O$$ is a function describing observation probabilities given environmental states (called "conditional observation probabilities" in POMDP\Rs),
+* $$\text{orient}: O \times I \to \Delta I$$ is a function describing internal state probabilities given observations (not present in POMDP\Rs),
+* $$\text{execute}: E \times A \to \Delta E$$ is a function describing transition probabilities between different states of the environment given different actions (called "conditional transition probabilities" in POMDP\Rs),
 
-At each time period, the environmental state is in some $e \in E$, and the agent's internal state is some $i \in I$. The agent $\text{decide}$s upon an action $a \in A$, which causes the environment to transition to state $e'$ sampled from $\text{execute}(e, a)$. The agent then receives an observation $o \in O$ sampled from $\text{observe}(e', a)$, causing the agent to transition to internal state $i'$ sampled from $\text{orient}(o, i)$.
+At each time period, the environmental state is in some $$e \in E$$, and the agent's internal state is some $$i \in I$$. The agent $$\text{decide}$$s upon an action $$a \in A$$, which causes the environment to transition to state $$e'$$ sampled from $$\text{execute}(e, a)$$. The agent then receives an observation $$o \in O$$ sampled from $$\text{observe}(e', a)$$, causing the agent to transition to internal state $$i'$$ sampled from $$\text{orient}(o, i)$$.
 
-This produces the initial 4-tuple of context $c_0 := (e, i, a, o)$ representing the initial environment's state, the agent's initial internal state, the agent's initial action, and the agent's initial observation. Subsequent time steps $t$ produces additional 4-tuples of context $c_t$. 
+This produces the initial 4-tuple of context $$c_0 := (e, i, a, o)$$ representing the initial environment's state, the agent's initial internal state, the agent's initial action, and the agent's initial observation. Subsequent time steps $$t$$ produces additional 4-tuples of context $$c_t$$. 
 
 MDPs are traditionally used to model decision-making situations; agents trained to achieve high reward on individual MDPs implement policies that make "good" decisions. In contrast, we intend CWMs to capture how agents might model themselves and how they interact with the world.
 
 ## Consequential Decision Making
 
-Agents making decisions over CWMs attempt to maximize some utility function. To emphasize that agents can have utility functions of different types, we make the type explicit in our notation. For example, a traditional agent in a POMDP will be maximizing expected utility over an environment-based utility function, which we will denote $U_{\{E\}}(e, t)$, with the second parameter making explicit the time-dependence of the utility function.
+Agents making decisions over CWMs attempt to maximize some utility function. To emphasize that agents can have utility functions of different types, we make the type explicit in our notation. For example, a traditional agent in a POMDP will be maximizing expected utility over an environment-based utility function, which we will denote $$U_{\{E\}}(e, t)$$, with the second parameter making explicit the time-dependence of the utility function.
 
-More formally, let $\mathbb T$ be the set of possible consequential type signatures, equal to $\mathcal P(\{E, O, I, A\})$. For some $T \in \mathbb T$, let $U_T: T \times \mathbb N \to \mathbb R$ be the agent's utility function, where $T$ can vary between agents. Recall that $c_t := (e, i, a, o)$ is at the 4-tuple of CWM context at time $t$. Let $c_t|_T$ be $c_t$ restricted to only contain elements of types in $T$. A consequential agent maximizes expected future utility, which is equal to $\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)]$. 
+More formally, let $$\mathbb T$$ be the set of possible consequential type signatures, equal to $$\mathcal P(\{E, O, I, A\})$$. For some $$T \in \mathbb T$$, let $$U_T: T \times \mathbb N \to \mathbb R$$ be the agent's utility function, where $$T$$ can vary between agents. Recall that $$c_t := (e, i, a, o)$$ is at the 4-tuple of CWM context at time $$t$$. Let $$c_t|_T$$ be $$c_t$$ restricted to only contain elements of types in $$T$$. A consequential agent maximizes expected future utility, which is equal to $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)]$$. 
 
-$U_T$'s time-dependence determines how much the agent favors immediate reward over distant reward. When $t > 0 \implies U_T(c_t|_T, t) = 0$ the agent is *time-limited myopic*; it takes actions that yield the largest immediate increase in expected utility. When $U_T(c_t|_T, t) \approx U_T(c_t|_T, t + 1)$ the agent is *far-sighted*; it maximizes the expected sum of all future utility.
+$$U_T$$'s time-dependence determines how much the agent favors immediate reward over distant reward. When $$t > 0 \implies U_T(c_t|_T, t) = 0$$ the agent is *time-limited myopic*; it takes actions that yield the largest immediate increase in expected utility. When $$U_T(c_t|_T, t) \approx U_T(c_t|_T, t + 1)$$ the agent is *far-sighted*; it maximizes the expected sum of all future utility.
 
 ## Examples
 
 ### Example: Paperclip maximizer
 
-Consider a paperclip maximizer that can only interface with the world through a computer. Define a Cartesian world model $(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$ as follows:
+Consider a paperclip maximizer that can only interface with the world through a computer. Define a Cartesian world model $$(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$$ as follows:
 
-* $E$ is all ways the universe could be,
-* $O$ is all values a 1080 x 1920 monitor can take,
-* $I$ is the set of internal states, which we leave unspecified,
-* $A$ is the set of keycodes plus actions for mouse usage,
-* $\text{observe}$ maps the environment to the computer screen; this will sometimes be correlated with the rest of the environment, e.g., through the news,
-* $\text{orient}$ maps the computer screen to an internal state, which we leave unspecified,
-* $\text{execute}$ describes how keycodes and mouse actions interact with the computer.
+* $$E$$ is all ways the universe could be,
+* $$O$$ is all values a 1080 x 1920 monitor can take,
+* $$I$$ is the set of internal states, which we leave unspecified,
+* $$A$$ is the set of keycodes plus actions for mouse usage,
+* $$\text{observe}$$ maps the environment to the computer screen; this will sometimes be correlated with the rest of the environment, e.g., through the news,
+* $$\text{orient}$$ maps the computer screen to an internal state, which we leave unspecified,
+* $$\text{execute}$$ describes how keycodes and mouse actions interact with the computer.
 
-Additionally, let our agent's utility function be $U_{\{E\}}(e, t) = \text{the number of paperclips in $e$}$.
+Additionally, let our agent's utility function be $$U_{\{E\}}(e, t) = \text{the number of paperclips in $$e$$}$$.
 
 Many of these functions are not feasible to compute. In practice, the agent would be approximating these functions using abstractions, similar to the way humans can determine the consequences of their actions. This formalism makes clear that paperclip maximizers have environment-based utility functions.
 
@@ -109,55 +109,55 @@ Many of these functions are not feasible to compute. In practice, the agent woul
 
 Twitch-bot is a time-limited myopic action-based consequential agent that cares only about twitching. Twitch-bot has no sensors and is stateless. We can represent twitch-bot in a CWM+U as follows:
 
-* $E$ is all ways the universe could be,
-* $O = \{\emptyset\}$; twitch-bot can only receive the empty observation,
-* $I = \{\emptyset\}$; twitch-bot has only the empty state,
-* $A = \{\text{twitch}, \emptyset\}$; twitch-bot has only two actions, twitching and not twitching,
-* $\text{observe}$ always gives $\emptyset$,
-* $\text{orient}$ always gives $\emptyset$,
-* $\text{execute}$ describes how twitching affects the world,
+* $$E$$ is all ways the universe could be,
+* $$O = \{\emptyset\}$$; twitch-bot can only receive the empty observation,
+* $$I = \{\emptyset\}$$; twitch-bot has only the empty state,
+* $$A = \{\text{twitch}, \emptyset\}$$; twitch-bot has only two actions, twitching and not twitching,
+* $$\text{observe}$$ always gives $$\emptyset$$,
+* $$\text{orient}$$ always gives $$\emptyset$$,
+* $$\text{execute}$$ describes how twitching affects the world,
 
-Additionally, let our agent's utility function be $U_{\{A\}}(\text{twitch}, 0) = 1$, with $U_{\{A\}}(a, t) = 0$ otherwise.
+Additionally, let our agent's utility function be $$U_{\{A\}}(\text{twitch}, 0) = 1$$, with $$U_{\{A\}}(a, t) = 0$$ otherwise.
 
-The optimal $\text{decide}$ for this CWM+U always outputs $\text{twitch}$. 
+The optimal $$\text{decide}$$ for this CWM+U always outputs $$\text{twitch}$$. 
 
 ### Example: Akrasia
 
-Humans sometimes suffer from akrasia, or weakness of will. These humans maximize expected utility in some mental states but act habitually in others. Such humans have utility functions of type $\{E, I, A\}$; in some internal states, the human is an environment-based consequential agent, and in other internal states, the human is an action-based consequential agent.
+Humans sometimes suffer from akrasia, or weakness of will. These humans maximize expected utility in some mental states but act habitually in others. Such humans have utility functions of type $$\{E, I, A\}$$; in some internal states, the human is an environment-based consequential agent, and in other internal states, the human is an action-based consequential agent.
 
 ## Relation to Partially Observable Markov Decision Processes
 
-We desire to compare the expressiveness of CWMs to POMDPs. Since we want to compare CWMs to POMDPs directly, we require that the agents inside each have the same types. We will call a POMDP $P$ *equivalent* to CWM $C$ if there exists a utility function $U$ such that the agent optimal in $P$ is optimal with respect to $U$ in $C$ and vice-versa. 
+We desire to compare the expressiveness of CWMs to POMDPs. Since we want to compare CWMs to POMDPs directly, we require that the agents inside each have the same types. We will call a POMDP $$P$$ *equivalent* to CWM $$C$$ if there exists a utility function $$U$$ such that the agent optimal in $$P$$ is optimal with respect to $$U$$ in $$C$$ and vice-versa. 
 
-### Partially Observable Markov Decision Processes $\subseteq$ Cartesian World Models
+### Partially Observable Markov Decision Processes $$\subseteq$$ Cartesian World Models
 
-Given a POMDP, we can construct a *Cartesian world model + utility function* (CWM+U) that has an equivalent optimal consequential agent. Let $(S', A', T', R', \Omega', O', \gamma)$ be a POMDP, where
+Given a POMDP, we can construct a *Cartesian world model + utility function* (CWM+U) that has an equivalent optimal consequential agent. Let $$(S', A', T', R', \Omega', O', \gamma)$$ be a POMDP, where
 
-* $S'$ is a set of states,
-* $A'$ is a set of actions,
-* $T'$ is a set of conditional transition probabilities between states,
-* $R':S' \times A' \to \mathbb R$ is the reward function,
-* $\Omega'$ is the set of observations,
-* $O'$ is the set of conditional observation probabilities, and
-* $\gamma \in [0, 1]$ is the discount factor.
+* $$S'$$ is a set of states,
+* $$A'$$ is a set of actions,
+* $$T'$$ is a set of conditional transition probabilities between states,
+* $$R':S' \times A' \to \mathbb R$$ is the reward function,
+* $$\Omega'$$ is the set of observations,
+* $$O'$$ is the set of conditional observation probabilities, and
+* $$\gamma \in [0, 1]$$ is the discount factor.
 
-Recall that an optimal POMDP agent maximizes $\mathbb E[\sum_{t = 0}^\infty \gamma^t r_t]$, where $r_t$ is the reward earned at time $t$.
+Recall that an optimal POMDP agent maximizes $$\mathbb E[\sum_{t = 0}^\infty \gamma^t r_t]$$, where $$r_t$$ is the reward earned at time $$t$$.
 
-Let our Cartesian world model be a 7-tuple $(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$ defined as follows: 
+Let our Cartesian world model be a 7-tuple $$(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$$ defined as follows: 
 
-* $E = S'$,
-* $O = \Omega'$
-* $I = \Delta S'$, the set of belief distributions over $S'$,
-* $A = A'$,
-* $\text{observe} = O$,
-* $\text{orient}(o, i)$ describes the Bayesian update of a belief distribution when a new observation is made, and
-* $\text{execute} = T'$
+* $$E = S'$$,
+* $$O = \Omega'$$
+* $$I = \Delta S'$$, the set of belief distributions over $$S'$$,
+* $$A = A'$$,
+* $$\text{observe} = O$$,
+* $$\text{orient}(o, i)$$ describes the Bayesian update of a belief distribution when a new observation is made, and
+* $$\text{execute} = T'$$
 
-Additionally, let our agent's utility function be $U_{\{E, A\}}(e, a, t) = R'(e, a)\gamma^t$.
+Additionally, let our agent's utility function be $$U_{\{E, A\}}(e, a, t) = R'(e, a)\gamma^t$$.
 
-Since a POMDP has the Markov property for beliefs over states, an agent in the CWM+U has information as an agent in the POMDP. Consequential agents in CWMs maximize $\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)]$. Substituting, this is equivalent to $\mathbb E [ \sum_{t = 0}^\infty U_{\{E, A\}}(c_t|_{\{E, A\}}, t)]$. $U_{\{E, A\}}(c_t|_{\{E, A\}}, t) = R'(e_t, a_t) \gamma^t = r_t  \gamma^t$, so  $\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)] = \mathbb E[\sum_{t = 0}^\infty r_t \gamma^t]$. Thus our agents are maximizing the same quantity, so an agent is optimal with respect to the CWM+U if and only if it is optimal with respect to the POMDP.
+Since a POMDP has the Markov property for beliefs over states, an agent in the CWM+U has information as an agent in the POMDP. Consequential agents in CWMs maximize $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)]$$. Substituting, this is equivalent to $$\mathbb E [ \sum_{t = 0}^\infty U_{\{E, A\}}(c_t|_{\{E, A\}}, t)]$$. $$U_{\{E, A\}}(c_t|_{\{E, A\}}, t) = R'(e_t, a_t) \gamma^t = r_t  \gamma^t$$, so  $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t|_T, t)] = \mathbb E[\sum_{t = 0}^\infty r_t \gamma^t]$$. Thus our agents are maximizing the same quantity, so an agent is optimal with respect to the CWM+U if and only if it is optimal with respect to the POMDP.
 
-### Cartesian World Models $\not\subseteq$ Partially Observable Markov Decision Processes
+### Cartesian World Models $$\not\subseteq$$ Partially Observable Markov Decision Processes
 
 If we require the CWM agent to have the same type signature as in the POMDP, some CWMs do not have equivalent POMDPs. Agents in CWMs map internal states to actions, whereas agents in POMDPs map internal belief distributions over states into actions. Therefore, agents optimal in a POMDP have infinite internal states. Since one can construct a CWM with finite internal states, there must exist a CWM that cannot be converted to an equivalent POMDP.
 
@@ -169,41 +169,41 @@ This non-equivalence is basically a technicality and thus unsatisfying. A more s
 
 ## Structural Decision Making
 
-In contrast to consequential agents, structural agents have utility functions over structural types. We model structural agents as reasoning about a CWM with a modified decision procedure. In this framework, the agent is not trying to select utility-maximizing actions but instead trying to enforce utility-maximizing relations between consequential types. The agent is optimizing over the set of possible $\text{decide}$ functions instead of the set of possible actions. Note that an agent optimizing in this way could still have utility functions of multiple types in the same way that an environment-based consequential agent still optimizes over its possible actions.
+In contrast to consequential agents, structural agents have utility functions over structural types. We model structural agents as reasoning about a CWM with a modified decision procedure. In this framework, the agent is not trying to select utility-maximizing actions but instead trying to enforce utility-maximizing relations between consequential types. The agent is optimizing over the set of possible $$\text{decide}$$ functions instead of the set of possible actions. Note that an agent optimizing in this way could still have utility functions of multiple types in the same way that an environment-based consequential agent still optimizes over its possible actions.
 
-Let a Cartesian World Model plus Self (CWM+S) be a 8-tuple $(E, O, I, A, \text{observe}, \text{orient}, \text{execute}, \text{decide})$, where the first 7 are a CWM and the last entry is the $\text{decide}$ function of an agent. Let $\mathcal{CWM+S}$ be the set of all CWS+Ss.[^underspecified] The utility function of a structural agent is a function $U: \mathcal{CWM+S} \to \mathbb R$ that assigns utility to each CWS+S.
+Let a Cartesian World Model plus Self (CWM+S) be a 8-tuple $$(E, O, I, A, \text{observe}, \text{orient}, \text{execute}, \text{decide})$$, where the first 7 are a CWM and the last entry is the $$\text{decide}$$ function of an agent. Let $$\mathcal{CWM+S}$$ be the set of all CWS+Ss.[^underspecified] The utility function of a structural agent is a function $$U: \mathcal{CWM+S} \to \mathbb R$$ that assigns utility to each CWS+S.
 
-Let $\mathcal C$ be a CWM and $\text{decide}:I \to A$ be a decision function. Let $\mathcal C + \text{decide}$ be the CWM+S that agrees with $\mathcal C$ for the first 7 entries and is equal to $\text{decide}$ for the 8th. This construction omits acausal implications of changing $\text{decide}$. A method of constructing CWM+Ss that include acausal implications is currently an open problem.
+Let $$\mathcal C$$ be a CWM and $$\text{decide}:I \to A$$ be a decision function. Let $$\mathcal C + \text{decide}$$ be the CWM+S that agrees with $$\mathcal C$$ for the first 7 entries and is equal to $$\text{decide}$$ for the 8th. This construction omits acausal implications of changing $$\text{decide}$$. A method of constructing CWM+Ss that include acausal implications is currently an open problem.
 
 [^underspecified]: Constructing this set is technically impossible. In practice, it can be replaced by the set of all finite CWS+Ss.
 
-Recall that $A^I$ is the set of all functions from $I$ to $A$. A structural agent reasoning according to a CWM $\mathcal C$ acts to implement $\text{decide}^* = \text{arg}\max_{\text{decide} \in A^I} U(\mathcal C + \text{decide})$. Behaviorally, when given an internal state $i$, an optimal structural agent will take $a = \text{decide}^*(i)$
+Recall that $$A^I$$ is the set of all functions from $$I$$ to $$A$$. A structural agent reasoning according to a CWM $$\mathcal C$$ acts to implement $$\text{decide}^* = \text{arg}\max_{\text{decide} \in A^I} U(\mathcal C + \text{decide})$$. Behaviorally, when given an internal state $$i$$, an optimal structural agent will take $$a = \text{decide}^*(i)$$
 
 ## Examples
 
 ### Pseudo-example: Updateless Decision Theory
 
-An agent using updateless decision theory (UDT) is a structural agent with a consequential utility function over environmental states reasoning over a CWM+S that includes acausal implications. In order to convert the consequential utility function $U_b$ into a structural one $U_s$, we simply define $U_s(\mathcal C + \text{decide})$ by rolling out $\mathcal C + \text{decide}$ to produce a sequence $e_0, e_1, e_2, ...$ of environmental states and let $U_s(\mathcal C + \text{decide}) = \sum_{t = 0}^\infty U_b(e_t)\lambda^t$ with some discount factor $\lambda$. 
+An agent using updateless decision theory (UDT) is a structural agent with a consequential utility function over environmental states reasoning over a CWM+S that includes acausal implications. In order to convert the consequential utility function $$U_b$$ into a structural one $$U_s$$, we simply define $$U_s(\mathcal C + \text{decide})$$ by rolling out $$\mathcal C + \text{decide}$$ to produce a sequence $$e_0, e_1, e_2, ...$$ of environmental states and let $$U_s(\mathcal C + \text{decide}) = \sum_{t = 0}^\infty U_b(e_t)\lambda^t$$ with some discount factor $$\lambda$$. 
 
 ### Example: Structural HCH-bot
 
-In the limit of training, [imitative amplification](https://www.alignmentforum.org/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai#2__Imitative_amplification___intermittent_oversight) produces [Human consulting HCH](https://www.lesswrong.com/posts/NXqs4nYXaq8q6dTTx/humans-consulting-hch)(HCH). We describe a structural agent that is implementing HCH.[^structure] The agent receives input via computer terminal and outputs text to the same terminal. It has 1 Mb of memory. In the following, let $\Sigma$ be the alphabet of some human language, including punctuation and spaces:
+In the limit of training, [imitative amplification](https://www.alignmentforum.org/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai#2__Imitative_amplification___intermittent_oversight) produces [Human consulting HCH](https://www.lesswrong.com/posts/NXqs4nYXaq8q6dTTx/humans-consulting-hch)(HCH). We describe a structural agent that is implementing HCH.[^structure] The agent receives input via computer terminal and outputs text to the same terminal. It has 1 Mb of memory. In the following, let $$\Sigma$$ be the alphabet of some human language, including punctuation and spaces:
 
 [^structure]: We contrast this to an agent whose internals are structured like HCH, i.e., it has models of humans consulting other models of humans. An agent with this structure is likely more transparent and less competitive than an agent trying to enforce the same input-output mapping as HCH.
 
-* $E$ is all ways the universe could be,
-* $O = \Sigma^*$, all finite strings from $\Sigma$,
-* $I = \mathcal P(\{n \mid 0 \leq n < 8 \times 10^6\})$, the set ways 1 Mb of memory can be,
-* $A = \Delta \Sigma^{<1000}$, the set of probability distributions over strings from $\Sigma$ of less than 1000 characters,
-* $\text{observe}$ yields the command typed in at the computer terminal with probability ~1,
-* $\text{orient}$ stores the last 1 Mb of the string given by $\text{observe}$,
-* $\text{execute}$ describes the world state after outputting a given string at the terminal.
+* $$E$$ is all ways the universe could be,
+* $$O = \Sigma^*$$, all finite strings from $$\Sigma$$,
+* $$I = \mathcal P(\{n \mid 0 \leq n < 8 \times 10^6\})$$, the set ways 1 Mb of memory can be,
+* $$A = \Delta \Sigma^{<1000}$$, the set of probability distributions over strings from $$\Sigma$$ of less than 1000 characters,
+* $$\text{observe}$$ yields the command typed in at the computer terminal with probability ~1,
+* $$\text{orient}$$ stores the last 1 Mb of the string given by $$\text{observe}$$,
+* $$\text{execute}$$ describes the world state after outputting a given string at the terminal.
 
-Let $P$ be some distribution over possible inputs. Let $\text{HCH}: I \to \Delta A$ be the HCH function. Let our agents utility function $U$ be defined as $U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) || \text{decide}(i))]$.[^KL]
+Let $$P$$ be some distribution over possible inputs. Let $$\text{HCH}: I \to \Delta A$$ be the HCH function. Let our agents utility function $$U$$ be defined as $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) || \text{decide}(i))]$$.[^KL]
 
-[^KL]: This utility function is flawed because the asymmetry of KL-divergence might make slightly suboptimal agents catastrophic, i.e., agents that rarely take actions $\text{HCH}$ would never take will only be slightly penalized. Constructing a utility function that is not catastrophic if approximated remains an open problem.
+[^KL]: This utility function is flawed because the asymmetry of KL-divergence might make slightly suboptimal agents catastrophic, i.e., agents that rarely take actions $$\text{HCH}$$ would never take will only be slightly penalized. Constructing a utility function that is not catastrophic if approximated remains an open problem.
 
-It is unclear which $P$ makes the agent behave properly. One possibility is to have $P$ be the distribution of what questions a human is likely to ask.[^acausal] Any powerful agent likely has a human model, so using the human distribution might not add much complexity.
+It is unclear which $$P$$ makes the agent behave properly. One possibility is to have $$P$$ be the distribution of what questions a human is likely to ask.[^acausal] Any powerful agent likely has a human model, so using the human distribution might not add much complexity.
 
 [^acausal]: What a human asks the agent depends on the agent's properties, so using the human distribution has acausal implications. See [Open Problems with Myopia](https://www.alignmentforum.org/posts/LCLBnmwdxkkz5fNvH/open-problems-with-myopia) for further discussion. 
 
@@ -211,7 +211,7 @@ It is unclear which $P$ makes the agent behave properly. One possibility is to h
 
 A consequential [approval-maximizing agent](https://ai-alignment.com/model-free-decisions-6e6609f5d99e) takes the action that gets the highest approval from a human overseer. Such agents have an incentive to tamper with their reward channels, e.g., by persuading the human they are conscious and deserve reward.
 
-In contrast, a structural approval-maximizing agent implements the $\text{decide}$ function that gets the highest approval from a human overseer. Such agents have no incentive to *directly* tamper with their reward channels, but they still might implement decision functions that appear safe without being safe. However, a $\text{decide}$ function that overtly manipulates the overseer will get low approval, so structural approval-maximizing agents avoid parts of the reward tampering problem.
+In contrast, a structural approval-maximizing agent implements the $$\text{decide}$$ function that gets the highest approval from a human overseer. Such agents have no incentive to *directly* tamper with their reward channels, but they still might implement decision functions that appear safe without being safe. However, a $$\text{decide}$$ function that overtly manipulates the overseer will get low approval, so structural approval-maximizing agents avoid parts of the reward tampering problem.
 
 This example is inspired by the decoupled approval described in Uesato et al.[^uesato]
 
@@ -221,25 +221,25 @@ This example is inspired by the decoupled approval described in Uesato et al.[^u
 
 There are roughly four types of consequential agents, one for each consequential type. This correspondence suggests there are four types of structural agents, one for each structural type.
 
-Agents with utility functions over $\text{decide}$ are coherent. However, since we do not include acausal implications when constructing a CWM+S, agents with utility functions over $\text{orient}$, $\text{observe}$, or $\text{execute}$ have constant utility. More specifically, the agent only has control over its own $\text{decide}$ function, which does not have influence over $\text{orient}$, $\text{observe}$, or $\text{execute}$ (within the CWM+S), so agents with utility functions over those types will not be able to change anything they care about. How structural agents act when we include acausal implications is currently an open problem.
+Agents with utility functions over $$\text{decide}$$ are coherent. However, since we do not include acausal implications when constructing a CWM+S, agents with utility functions over $$\text{orient}$$, $$\text{observe}$$, or $$\text{execute}$$ have constant utility. More specifically, the agent only has control over its own $$\text{decide}$$ function, which does not have influence over $$\text{orient}$$, $$\text{observe}$$, or $$\text{execute}$$ (within the CWM+S), so agents with utility functions over those types will not be able to change anything they care about. How structural agents act when we include acausal implications is currently an open problem.
 
 ### Utility/Decision Distinction
 
 Besides having utility functions with different type signatures, structural agents also make decisions differently. We have two dimensions of variation: structural versus consequential utility functions and structural versus consequential decision-making. These dimensions produce four possible agents: pure consequential, pure structural, decision-consequential utility-structural, and decision-structural utility-consequential.
 
-A pure consequential agent makes consequential decisions to maximize a consequential utility function; it reasons about how taking a certain action affects the future sequence of consequential types. A purely consequential environment-based agent takes actions to maximize $\sum_{t = 0}^\infty U(e_t) \gamma ^t$ for some discount factor $\gamma$.
+A pure consequential agent makes consequential decisions to maximize a consequential utility function; it reasons about how taking a certain action affects the future sequence of consequential types. A purely consequential environment-based agent takes actions to maximize $$\sum_{t = 0}^\infty U(e_t) \gamma ^t$$ for some discount factor $$\gamma$$.
 
-A pure structural agent makes structural decision to maximize structural utility function; it reasons about how implementing a certain $\text{decide}$ affect the structural types of its CWM+S. A purely structural $\text{decide}$-based agent implements the $\text{decide}$ function to maximize $U(\mathcal C + \text{decide})$, where $\mathcal C$ is the agent's CWM.
+A pure structural agent makes structural decision to maximize structural utility function; it reasons about how implementing a certain $$\text{decide}$$ affect the structural types of its CWM+S. A purely structural $$\text{decide}$$-based agent implements the $$\text{decide}$$ function to maximize $$U(\mathcal C + \text{decide})$$, where $$\mathcal C$$ is the agent's CWM.
 
-A decision-consequential utility-structural agent makes consequential decisions to maximize a structural utility function; it reasons about how taking a certain action affects how it models the world. For example, a decision-consequential utility-structural $\text{orient}$-based agent might rewrite its source code. If decision-consequential utility-structural agents are not time-limited myopic, they will take over the world to securely achieve desired CWM structural properties.[^take-over]
+A decision-consequential utility-structural agent makes consequential decisions to maximize a structural utility function; it reasons about how taking a certain action affects how it models the world. For example, a decision-consequential utility-structural $$\text{orient}$$-based agent might rewrite its source code. If decision-consequential utility-structural agents are not time-limited myopic, they will take over the world to securely achieve desired CWM structural properties.[^take-over]
 
 [^take-over]: The inverse might not hold. Time-limited myopic agents might also take over the world for reasons described [here](https://www.alignmentforum.org/posts/LCLBnmwdxkkz5fNvH/open-problems-with-myopia)
 
 A decision-structural utility-consequential agent makes structural decisions to maximize a consequential utility function. If only causal implications are included, a decision-structural utility-consequential agent behaves identically to a purely consequential agent. If we include acausal implications, decision-structural utility-consequential agents resemble UDT agents. Traditional UDT agents are decision-structural utility-consequential environment-based agents.
 
-### Pure Structural $\text{decide}$-based Agents = Time-Limited Myopic Action/Internal-based Behavioral Agents
+### Pure Structural $$\text{decide}$$-based Agents = Time-Limited Myopic Action/Internal-based Behavioral Agents
 
-Pure structural $\text{decide}$-based agents can be expressed as time-limited myopic action/internal-based consequential agents and vice versa. Let $\text{decide}^*$ be optimal according to our pure structural agent's utility function. To construct an action/internal-based consequential utility function for which $\text{decide}^*$ is optimal, define $U$ such that $\forall i \in I, a \in A: U(i, a) = 1 \iff \text{decide}^*(i) = a$ and $0$ otherwise. To show the inverse, construct a structural utility function maximal utility to the time-limited myopic action/internal-based consequential agent's decision function.
+Pure structural $$\text{decide}$$-based agents can be expressed as time-limited myopic action/internal-based consequential agents and vice versa. Let $$\text{decide}^*$$ be optimal according to our pure structural agent's utility function. To construct an action/internal-based consequential utility function for which $$\text{decide}^*$$ is optimal, define $$U$$ such that $$\forall i \in I, a \in A: U(i, a) = 1 \iff \text{decide}^*(i) = a$$ and $$0$$ otherwise. To show the inverse, construct a structural utility function maximal utility to the time-limited myopic action/internal-based consequential agent's decision function.
 
 These agents are behaviorally identical but mechanistically distinct; they use different decision mechanisms and have different types of utility functions. 
 
@@ -255,9 +255,9 @@ In contrast, our framework makes a sharp distinction between agents that use con
 
 ## Input Distribution Problem
 
-$\text{decide}$-based structural agents attempt to implement specific $\text{decide}$ functions, which will often require determining the distance to a target function, e.g. the HCH function. Unless the distance metric treats all inputs identically, such as with sup norm, the metric requires a distribution over inputs. For instance, recall structural HCH-bots's utility function, $U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) || \text{decide}(i))]$, depends on an input distribution $P$.
+$$\text{decide}$$-based structural agents attempt to implement specific $$\text{decide}$$ functions, which will often require determining the distance to a target function, e.g. the HCH function. Unless the distance metric treats all inputs identically, such as with sup norm, the metric requires a distribution over inputs. For instance, recall structural HCH-bots's utility function, $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) || \text{decide}(i))]$$, depends on an input distribution $$P$$.
 
-However, the distribution of inputs depends on how the agent responds to various inputs, creating an acausal implication between the agent's actions and what inputs it receives. For example, what you google depends on Google's capabilities. Since the agent's utility depends on the inputs it receives, this acausal implication incentivizes the agent to implement a $\text{decide}$ function that shifts the distribution towards high-scoring inputs. The agent is not optimizing over $\text{decide}$ functions, but rather jointly optimizing over $\text{decide}$, input distribution pairs. More concretely, the agent has an incentive to hide its full capabilities so it will not be asked difficult questions. If the agent can only answer questions with obvious answers, it will probably be asked questions with easy answers, acausally shifting $P$ to a higher utility distribution.[^predictomatic]
+However, the distribution of inputs depends on how the agent responds to various inputs, creating an acausal implication between the agent's actions and what inputs it receives. For example, what you google depends on Google's capabilities. Since the agent's utility depends on the inputs it receives, this acausal implication incentivizes the agent to implement a $$\text{decide}$$ function that shifts the distribution towards high-scoring inputs. The agent is not optimizing over $$\text{decide}$$ functions, but rather jointly optimizing over $$\text{decide}$$, input distribution pairs. More concretely, the agent has an incentive to hide its full capabilities so it will not be asked difficult questions. If the agent can only answer questions with obvious answers, it will probably be asked questions with easy answers, acausally shifting $$P$$ to a higher utility distribution.[^predictomatic]
 
 This acausal implication reduces capabilities, but it also might be a problem for alignment. The capabilities hit from acausally optimizing the input distribution does not appear to intrinsically produce alignment failures, but the problem arises only when the agent thinks of itself as having logical control over other instances of itself. This pattern of reasoning potentially results in deceptive alignment arising through acausal means. [^openproblems] In general, any agent that has uncertainty over its input might be able to acausally influence the input distribution, potentially resulting in undesirable behavior.
 
@@ -270,7 +270,7 @@ This acausal implication reduces capabilities, but it also might be a problem fo
 
 Traditional utility functions map types, e.g., environmental states, to utility. In contrast, conditional utility functions map types to utility functions. For example, an environment-conditional utility function takes in an environmental state and yields a utility function over other environmental states, actions, observations, internal states, etc. We will refer to the utility function given by a conditional utility function as the base utility function.
 
-Conditional agents might make decisions in the following way. Let $\mathcal U$ be a conditional utility function. Upon having internal state $i$, the agent acts as if it has utility function $U = \mathcal U(\text{argmax}_{s \in \mathcal S}P(s|i))$, where $\mathcal S$ varies between $\mathcal E$, $\mathcal O$, $\mathcal I$, and $\mathcal A$ depending on whether $\mathcal U$ is environmental, observational, or structural conditional. The agent reasons as if it were a structural or consequential agent depending on the utility function.[^MAP]Action-based agents might run into issues around logical uncertainty.
+Conditional agents might make decisions in the following way. Let $$\mathcal U$$ be a conditional utility function. Upon having internal state $$i$$, the agent acts as if it has utility function $$U = \mathcal U(\text{argmax}_{s \in \mathcal S}P(s|i))$$, where $$\mathcal S$$ varies between $$\mathcal E$$, $$\mathcal O$$, $$\mathcal I$$, and $$\mathcal A$$ depending on whether $$\mathcal U$$ is environmental, observational, or structural conditional. The agent reasons as if it were a structural or consequential agent depending on the utility function.[^MAP]Action-based agents might run into issues around logical uncertainty.
 
 [^MAP]: Here, the agent is reasoning according to the maximum probability world state, a trick inspired by Cohen et al.'s [Asymtotically Unambitious Artificial General Intelligence](https://arxiv.org/pdf/1905.12186.pdf).
 
@@ -278,25 +278,25 @@ Conditional agents might make decisions in the following way. Let $\mathcal U$ b
 
 ### Example: Value Learner
 
-A simple value-learning agent observes a human and infers the human utility function, which the agent then optimizes. Ignoring the issues inherent in inference, such an agent can be thought of as having a conditional utility function that maps observations to utility functions over environmental states, i.e., of type $\mathcal O \to (\mathcal E \times \mathbb N \to \mathbb R)$ (Recall that we include explicit time-dependence to allow for arbitrary discounting possibilities).
+A simple value-learning agent observes a human and infers the human utility function, which the agent then optimizes. Ignoring the issues inherent in inference, such an agent can be thought of as having a conditional utility function that maps observations to utility functions over environmental states, i.e., of type $$\mathcal O \to (\mathcal E \times \mathbb N \to \mathbb R)$$ (Recall that we include explicit time-dependence to allow for arbitrary discounting possibilities).
 
-Shah et al.'s [Preferences Implicit in the State of the World](https://arxiv.org/abs/1902.04198) attempts to construct agents that infer human preferences based on the current environmental state. In our framework, these agents have conditional utility functions that map environmental states to utility functions over environmental states, i.e., of type $\mathcal E \to (\mathcal E \times \mathbb N \to \mathbb R)$.
+Shah et al.'s [Preferences Implicit in the State of the World](https://arxiv.org/abs/1902.04198) attempts to construct agents that infer human preferences based on the current environmental state. In our framework, these agents have conditional utility functions that map environmental states to utility functions over environmental states, i.e., of type $$\mathcal E \to (\mathcal E \times \mathbb N \to \mathbb R)$$.
 
 ### Example: Argmax
 
-Given a CWM, $\text{argmax}$ takes in a utility function and outputs the action that maximizes that utility function. Since $\text{argmax}$ only has access to its internal representation of the utility function, we can think of $\text{argmax}$ as having a conditional utility function that maps internal states to utility functions over all types, i.e. of type $\mathcal I \to (\mathcal A \times \mathcal O \times \mathcal E \times \mathcal I \times \mathbb N \to \mathbb R)$.
+Given a CWM, $$\text{argmax}$$ takes in a utility function and outputs the action that maximizes that utility function. Since $$\text{argmax}$$ only has access to its internal representation of the utility function, we can think of $$\text{argmax}$$ as having a conditional utility function that maps internal states to utility functions over all types, i.e. of type $$\mathcal I \to (\mathcal A \times \mathcal O \times \mathcal E \times \mathcal I \times \mathbb N \to \mathbb R)$$.
 
 ### Example: Imprinting-bot
 
-Imprinting-bot is an agent that tries to imitate the first thing it sees, similar to how a baby duck might follow around the first thing it sees when it opens its eyes. Such an agent can be thought of as having a conditional utility function that maps observations to utility functions over $\text{decide}$ functions, i.e., of type $\mathcal O \to (\mathcal A^{\mathcal I} \to \mathbb R)$.
+Imprinting-bot is an agent that tries to imitate the first thing it sees, similar to how a baby duck might follow around the first thing it sees when it opens its eyes. Such an agent can be thought of as having a conditional utility function that maps observations to utility functions over $$\text{decide}$$ functions, i.e., of type $$\mathcal O \to (\mathcal A^{\mathcal I} \to \mathbb R)$$.
 
 ### Example: Conditional HCH-bot
 
-Recall that $\text{HCH}: \mathcal I \to \Delta \mathcal A$ is the HCH function. Let $\text{HCH}(i)$ be the distribution of actions HCH would take given internal state $i$. Let $\text{HCH}(i)(a)$ be the probability that HCH takes action $a$ when internal state $i$. 
+Recall that $$\text{HCH}: \mathcal I \to \Delta \mathcal A$$ is the HCH function. Let $$\text{HCH}(i)$$ be the distribution of actions HCH would take given internal state $$i$$. Let $$\text{HCH}(i)(a)$$ be the probability that HCH takes action $$a$$ when internal state $$i$$. 
 
-Structural HCH-bot gets higher utility for implementing $\text{decide}$ functions that are closer to HCH in terms of expected KL-divergence relative to some input distribution. Conditional behavioral-HCH-bot conditions on the internal state, then gets utility for outputting distributions closer to the distribution HCH would output given its current internal state as input. More precisely, conditional behavioral-HCH-bot has a conditional utility function defined by $\mathcal U:\mathcal I \to (\mathcal A \times \mathbb N \to \mathbb R) := i \mapsto ((a, n) \mapsto -\log(\text{HCH}(i)(a)) \text{ if } n = 0 \text{ else } 0)$. 
+Structural HCH-bot gets higher utility for implementing $$\text{decide}$$ functions that are closer to HCH in terms of expected KL-divergence relative to some input distribution. Conditional behavioral-HCH-bot conditions on the internal state, then gets utility for outputting distributions closer to the distribution HCH would output given its current internal state as input. More precisely, conditional behavioral-HCH-bot has a conditional utility function defined by $$\mathcal U:\mathcal I \to (\mathcal A \times \mathbb N \to \mathbb R) := i \mapsto ((a, n) \mapsto -\log(\text{HCH}(i)(a)) \text{ if } n = 0 \text{ else } 0)$$. 
 
-Conditional structural-HCH-bot conditions on the internal state, then attempts to implement a $\text{decide}$ function close to HCH. More precisely, conditional structural-HCH-bot has a conditional utility function described by $\mathcal U: \mathcal I \to (\mathcal A^\mathcal I \to \mathbb R) := i \mapsto (\text{decide} \mapsto KL(\text{HCH}(i)||\text{decide}(i)))$.
+Conditional structural-HCH-bot conditions on the internal state, then attempts to implement a $$\text{decide}$$ function close to HCH. More precisely, conditional structural-HCH-bot has a conditional utility function described by $$\mathcal U: \mathcal I \to (\mathcal A^\mathcal I \to \mathbb R) := i \mapsto (\text{decide} \mapsto KL(\text{HCH}(i)||\text{decide}(i)))$$.
 
 ## Conditioning Type is Observationally Indistinguishable
 
@@ -304,13 +304,13 @@ Following a similar argument to previous sections, the type an agent conditions 
 
 However, there seem to be natural ways to describe certain conditional agents. For instance, one can consider a value learning agent that conditions upon various types. An environmental-conditional value learner looks at the world and infers a utility function. An observational-conditional value learner needs to observe a representation of the utility function. An internal-conditional value learner needs a representation of the utility function in its internal state. At each stage, more of the information must be explicitly encoded for "learning" to take place.
 
-These agents can be distinguished by counterfactually different $\text{observe}$ and $\text{orient}$ maps. Back inference should happen differently for different $\text{observe}$ and $\text{orient}$ mappings, causing agents to potentially act differently. Environmental-conditional agents have different utility functions (and potentially take different actions) if either the $\text{observe}$ or $\text{orient}$ mappings differed. Observation conditional agents are stable under changes to $\text{observe}$, but act differently if $\text{orient}$ differed. Internal conditional agents should not care if either $\text{observe}$ or $\text{orient}$ differed.
+These agents can be distinguished by counterfactually different $$\text{observe}$$ and $$\text{orient}$$ maps. Back inference should happen differently for different $$\text{observe}$$ and $$\text{orient}$$ mappings, causing agents to potentially act differently. Environmental-conditional agents have different utility functions (and potentially take different actions) if either the $$\text{observe}$$ or $$\text{orient}$$ mappings differed. Observation conditional agents are stable under changes to $$\text{observe}$$, but act differently if $$\text{orient}$$ differed. Internal conditional agents should not care if either $$\text{observe}$$ or $$\text{orient}$$ differed.
 
 Doing back inference at any point opens the door to the input distribution problem; only internal-conditional agents do not back-infer.
 
 ## Structural Conditional Utility Functions
 
-In addition to consequential conditional utility functions, there are also structural conditional utility functions. Instead of conditioning on a particular environmental state, an agent can condition upon $\text{execute}$, e.g. by having a conditional utility function of type $\mathcal E^{\mathcal A} \to (\mathcal E \times \mathbb N \to \mathbb R)$. Such structural conditional agents have utility functions that depend on their model of the world.
+In addition to consequential conditional utility functions, there are also structural conditional utility functions. Instead of conditioning on a particular environmental state, an agent can condition upon $$\text{execute}$$, e.g. by having a conditional utility function of type $$\mathcal E^{\mathcal A} \to (\mathcal E \times \mathbb N \to \mathbb R)$$. Such structural conditional agents have utility functions that depend on their model of the world.
 
 For instance, Alice might have a utility function over 3D environmental states. However, suppose that Alice found out the world has four dimensions. Alice might think she gets infinite utility. However, Alice's utility function previously mapped 3D environmental states to utilities, so 4D states produce a type error. For Alice to get infinite utility, a 4D state's utility must generalize to be the infinite sum of all the 3D states it's made of. Instead, Alice might get confused and start reasoning about what utility function she should have in light of her new knowledge. In our framework, Alice has a structural-conditional utility function, i.e., she assigns utilities to 3D environmental states conditional on the fact that she lives in a 3D world.
 
@@ -318,7 +318,7 @@ In general, structural conditional utility functions are resistant to ontologica
 
 ## Type Indistinguishability
 
-The type of a conditional utility function is often mathematically identical to the type of a consequential utility function. For example, a conditional utility function that takes internal states and gives a utility function over actions has type $\mathcal I \to (\mathcal A \times \mathbb N \to \mathbb R)$, which is mathematically equivalent to an internal/act consequential utility function $\mathcal I \times \mathcal A \times \mathbb N \to \mathbb R$. This equivalence is problematic because consequential utility functions do not possess many desirable safety properties.
+The type of a conditional utility function is often mathematically identical to the type of a consequential utility function. For example, a conditional utility function that takes internal states and gives a utility function over actions has type $$\mathcal I \to (\mathcal A \times \mathbb N \to \mathbb R)$$, which is mathematically equivalent to an internal/act consequential utility function $$\mathcal I \times \mathcal A \times \mathbb N \to \mathbb R$$. This equivalence is problematic because consequential utility functions do not possess many desirable safety properties.
 
 We currently remain confused by the implications of this problem but sketch out a potential resolution. Classical Bayesianism accepts [dogmatism of perception](https://www.lesswrong.com/posts/xJyY5QkQvNJpZLJRo/radical-probabilism-1#What_Is_Dogmatic_Probabilism_), i.e., observations, once observed, are believed with probability one. Similarly, we might require that conditional agents accept dogmatism of conditioning, i.e., the agent must believe that the object they are conditioning on occurs with probability one. This requirement neatly solves the input distribution problem; even if the agent thought it had logical control of the input distribution, the input could not have been anything else.
 
@@ -358,14 +358,14 @@ One major problem with this way of conceptualizing agency is that Cartesian boun
 
 Humans have historically thought they were different from the environment. When humans discovered they were made of atoms, they were still able to act. Anthropomorphizing, humans have empirically been robust to ontological crises, so AIs might also be robust.
 
-Even if structural agents can continue acting upon discovering the Cartesian boundary is not real, there might be other undesirable effects. If the agent begins conceptualizing itself as the entire universe, a utility function over $\text{decide}$ reduces to a utility function over environmental states; desirable properties of structural agents are lost. As another example, the agent could start conceptualizing "become a different type of agent" as an action, which might cause it to self-modify into an agent that lacks desirable properties.
+Even if structural agents can continue acting upon discovering the Cartesian boundary is not real, there might be other undesirable effects. If the agent begins conceptualizing itself as the entire universe, a utility function over $$\text{decide}$$ reduces to a utility function over environmental states; desirable properties of structural agents are lost. As another example, the agent could start conceptualizing "become a different type of agent" as an action, which might cause it to self-modify into an agent that lacks desirable properties.
 
 In general, the way a structural agent models the CWM boundary might change the action set and the internal state set. Depending on how the agent's utility function generalizes, this might cause undesirable behavior.
 
 
 ## Myopia might be needed
 
-Purely consequential act/internal-based farsighted agents are incorrigible. If an approval-maximizing agent picks the action trajectory that maximizes total approval, it will avoid being shut down to gain high approval later. While structural agents avoid some of these problems, the highest utility $\text{decide}$ function needs to be myopic, else the problem reappears. The base utility function output by a conditional utility function must also be myopia, else the agent will act to preserve its utility function across time.
+Purely consequential act/internal-based farsighted agents are incorrigible. If an approval-maximizing agent picks the action trajectory that maximizes total approval, it will avoid being shut down to gain high approval later. While structural agents avoid some of these problems, the highest utility $$\text{decide}$$ function needs to be myopic, else the problem reappears. The base utility function output by a conditional utility function must also be myopia, else the agent will act to preserve its utility function across time.
 
 This analysis suggests myopia might be necessary for safe agents, where myopic agents "only care about the current episode" and "will never sacrifice reward now for reward later." Currently, myopia is not understood well enough to know whether it is sufficient. Myopia also has a [number of open problems](https://www.alignmentforum.org/posts/LCLBnmwdxkkz5fNvH/open-problems-with-myopia).
 
@@ -384,7 +384,7 @@ Given that behavior does not determine agent type, one could use a training proc
 
 ## Conclusion
 
-If one supposes a Cartesian boundary between agent and environment, the agent can value four consequential types (actions, environments, internals, and observations) and four structural types ($\text{observe}$, $\text{orient}$, $\text{decide}$, and $\text{execute}$). We presented *Cartesian world models (CWMs)* to formally model such a boundary and briefly explored the technical and philosophical implications. We then introduced agents that explicitly maximize utility functions over consequential and structural properties of CWMs.
+If one supposes a Cartesian boundary between agent and environment, the agent can value four consequential types (actions, environments, internals, and observations) and four structural types ($$\text{observe}$$, $$\text{orient}$$, $$\text{decide}$$, and $$\text{execute}$$). We presented *Cartesian world models (CWMs)* to formally model such a boundary and briefly explored the technical and philosophical implications. We then introduced agents that explicitly maximize utility functions over consequential and structural properties of CWMs.
 
 We compared consequential agents, structural agents, and conditional agents and argued that conditional agents avoid problems with consequential and structural agents. We concluded by presenting multiple problems, which double as potential directions for further research. 
 
@@ -402,7 +402,7 @@ Consider: are action-based agents wireheading? Neither yes nor no seems reasonab
 
 ## Types are Observationally Indistinguishable
 
-In most cases, it is impossible to determine an agent's type by observing its behavior. In degenerate cases, any set of actions is compatible with a utility function of any combination of $\{E, I, A, O\}$.[^coherent] However, by employing appropriate simplicity priors, we guess the agent's approximate type.
+In most cases, it is impossible to determine an agent's type by observing its behavior. In degenerate cases, any set of actions is compatible with a utility function of any combination of $$\{E, I, A, O\}$$.[^coherent] However, by employing appropriate simplicity priors, we guess the agent's approximate type.
 
 [^coherent]: This is related to Richard's point that [coherent behavior in the world is an incoherent concept](https://www.lesswrong.com/posts/vphFJzK3mWA4PJKAg/coherent-behaviour-in-the-real-world-is-an-incoherent).
 
@@ -414,7 +414,7 @@ Unlike NFAs and DFAs, however, one can construct degenerate CWMs that rule out s
 
 [^random]: Technically, both environmental states could have equal utility, making all policies optimal. This occurrence has measure 0, so we will assume it does not happen. 
 
-In general, the [VNM Theorem](https://www.lesswrong.com/tag/vnm-theorem) rules out some types of utility functions for some sequences of actions. If the agent can act to leave itself unchanged, loops of the same sequences of internal states rule out utility functions of type $\{I\}$. Similarly, loops of the same (internal state, action) pairs rule out utility functions of type $\{I\}, \{A\}$ and $\{I, A\}$. Finally, if the agent ever takes different actions, we can rule out a utility function of type $\{A\}$ (assuming the action space is not changing).[^action]
+In general, the [VNM Theorem](https://www.lesswrong.com/tag/vnm-theorem) rules out some types of utility functions for some sequences of actions. If the agent can act to leave itself unchanged, loops of the same sequences of internal states rule out utility functions of type $$\{I\}$$. Similarly, loops of the same (internal state, action) pairs rule out utility functions of type $$\{I\}, \{A\}$$ and $$\{I, A\}$$. Finally, if the agent ever takes different actions, we can rule out a utility function of type $$\{A\}$$ (assuming the action space is not changing).[^action]
 
 [^action]: Technically, there could be two actions that both had maximal utility. This occurrence has measure 0, so we will assume it does not happen.
 
@@ -448,10 +448,10 @@ It can also be unclear what type of utility function suboptimal agents have. Sup
 
 What exactly does it mean for an agent to improve? Our four-map model allows us to identify four potential ways. In what follows, we assume the agent is farsighted. We also implicitly relax other optimality assumptions.
 
-*   $\text{observe}$: An agent could expand $O$ or reduce the expected entropy of $\text{observe}(e, a)$. For example, an agent could upgrade its camera, clean the camera lens, or acquire a periscope. Many humans employ sensory aids, like glasses or binoculars. 
-*   $\text{orient}$: An agent could both expand $I$ and reduce the expected entropy of $\text{orient}(o, i)$. For example, an agent could acquire more memory or better train its feature detection algorithms. Many humans improve their introspection ability and memories by meditating or using [spaced repetition software](https://www.gwern.net/Spaced-repetition).
-*   $\text{decide}$: An agent could implement a $\text{decide}$ function that better maximizes expected future utility. For example, a chess-playing agent could search over larger game trees. Many humans attempt to combat cognitive biases in decision-making.
-*   $\text{execute}$: An agent could expand $A$ or decrease the expected entropy of $\text{execute}(e, a)$. For example, a robot could learn how to jump, build itself an extra arm, or refine its physics model. Many humans practice new skills or employ prostheses.
+*   $$\text{observe}$$: An agent could expand $$O$$ or reduce the expected entropy of $$\text{observe}(e, a)$$. For example, an agent could upgrade its camera, clean the camera lens, or acquire a periscope. Many humans employ sensory aids, like glasses or binoculars. 
+*   $$\text{orient}$$: An agent could both expand $$I$$ and reduce the expected entropy of $$\text{orient}(o, i)$$. For example, an agent could acquire more memory or better train its feature detection algorithms. Many humans improve their introspection ability and memories by meditating or using [spaced repetition software](https://www.gwern.net/Spaced-repetition).
+*   $$\text{decide}$$: An agent could implement a $$\text{decide}$$ function that better maximizes expected future utility. For example, a chess-playing agent could search over larger game trees. Many humans attempt to combat cognitive biases in decision-making.
+*   $$\text{execute}$$: An agent could expand $$A$$ or decrease the expected entropy of $$\text{execute}(e, a)$$. For example, a robot could learn how to jump, build itself an extra arm, or refine its physics model. Many humans practice new skills or employ prostheses.
 
 Many actions can make agents more powerful along multiple axes. For example, increasing computation ability might create new actions, increase decision-making ability, and better interpretation processing. Moving to a different location can both create new actions and increase observation ability. 
 
