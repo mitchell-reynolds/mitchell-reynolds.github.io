@@ -83,9 +83,9 @@ MDPs are traditionally used to model decision-making situations; agents trained 
 
 Agents making decisions over CWMs attempt to maximize some utility function. To emphasize that agents can have utility functions of different types, we make the type explicit in our notation. For example, a traditional agent in a POMDP will be maximizing expected utility over an environment-based utility function, which we will denote $$U_{\{E\}}(e, t)$$, with the second parameter making explicit the time-dependence of the utility function.
 
-More formally, let $$\mathbb T$$ be the set of possible consequential type signatures, equal to $$\mathcal P(\{E, O, I, A\})$$. For some $$T \in \mathbb T$$, let $$U_T: T \times \mathbb N \to \mathbb R$$ be the agent's utility function, where $$T$$ can vary between agents. Recall that $$c_t := (e, i, a, o)$$ is at the 4-tuple of CWM context at time $$t$$. Let $$c_t\|_T$$ be $$c_t$$ restricted to only contain elements of types in $$T$$. A consequential agent maximizes expected future utility, which is equal to $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\|_T, t)]$$. 
+More formally, let $$\mathbb T$$ be the set of possible consequential type signatures, equal to $$\mathcal P(\{E, O, I, A\})$$. For some $$T \in \mathbb T$$, let $$U_T: T \times \mathbb N \to \mathbb R$$ be the agent's utility function, where $$T$$ can vary between agents. Recall that $$c_t := (e, i, a, o)$$ is at the 4-tuple of CWM context at time $$t$$. Let $$c_t\mid_T$$ be $$c_t$$ restricted to only contain elements of types in $$T$$. A consequential agent maximizes expected future utility, which is equal to $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\mid_T, t)]$$. 
 
-$$U_T$$'s time-dependence determines how much the agent favors immediate reward over distant reward. When $$t > 0 \implies U_T(c_t\|_T, t) = 0$$ the agent is *time-limited myopic*; it takes actions that yield the largest immediate increase in expected utility. When $$U_T(c_t\|_T, t) \approx U_T(c_t\|_T, t + 1)$$ the agent is *far-sighted*; it maximizes the expected sum of all future utility.
+$$U_T$$'s time-dependence determines how much the agent favors immediate reward over distant reward. When $$t > 0 \implies U_T(c_t\mid_T, t) = 0$$ the agent is *time-limited myopic*; it takes actions that yield the largest immediate increase in expected utility. When $$U_T(c_t\mid_T, t) \approx U_T(c_t\mid_T, t + 1)$$ the agent is *far-sighted*; it maximizes the expected sum of all future utility.
 
 ## Examples
 
@@ -146,16 +146,16 @@ Recall that an optimal POMDP agent maximizes $$\mathbb E[\sum_{t = 0}^\infty \ga
 Let our Cartesian world model be a 7-tuple $$(E, O, I, A, \text{observe}, \text{orient}, \text{execute})$$ defined as follows: 
 
 * $$E = S'$$,
-* $$O = \Omega'$$
+* $$O = \Omega'$$​,
 * $$I = \Delta S'$$, the set of belief distributions over $$S'$$,
 * $$A = A'$$,
 * $$\text{observe} = O$$,
 * $$\text{orient}(o, i)$$ describes the Bayesian update of a belief distribution when a new observation is made, and
-* $$\text{execute} = T'$$
+* $$\text{execute} = T'$$​.
 
 Additionally, let our agent's utility function be $$U_{\{E, A\}}(e, a, t) = R'(e, a)\gamma^t$$.
 
-Since a POMDP has the Markov property for beliefs over states, an agent in the CWM+U has information as an agent in the POMDP. Consequential agents in CWMs maximize $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\|_T, t)]$$. Substituting, this is equivalent to $$\mathbb E [ \sum_{t = 0}^\infty U_{\{E, A\}}(c_t\|_{\{E, A\}}, t)]$$. $$U_{\{E, A\}}(c_t\|_{\{E, A\}}, t) = R'(e_t, a_t) \gamma^t = r_t  \gamma^t$$, so  $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\|_T, t)] = \mathbb E[\sum_{t = 0}^\infty r_t \gamma^t]$$. Thus our agents are maximizing the same quantity, so an agent is optimal with respect to the CWM+U if and only if it is optimal with respect to the POMDP.
+Since a POMDP has the Markov property for beliefs over states, an agent in the CWM+U has information as an agent in the POMDP. Consequential agents in CWMs maximize $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\mid_T, t)]$$. Substituting, this is equivalent to $$\mathbb E [ \sum_{t = 0}^\infty U_{\{E, A\}}(c_t\mid_{\{E, A\}}, t)]$$. $$U_{\{E, A\}}(c_t\mid_{\{E, A\}}, t) = R'(e_t, a_t) \gamma^t = r_t  \gamma^t$$, so  $$\mathbb E [ \sum_{t = 0}^\infty U_T(c_t\mid_T, t)] = \mathbb E[\sum_{t = 0}^\infty r_t \gamma^t]$$. Thus our agents are maximizing the same quantity, so an agent is optimal with respect to the CWM+U if and only if it is optimal with respect to the POMDP.
 
 ### Cartesian World Models $$\not\subseteq$$ Partially Observable Markov Decision Processes
 
@@ -199,9 +199,9 @@ In the limit of training, [imitative amplification](https://www.alignmentforum.o
 * $$\text{orient}$$ stores the last 1 Mb of the string given by $$\text{observe}$$,
 * $$\text{execute}$$ describes the world state after outputting a given string at the terminal.
 
-Let $$P$$ be some distribution over possible inputs. Let $$\text{HCH}: I \to \Delta A$$ be the HCH function. Let our agents utility function $$U$$ be defined as $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) \|\| \text{decide}(i))]$$.[^KL]
+Let $$P$$ be some distribution over possible inputs. Let $$\text{HCH}: I \to \Delta A$$ be the HCH function. Let our agents utility function $$U$$ be defined as $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) \mid\mid \text{decide}(i))]$$.[^KL]
 
-[^KL]: This utility function is flawed because the asymmetry of KL-divergence might make slightly suboptimal agents catastrophic, i.e., agents that rarely take actions $$\text{HCH}$$ would never take will only be slightly penalized. Constructing a utility function that is not catastrophic if approximated remains an open problem.
+[^KL]: This utility function is flawed because the asymmetry of KL-divergence might make slightly suboptimal agents catastrophic, i.e., agents that rarely take actions $$\text{HCH}$$​ would never take will only be slightly penalized. Constructing a utility function that is not catastrophic if approximated remains an open problem.
 
 It is unclear which $$P$$ makes the agent behave properly. One possibility is to have $$P$$ be the distribution of what questions a human is likely to ask.[^acausal] Any powerful agent likely has a human model, so using the human distribution might not add much complexity.
 
@@ -255,7 +255,7 @@ In contrast, our framework makes a sharp distinction between agents that use con
 
 ## Input Distribution Problem
 
-$$\text{decide}$$-based structural agents attempt to implement specific $$\text{decide}$$ functions, which will often require determining the distance to a target function, e.g. the HCH function. Unless the distance metric treats all inputs identically, such as with sup norm, the metric requires a distribution over inputs. For instance, recall structural HCH-bots's utility function, $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) \|\| \text{decide}(i))]$$, depends on an input distribution $$P$$.
+$$\text{decide}$$-based structural agents attempt to implement specific $$\text{decide}$$ functions, which will often require determining the distance to a target function, e.g. the HCH function. Unless the distance metric treats all inputs identically, such as with sup norm, the metric requires a distribution over inputs. For instance, recall structural HCH-bots's utility function, $$U(\text{decide}) = \mathbb E_{i \sim P}[KL(\text{HCH}(i) \mid\mid \text{decide}(i))]$$, depends on an input distribution $$P$$.
 
 However, the distribution of inputs depends on how the agent responds to various inputs, creating an acausal implication between the agent's actions and what inputs it receives. For example, what you google depends on Google's capabilities. Since the agent's utility depends on the inputs it receives, this acausal implication incentivizes the agent to implement a $$\text{decide}$$ function that shifts the distribution towards high-scoring inputs. The agent is not optimizing over $$\text{decide}$$ functions, but rather jointly optimizing over $$\text{decide}$$, input distribution pairs. More concretely, the agent has an incentive to hide its full capabilities so it will not be asked difficult questions. If the agent can only answer questions with obvious answers, it will probably be asked questions with easy answers, acausally shifting $$P$$ to a higher utility distribution.[^predictomatic]
 
@@ -270,7 +270,7 @@ This acausal implication reduces capabilities, but it also might be a problem fo
 
 Traditional utility functions map types, e.g., environmental states, to utility. In contrast, conditional utility functions map types to utility functions. For example, an environment-conditional utility function takes in an environmental state and yields a utility function over other environmental states, actions, observations, internal states, etc. We will refer to the utility function given by a conditional utility function as the base utility function.
 
-Conditional agents might make decisions in the following way. Let $$\mathcal U$$​ be a conditional utility function. Upon having internal state $$i$$​, the agent acts as if it has utility function $$U = \mathcal U(\text{argmax}_{s \in \mathcal S}P(s\|i))$$​, where $$\mathcal S$$​ varies between $$\mathcal E$$​, $$\mathcal O$$​, $$\mathcal I$$​, and $$\mathcal A$$​ depending on whether $$\mathcal U$$​ is environmental, observational, or structural conditional. The agent reasons as if it were a structural or consequential agent depending on the utility function.[^MAP]Action-based agents might run into issues around logical uncertainty.
+Conditional agents might make decisions in the following way. Let $$\mathcal U$$​ be a conditional utility function. Upon having internal state $$i$$​, the agent acts as if it has utility function $$U = \mathcal U(\text{argmax}_{s \in \mathcal S}P(s\midi))$$​, where $$\mathcal S$$​ varies between $$\mathcal E$$​, $$\mathcal O$$​, $$\mathcal I$$​, and $$\mathcal A$$​ depending on whether $$\mathcal U$$​ is environmental, observational, or structural conditional. The agent reasons as if it were a structural or consequential agent depending on the utility function.[^MAP]Action-based agents might run into issues around logical uncertainty.
 
 [^MAP]: Here, the agent is reasoning according to the maximum probability world state, a trick inspired by Cohen et al.'s [Asymtotically Unambitious Artificial General Intelligence](https://arxiv.org/pdf/1905.12186.pdf).
 
@@ -296,7 +296,7 @@ Recall that $$\text{HCH}: \mathcal I \to \Delta \mathcal A$$ is the HCH function
 
 Structural HCH-bot gets higher utility for implementing $$\text{decide}$$ functions that are closer to HCH in terms of expected KL-divergence relative to some input distribution. Conditional behavioral-HCH-bot conditions on the internal state, then gets utility for outputting distributions closer to the distribution HCH would output given its current internal state as input. More precisely, conditional behavioral-HCH-bot has a conditional utility function defined by $$\mathcal U:\mathcal I \to (\mathcal A \times \mathbb N \to \mathbb R) := i \mapsto ((a, n) \mapsto -\log(\text{HCH}(i)(a)) \text{ if } n = 0 \text{ else } 0)$$. 
 
-Conditional structural-HCH-bot conditions on the internal state, then attempts to implement a $$\text{decide}$$ function close to HCH. More precisely, conditional structural-HCH-bot has a conditional utility function described by $$\mathcal U: \mathcal I \to (\mathcal A^\mathcal I \to \mathbb R) := i \mapsto (\text{decide} \mapsto KL(\text{HCH}(i)\|\|\text{decide}(i)))$$.
+Conditional structural-HCH-bot conditions on the internal state, then attempts to implement a $$\text{decide}$$ function close to HCH. More precisely, conditional structural-HCH-bot has a conditional utility function described by $$\mathcal U: \mathcal I \to (\mathcal A^\mathcal I \to \mathbb R) := i \mapsto (\text{decide} \mapsto KL(\text{HCH}(i)\mid\mid\text{decide}(i)))$$.
 
 ## Conditioning Type is Observationally Indistinguishable
 
