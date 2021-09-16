@@ -4,22 +4,20 @@ title: My Favorite Things
 ---
 I try to be [deliberate](https://www.neelnanda.io/blog/be-deliberate) about the objects that I own and use. These are some of the objects I own that I consider to be among the best in their respective categories. Many of these are taken directly from [Wirecutter](https://www.nytimes.com/wirecutter/).
 
-Last updated: March 30th, 2021.
+Last updated: September 4th, 2021.
 
 # Electronics
 
 * [AirPods Pro](https://www.apple.com/airpods-pro/)
+* [AirPods Max](https://www.apple.com/airpods-max/)
 * [Apple Watch SE](https://www.apple.com/apple-watch-se/)
-* [Bose 700 Noise Canceling Headphones](https://smile.amazon.com/gp/product/B07Q9MJKBV/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * [Dell U-Series 38 Monitor](https://www.amazon.com/gp/product/B073FHWTPL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
 * [iPad Pro (12.9-inch, w/ Apple Pencil)](https://www.apple.com/shop/buy-ipad/ipad-pro/12.9-inch-display-256gb-space-gray-wifi)
 * [iPhone 12 Mini](https://www.apple.com/iphone-12/)
-* [iPod Touch](https://www.apple.com/ipod-touch/)
-* [Jabra Evolve 40 Stereo Headset](https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve-40##6393-823-109)
 * [Logitech C920 Webcam](https://www.amazon.com/Logitech-C920-Pro-Webcam-Black/dp/B00829D0GM?pldnSite=1)
 * [Logitech Ergo Trackball Mouse](https://www.amazon.com/gp/product/B0753P1GTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
-* [MacBook Pro (13-inch)](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch)
+* [MacBook Pro (16 inch)](https://www.apple.com/macbook-pro-16/)
 * [Oculus Quest 2](https://www.oculus.com/quest-2/?locale=en_US)
 * [Remarkable 2](https://remarkable.com/store/remarkable-2)
 * [Samsung T7 Portable 1TB SSD](https://smile.amazon.com/gp/product/B0874XN4D8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
@@ -28,8 +26,8 @@ Last updated: March 30th, 2021.
 # Stationary
 
 * [Pilot Frixion 4-Color](https://smile.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM)
-* [Pilot V Refillable Dry-Erase Markers](https://www.amazon.com/gp/product/B003DC2MGC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Post-it Wall Pad](https://smile.amazon.com/gp/product/B0000E2RGR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* [U Brands Magnetic Double-Ended Dry Erase Markers](https://www.walmart.com/ip/U-Brands-Magnetic-Double-Ended-Dry-Erase-Markers-Bullet-Tip-Assorted-Low-Odor-6-Count-507U/138686732)
 * [White Post-its](https://www.amazon.com/gp/product/B008PAIC4S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Writing Slope](https://www.amazon.com/gp/product/B0110BSSWE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 
@@ -45,8 +43,6 @@ Last updated: March 30th, 2021.
 * [CeraVe PM](https://www.amazon.com/gp/product/B079H99466/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [CeraVe SPF 30](https://www.amazon.com/gp/product/B077TQR6ZW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Dove Beauty Bar](https://www.amazon.com/gp/product/B003YOON0C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
-* [Floss Picks](https://smile.amazon.com/DenTek-Triple-Clean-Floss-Picks/dp/B003K01BMI)
-* [L'Occitan Butter Hand Cream](https://smile.amazon.com/gp/product/B006UEOQ5K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Pantene Conditioner](https://www.amazon.com/gp/product/B01MTNOJ2Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Philips Body Hair Trimmer](https://smile.amazon.com/gp/product/B010XIGBUQ/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 * [Philips Nose Trimmer](https://www.amazon.com/gp/product/B00QYOSK9E/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
@@ -69,6 +65,7 @@ Last updated: March 30th, 2021.
 * [Nexstand Laptop Stand](https://smile.amazon.com/gp/product/B01HHYQBB8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [NOMATIC Travel Pack](https://smile.amazon.com/gp/product/B07782GG5T/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 * [Phone Stand](https://smile.amazon.com/gp/product/B07F8S18D5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Portable Blackout Curtains](https://smile.amazon.com/Sun-Away-Portable-Blackout-Curtain/dp/B082GGGM2Y)
 * [Standing Desk](https://www.upliftdesk.com/)
 * [Velvet Hangers](https://www.amazon.com/gp/product/B00FXNAAW2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Theragun Prime](https://smile.amazon.com/gp/product/B086Z6V3S6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
@@ -98,6 +95,7 @@ Last updated: March 30th, 2021.
 * [Freedom](https://freedom.to/dashboard)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Instapaper](https://www.instapaper.com/u)
+* [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 * [Krisp](https://krisp.ai/)
 * [Mathpix](https://mathpix.com/)
 * [Open Tabs Next To Current](https://github.com/sblask/webextension-open-tabs-next-to-current)
@@ -112,15 +110,9 @@ Last updated: March 30th, 2021.
 
 # Miscellaneous
 
-* [Crystal Nail File](https://smile.amazon.com/gp/product/B07DH8K154/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1)
 * [Duck EZ Start Packing Tape](https://smile.amazon.com/gp/product/B0033URRSM/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [Greenbell Nail Clipper](https://smile.amazon.com/gp/product/B000FQS9AC/ref=ppx_yo_dt_b_asin_title_o01_s02?ie=UTF8&psc=1)
 * [iFixit Manta Driver Kit](https://smile.amazon.com/iFixit-Manta-Driver-Kit-Piece/dp/B07BMM74FD)
-* [Latex Mattress Topper](https://smile.amazon.com/gp/product/B00UYGA49M/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-* [Levitating Moon Lamp](https://smile.amazon.com/gp/product/B075WCXSJC/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-* [Monthly Pill Organizer](https://smile.amazon.com/gp/product/B07WZRVX23/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * [Screwpop Utility Knife](https://www.amazon.com/gp/product/B00UZHT432/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Secrid Slimwallet](https://secrid.com/en-us/slimwallet-original-black/)
 * [Tungsten cube](https://smile.amazon.com/Tungsten-Cube-1-5-One-Kilo/dp/B00XZBIJLS)
-* [YubiKey](https://www.yubico.com/store/)
-
