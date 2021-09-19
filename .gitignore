@@ -2,3 +2,4 @@ _site
 .sass-cache
 _posts/2021-6-25-GOL.md
 .DS_Store
+downloads/.DS_Store
