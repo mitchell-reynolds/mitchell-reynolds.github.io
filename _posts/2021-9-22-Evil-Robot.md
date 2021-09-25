@@ -1,5 +1,5 @@
 ---
-title: Style Guide: How to Sound Like an Evil Robot
+title: "Style Guide: How to Sound Like an Evil Robot"
 ---
 
 Epistemic status: shitpost containing many internal contradictions. 
