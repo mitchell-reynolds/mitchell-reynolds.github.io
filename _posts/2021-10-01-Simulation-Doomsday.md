@@ -1,3 +1,7 @@
+---
+title: The Simulation Hypothesis Undercuts the SIA/Great Filter Doomsday Argument
+---
+
 *This post was written by Mark Xu based on interviews with Carl Shulman. It was paid for by Open Philanthropy but is not representative of their views.*
 
 Summary
