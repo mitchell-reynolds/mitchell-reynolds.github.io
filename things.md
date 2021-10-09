@@ -23,7 +23,7 @@ Last updated: September 4th, 2021.
 * [Samsung T7 Portable 1TB SSD](https://smile.amazon.com/gp/product/B0874XN4D8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 * [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/product/uhk60)
 
-# Stationary
+# Stationery
 
 * [Pilot Frixion 4-Color](https://smile.amazon.com/Pilot-Frixion-Ball4-Ballpoint-LKFB-80EF-W/dp/B00IPD3KEM)
 * [Post-it Wall Pad](https://smile.amazon.com/gp/product/B0000E2RGR/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
