@@ -1,5 +1,5 @@
 ---
-title: Review: A Really Short History of Nearly Everything
+title: "Review: A Really Short History of Nearly Everything"
 ---
 
 I recently finished Bill Bryson's *A Really Short History of Nearly Everything*. This book wasn't very good, and I wouldn't recommend it. However, I learned some useful things both at the meta and object levels, which I will relay in bullet point form.
