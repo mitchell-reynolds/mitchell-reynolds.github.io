@@ -16,15 +16,15 @@ I recently finished Bill Bryson's *A Really Short History of Nearly Everything*.
 
 - Old scientists sometimes spent years making small numbers of measurements, doing calculations, or collecting observations. This is probably because they mostly did science as a hobby and didn't really have anything else fun to do.
 
-- This reminds me of a quote from [Two Centuries of Productivity Growth in Computing](https://www.cambridge.org/core/journals/journal-of-economic-history/article/two-centuries-of-productivity-growth-in-computing/856EC5947A5857296D3328FA154BA3A3);
+  - This reminds me of a quote from [Two Centuries of Productivity Growth in Computing](https://www.cambridge.org/core/journals/journal-of-economic-history/article/two-centuries-of-productivity-growth-in-computing/856EC5947A5857296D3328FA154BA3A3);
 
-  - > According to John Coleman, president of Burroughs, "Bookkeeping, before the advent of the adding machine, was not an occupation for the flagging spirit or the wandering mind …. It required an extraordinary degree a capacity for sustained concentration, attention to detail, and a passion for accuracy."
+    - > According to John Coleman, president of Burroughs, "Bookkeeping, before the advent of the adding machine, was not an occupation for the flagging spirit or the wandering mind …. It required an extraordinary degree a capacity for sustained concentration, attention to detail, and a passion for accuracy."
 
   - A French expedition in 1735 tried to measure the circumference of the Earth. They got chased out of towns by stones, died of fever, and were delayed by 8 months due to a permit problem. In order to make their measurements, they often had to wait weeks for the weather to clear. This expedition lasted 9.5 years. Shortly before the project ended, they received word that another team had made the relevant measurements.
 
-- The 1761 transit of Venus across the Sun would allow scientists to compute the distance between the Earth and the Sun. Over a hundred scientists were dispatched across the globe to make observations. Many were waylaid by war and shipwreck. Other's equipment got broken. Jean Chappe spent months traveling to Siberia, only to find the last stretch blocked by swollen rivers. Guillaume Le Gentil traveled to India, but various setbacks meant that he was still at sea on the say of the transit, over a year after he had left. The set of scientists failed to collect enough information for the distance between the Earth and the Sun to be calculated.
+  - The 1761 transit of Venus across the Sun would allow scientists to compute the distance between the Earth and the Sun. Over a hundred scientists were dispatched across the globe to make observations. Many were waylaid by war and shipwreck. Other's equipment got broken. Jean Chappe spent months traveling to Siberia, only to find the last stretch blocked by swollen rivers. Guillaume Le Gentil traveled to India, but various setbacks meant that he was still at sea on the say of the transit, over a year after he had left. The set of scientists failed to collect enough information for the distance between the Earth and the Sun to be calculated.
 
-  - Luckily, transits come in pairs, so the next one in 1769 allowed for the determination that the distance between the Earth and the Sun is 93 million miles (150 billion meters).
+    - Luckily, transits come in pairs, so the next one in 1769 allowed for the determination that the distance between the Earth and the Sun is 93 million miles (150 billion meters).
   - Henry Cavendish spent a year making trying to measure the weight of the Earth using incredibly precise measuring instruments.
   - Mendel spent 8 years breeding his peas.
   - Thomas Hunt Morgan spent 6 years trying to induce mutations in fruit flies.
