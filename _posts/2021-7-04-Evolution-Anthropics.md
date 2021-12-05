@@ -15,7 +15,7 @@ More concretely, suppose evolutionary processes produce human-level intelligence
 Recall two common forms of anthropic reasoning:[^ADT]
 
 * Self-Sampling Assumption (SSA): Observers should reason as if they were a random sample from all actually existent observers in their reference class. Observers should reason as if they have an equal probability of being in any world with observers, regardless of the number of observers in that world. Worlds where a higher _fraction_ of observers are “like you” are more probable.
-* Self-Indication Assumption (SIA): Observers should reason as if they were a random sample from all possible observers. Observers should reason as if they have a probability of being in a world proportional with the number of observers it contains. Worlds where a higher _number _of observers are “like you” are more probable.
+* Self-Indication Assumption (SIA): Observers should reason as if they were a random sample from all possible observers. Observers should reason as if they have a probability of being in a world proportional with the number of observers it contains. Worlds where a higher _number_ of observers are “like you” are more probable.
 
 [^ADT]: [Armstrong](https://www.fhi.ox.ac.uk/wp-content/uploads/Anthropic_Decision_Theory_Tech_Report.pdf) roughly argues that SSA corresponds to making decisions under average utilitarianism while SIA corresponds to making decisions under total utilitarianism.
 

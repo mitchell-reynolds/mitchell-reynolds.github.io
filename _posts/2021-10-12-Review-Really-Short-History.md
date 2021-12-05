@@ -6,7 +6,7 @@ I recently finished Bill Bryson's *A Really Short History of Nearly Everything*.
 
 - The book contains a number of factual inaccuracies, which makes all further "learnings" from the book suspect. The factual inaccuracies I was able to detect were numerical. A small number of spot checks about things like dates confirm their accuracy.
 
-  - Page 56 claims that "one cubic centimeter of air ... will contain 27 million billion molecules." 27 million billion is 10^15. 1 mol of air is 22.4 L and is 6 * 10^23. 22.4 L is 22,400 = 2 * 10^5 cubic centimeters. Dividing, a cubic centimeter of air should have 3 * 10^18 molecules, suggesting that the book is off by a factor of 1000. 
+  - Page 56 claims that "one cubic centimeter of air ... will contain 27 million billion molecules." 27 million billion is 10^16. 1 mol of air is 22.4 L and is 6 * 10^23. 22.4 L is 22,400 = 2 * 10^4 cubic centimeters. Dividing, a cubic centimeter of air should have 3 * 10^19 molecules, suggesting that the book is off by a factor of 1000. [This originally contained 2 errors that cancelled out. Thanks to Eli Rose for pointing them out to me.]
   - Pages 116 and 139 claim that humans have "10,000 trillion cells." This number is equal to 10^16 cells. However, humans have about 4 * 10^13 cells. 
 
 - The book is also strangely confidently false some things. I found this fact more frustrating than the numerical errors because those could just be incompetence, especially since the book is marketed as a book for children. One would think that book publishers would make sure that children's books contained as few strictly false things as possible.
