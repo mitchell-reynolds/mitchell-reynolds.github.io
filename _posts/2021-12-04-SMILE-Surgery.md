@@ -1,5 +1,5 @@
 ---
-Notes On SMILE Eye Surgery
+title: Notes On SMILE Eye Surgery
 ---
 
 Yesterday, I got SMILE corrective vision surgery. I found the experience interesting for a variety of ways. Here are some notes:
