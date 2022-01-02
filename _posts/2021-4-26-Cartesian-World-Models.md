@@ -163,8 +163,6 @@ If we require the CWM agent to have the same type signature as in the POMDP, som
 
 This non-equivalence is basically a technicality and thus unsatisfying. A more satisfying treatment would use a less rigid definition of equivalence that allowed the CWM agent and the POMDP agent to have different types. In particular, it might be possible to construct a POMDP and a partition over belief states such that the elements of the partition can be put in correspondence with the internals states in the CWM. We leave exploration of this question to future work.
 
-
-
 # Structural Agents
 
 ## Structural Decision Making
