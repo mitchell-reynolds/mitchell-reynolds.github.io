@@ -132,23 +132,23 @@ Imagine our model is described by four parameters describing the relative levels
 
 
 
-*   environment model $e$: at 0, the model does not know the environment exists. At 1, it has a perfect model of the environment.
-*   alignment $a$: at 0, the model has a random objective. At 1, it has a perfect copy of the training objective.
-*   objective pointer $o$: at 0, there is no pointer. At 1, there is a perfectly robust pointer to the objective in the environment. 
-*   power $p$: at 0, the model cannot do anything. At 1, the model is capable enough to achieve 0 training loss.
+*   environment model $$e$$: at 0, the model does not know the environment exists. At 1, it has a perfect model of the environment.
+*   alignment $$a$$: at 0, the model has a random objective. At 1, it has a perfect copy of the training objective.
+*   objective pointer $$o$$: at 0, there is no pointer. At 1, there is a perfectly robust pointer to the objective in the environment. 
+*   power $$p$$: at 0, the model cannot do anything. At 1, the model is capable enough to achieve 0 training loss.
 
-Let $t$ be the index of the current training set, starting at 0. Suppose that the values of the various parameters are given by the following functions:
+Let $$t$$ be the index of the current training set, starting at 0. Suppose that the values of the various parameters are given by the following functions:
 
 
 
-*   $e_t = \log_{1000}(t + 1)$, representing diminishing returns for environment modeling.
-*   $a_t = \log_{1000}(t + 1)$, representing diminishing returns for aligning the proxy objective.
-*   $o_t = \log_{500}(t + 1 - \min({t | e_t > 0.5}))$, representing diminishing returns for building a robust pointer, which is only possible when the environment model is sufficiently detailed.
-*   $p_t = \log_{1000}(t + 1)$, representing diminishing returns for increasing model power.
+*   $$e_t = \log_{1000}(t + 1)$$, representing diminishing returns for environment modeling.
+*   $$a_t = \log_{1000}(t + 1)$$, representing diminishing returns for aligning the proxy objective.
+*   $$o_t = \log_{500}(t + 1 - \min({t \mid e_t > 0.5}))$$, representing diminishing returns for building a robust pointer, which is only possible when the environment model is sufficiently detailed.
+*   $$p_t = \log_{1000}(t + 1)$$, representing diminishing returns for increasing model power.
 
-Given the above, $e_{31} > 0.5$, so the model will become a corrigibly aligned model before an internally aligned model in $530$ timesteps. At this point, the model is not yet powerful enough to achieve zero training loss, so training will continue to $999$ timesteps.
+Given the above, $$e_{31} > 0.5$$, so the model will become a corrigibly aligned model before an internally aligned model in $$530$$ timesteps. At this point, the model is not yet powerful enough to achieve zero training loss, so training will continue to $$999$$ timesteps.
 
-Suppose, however, that the model is capable of deception when $e_t > 0.6$ and has enough power to deceive successfully at $p_t > 0.7$. The model will enter this deceptive regime on timestep 125, far before it becomes a corrigibly aligned. At this point, there will no longer be a marginal incentive to increase the alignment or objective pointer parameters, so they will plateau while power and environmental modeling parameters go to 1.
+Suppose, however, that the model is capable of deception when $$e_t > 0.6$$ and has enough power to deceive successfully at $$p_t > 0.7$$. The model will enter this deceptive regime on timestep 125, far before it becomes a corrigibly aligned. At this point, there will no longer be a marginal incentive to increase the alignment or objective pointer parameters, so they will plateau while power and environmental modeling parameters go to 1.
 
 ![](https://markxu.com/assets/deceptive_alignment_training_example.png)
 
