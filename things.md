@@ -2,9 +2,9 @@
 layout: page
 title: My Favorite Things
 ---
-I try to be [deliberate](https://www.neelnanda.io/blog/be-deliberate) about the objects that I own and use. These are some of the objects I own that I consider to be among the best in their respective categories. Many of these are taken directly from [Wirecutter](https://www.nytimes.com/wirecutter/).
+These are a few of my favorite things
 
-Last updated: September 4th, 2021.
+Last updated: January 8th, 2022.
 
 # Electronics
 
@@ -13,15 +13,18 @@ Last updated: September 4th, 2021.
 * [Apple Watch SE](https://www.apple.com/apple-watch-se/)
 * [Dell U-Series 38 Monitor](https://www.amazon.com/gp/product/B073FHWTPL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler)
+* [Galaxy Z Fold3](https://www.samsung.com/us/smartphones/galaxy-z-fold3-5g/buy/galaxy-z-fold3-5g-256gb-unlocked-sm-f926uzkaxaa/)
 * [iPad Pro (12.9-inch, w/ Apple Pencil)](https://www.apple.com/shop/buy-ipad/ipad-pro/12.9-inch-display-256gb-space-gray-wifi)
 * [iPhone 12 Mini](https://www.apple.com/iphone-12/)
+* [Kindle](https://www.amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597)
+* [Kinesis Gaming Freestyle Edge](https://gaming.kinesis-ergo.com/edge/)
 * [Logitech C920 Webcam](https://www.amazon.com/Logitech-C920-Pro-Webcam-Black/dp/B00829D0GM?pldnSite=1)
 * [Logitech Ergo Trackball Mouse](https://www.amazon.com/gp/product/B0753P1GTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [MacBook Pro (16 inch)](https://www.apple.com/macbook-pro-16/)
+* [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)
 * [Oculus Quest 2](https://www.oculus.com/quest-2/?locale=en_US)
 * [Remarkable 2](https://remarkable.com/store/remarkable-2)
 * [Samsung T7 Portable 1TB SSD](https://smile.amazon.com/gp/product/B0874XN4D8/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-* [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/product/uhk60)
 
 # Stationery
 
@@ -34,7 +37,6 @@ Last updated: September 4th, 2021.
 # Toiletries
 
 * [Apagard Toothpaste](https://www.amazon.com/gp/product/B0016GCZQO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
-* [Aveeno Shampoo](https://www.amazon.com/gp/product/B0067H6E9G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Black Monster Concealer Stick](https://smile.amazon.com/gp/product/B07MFSJMY5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Black Monster BB Lotion](https://smile.amazon.com/MONSTER-Lotion-1-01fl-oz-Anti-Aging-Sunscreen/dp/B08C4RHRRZ)
 * [Braun Series 8 Shaver](https://www.amazon.com/Braun-8-Electric-Shaver-8370CC/dp/B07RWH99KB?pldnSite=1)
@@ -55,37 +57,20 @@ Last updated: September 4th, 2021.
 * [Blackout Curtains](https://www.amazon.com/gp/product/B071YYPDWJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Bowflex Adjustable Dumbbells](https://www.bowflex.com/selecttech/552/100131.html)
 * [Dyson V7 Vacuum](https://www.dyson.com/vacuum-cleaners/sticks/dyson-v7-stick/dyson-v7-overview)
-* [Earplugs](https://smile.amazon.com/Macks-Ultra-Soft-Foam-Earplugs/dp/B0051U7W32)
 * [Headphone Hook](https://www.amazon.com/gp/product/B07QJ9JZZX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
-* [iPad Stand](https://smile.amazon.com/gp/product/B07VD7GWTK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * [LIFX LED Bulb](https://www.amazon.com/gp/product/B073168GYG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [LightDims Black Out Stickers](https://smile.amazon.com/gp/product/B00CLVQG68/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+* [L.L.Bean Percale Cotton Sheets](https://www.llbean.com/llb/shop/517657?page=percale-cotton-sheets)
 * [Lumenator](https://www.lesswrong.com/posts/hC2NFsuf5anuGadFm/how-to-build-a-lumenator)
+* [Mack's Dreamgirl Soft Foam Earplugs](https://www.amazon.com/Macks-Dreamgirl-Soft-Foam-Earplugs/dp/B0051U7R0A)
 * [Memory Foam Pillow](https://smile.amazon.com/gp/product/B00EINBSEW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* [Nexstand Laptop Stand](https://smile.amazon.com/gp/product/B01HHYQBB8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [NOMATIC Travel Pack](https://smile.amazon.com/gp/product/B07782GG5T/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 * [Phone Stand](https://smile.amazon.com/gp/product/B07F8S18D5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Portable Blackout Curtains](https://smile.amazon.com/Sun-Away-Portable-Blackout-Curtain/dp/B082GGGM2Y)
 * [Standing Desk](https://www.upliftdesk.com/)
 * [Velvet Hangers](https://www.amazon.com/gp/product/B00FXNAAW2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Theragun Prime](https://smile.amazon.com/gp/product/B086Z6V3S6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* [Weighted Blanket](https://smile.amazon.com/gp/product/B089VR8CG4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * [Workout Bar](https://smile.amazon.com/gp/product/B001EJMS6K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-
-# Kitchen
-
-* [Cuisinart Convection Toaster Oven](https://smile.amazon.com/Cuisinart-TOB-260N1-Convection-Toaster-Stainless/dp/B01M0AWSJX)
-* [Escali Kitchen Scale](https://smile.amazon.com/gp/product/B000CH9OCG/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-* [Fullstar Vegetable Chopper](https://smile.amazon.com/gp/product/B0764HS4SL/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
-* [Hamilton Electric Can Opener](https://smile.amazon.com/gp/product/B000SAS5GI/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-* [Inomata Rice Washing Bowl](https://smile.amazon.com/gp/product/B004QZAAS2/ref=ppx_yo_dt_b_asin_title_o05_s02?ie=UTF8&psc=1)
-* [Microwave Plate Cover](https://smile.amazon.com/gp/product/B07JJC8NWP/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-* [OXO Bottle Brush](https://smile.amazon.com/gp/product/B00004OCLJ/ref=ppx_yo_dt_b_asin_title_o05_s04?ie=UTF8&psc=1)
-* [OXO Garlic Press](https://smile.amazon.com/gp/product/B00HEZ888K/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1)
-* [Tramontina Aluminum Nonstick Fry Pan](https://smile.amazon.com/gp/product/B009HBKRKG/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-* [Victorinox 8-Inch Chef's Knife](https://smile.amazon.com/gp/product/B000638D32/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* [Victorinox Swiss Army Cutlery Straight Paring Knife](https://smile.amazon.com/gp/product/B0019WXPQY/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
-* [Zojirushi Water Boiler](https://www.amazon.com/gp/product/B00R4HKJEE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 
 # Software
 
@@ -101,7 +86,6 @@ Last updated: September 4th, 2021.
 * [Open Tabs Next To Current](https://github.com/sblask/webextension-open-tabs-next-to-current)
 * [Protonmail](https://protonmail.com/)
 * [Readwise](https://readwise.io/)
-* [Rescuetime](https://www.rescuetime.com/)
 * [Roam](https://roamresearch.com/)
 * [Signal](https://signal.org/en/)
 * [Things](https://culturedcode.com/things/)
@@ -111,8 +95,8 @@ Last updated: September 4th, 2021.
 # Miscellaneous
 
 * [Duck EZ Start Packing Tape](https://smile.amazon.com/gp/product/B0033URRSM/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+* [DUN Bi-Fold Wallet](https://smile.amazon.com/gp/product/B078H8L5MJ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * [Greenbell Nail Clipper](https://smile.amazon.com/gp/product/B000FQS9AC/ref=ppx_yo_dt_b_asin_title_o01_s02?ie=UTF8&psc=1)
 * [iFixit Manta Driver Kit](https://smile.amazon.com/iFixit-Manta-Driver-Kit-Piece/dp/B07BMM74FD)
-* [Screwpop Utility Knife](https://www.amazon.com/gp/product/B00UZHT432/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
-* [Secrid Slimwallet](https://secrid.com/en-us/slimwallet-original-black/)
 * [Tungsten cube](https://smile.amazon.com/Tungsten-Cube-1-5-One-Kilo/dp/B00XZBIJLS)
+* [Zojirushi Water Boiler](https://www.amazon.com/gp/product/B00R4HKJEE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
