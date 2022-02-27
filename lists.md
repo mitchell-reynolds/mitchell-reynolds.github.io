@@ -3,4 +3,14 @@ layout: page
 title: Some Helpful Lists
 ---
 
-TODO
+## Books - Fiction
+
+-
+
+## Books - Nonfiction
+
+-
+
+## Chrome Extensions
+
+-  

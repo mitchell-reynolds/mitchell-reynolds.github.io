@@ -1,6 +1,6 @@
 ---
 title: Predicting the Venture Capital Landscape
-published: false
+published: true
 ---
 
 Introduction
