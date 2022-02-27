@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-
+title: Some Helpful Lists
 ---
 
 TODO
