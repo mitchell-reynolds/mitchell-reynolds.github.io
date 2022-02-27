@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lists of some of my Favorite things
+title: Lists of some of my favorite things
 ---
 
 ## Books - Nonfiction
@@ -23,16 +23,18 @@ title: Lists of some of my Favorite things
 - [uBlock Origin - Blocks Ads](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)
 - [Dark Reader - Change Background Color & Fonts](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en)
-- [Huntr - Kanban Job Tracker](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
+- [Huntr - Kanban Job Tracker with Scrapping](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
 - [SwiftRead - Faster Online Reading](https://chrome.google.com/webstore/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno?hl=en)
 
 
 ## Courses - University, Bootcamp, MOOC
 - Human Nature and the Meaningful Life (University)
-- Econometrics (University)
-- Symbolic Logic (University)
-- Economic Development (University)
 - Advanced Ethics (University)
+- Symbolic Logic (University)
+- Econometrics (University)
+- Microeconomic Development (University)
+- Macroeconomics in Emerging Markets (University)
+- Calculus (University)
 - Linear Algebra (Data Science Bootcamp)
 - Bayesian Statistics (Data Science Bootcamp)
 - Deep Learning Specialization (MOOC)

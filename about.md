@@ -9,9 +9,15 @@ I'm Mitchell Reynolds and look something like this:
 
 Writing gives me a lot of clarity & will focus on:
 
+- [Artificial Intelligence & Safety](https://www.alignmentforum.org/)
 - [Eudaimonia & Ethics](https://en.wikipedia.org/wiki/Eudaimonia)
 - [Zen & Mindfulness](https://en.wikipedia.org/wiki/Zen)
-- [Artificial General Intelligence & Safety](https://www.alignmentforum.org/)
+
+Intellectually, I largely identify as an
+[Effective Altruist](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism),
+[Longtermist](https://en.wikipedia.org/wiki/Longtermism),
+[Deontologist](https://plato.stanford.edu/entries/ethics-deontological/), and
+[Aspiring Polymath](https://en.wikipedia.org/wiki/Polymath).
 
 You may find me on [Facebook](https://www.facebook.com/mitchellsreynolds),
 [GitHub](https://github.com/mitchell-reynolds/),
@@ -22,4 +28,4 @@ You may find me on [Facebook](https://www.facebook.com/mitchellsreynolds),
 
 I practice [Taking Control](https://www.humanetech.com/take-control)
 of and reducing my reliance on technology & media.
-Therefore, you should expect a longer than normal response time.
+Therefore, you should anticipate a longer than normal response time.
