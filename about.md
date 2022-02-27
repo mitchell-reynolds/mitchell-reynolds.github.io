@@ -3,19 +3,15 @@ layout: page
 title: About
 ---
 
-Hi there, I go by Mitchell (fka "Mitch") Reynolds
-and look something like this:
+I'm Mitchell Reynolds and look something like this:
 
-![](/assets/2021-07-17-profile-photo.jpg)
+![](/assets/2021-07-17-profile-photo.jpg =540x540)
 
-Writing gives me a lot of clarity and will likely write what I think most about:
+Writing gives me a lot of clarity & will focus:
 
 - [Eudaimonia & Ethics](https://en.wikipedia.org/wiki/Eudaimonia)
 - [Zen & Mindfulness](https://en.wikipedia.org/wiki/Zen)
 - [Artificial General Intelligence & Safety](https://www.alignmentforum.org/)
-
-I do my best to [Take Control](https://www.humanetech.com/take-control)
-of my reliance on technology & media.
 
 You may find me on [Facebook](https://www.facebook.com/mitchellsreynolds),
 [GitHub](https://github.com/mitchell-reynolds/),
@@ -23,3 +19,7 @@ You may find me on [Facebook](https://www.facebook.com/mitchellsreynolds),
 [LinkedIn](https://www.linkedin.com/in/mitchellsreynolds/),
 [Medium](https://medium.com/@mitchell.s.reynolds), or
 [AngelList](https://angel.co/u/mitchellsreynolds).
+
+I practice [Taking Control](https://www.humanetech.com/take-control)
+of and reducing my reliance on technology & media.
+Therefore, you should expect a longer than normal response time.
