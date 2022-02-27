@@ -1,9 +1,9 @@
-title: Artificially Intelligent
-description: "Any mimicry distinguishable from the original is insufficienty advanced"
+title: Casually Causal
+description: "TODO 0"
 author:
-  name: "Mark Xu"
-  email: "m@rkxu.me"
-  url: "https://markxu.com"
+  name: "Mitchell Reynolds"
+  email: "mitchell.s.reynolds@gmail.com"
+  url: "https://mitchell-reynolds.github.io"
 
 baseurl: /
 
@@ -30,7 +30,6 @@ plugins:
   - jekyll-redirect-from
 
 # Custom variables
-owner: "Mark Xu"
-year: "2020"
-google_analytics: UA-177634297-1
+owner: "Mitchell Reynolds"
+year: "2022"
 markdown: kramdown
