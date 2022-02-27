@@ -5,9 +5,9 @@ title: About
 
 I'm Mitchell Reynolds and look something like this:
 
-![](/assets/2021-07-17-profile-photo.jpg =540x540)
+<img src="/assets/2021-07-17-profile-photo.jpg" alt="mphoto" width="540" heigh="540"/>
 
-Writing gives me a lot of clarity & will focus:
+Writing gives me a lot of clarity & will focus on:
 
 - [Eudaimonia & Ethics](https://en.wikipedia.org/wiki/Eudaimonia)
 - [Zen & Mindfulness](https://en.wikipedia.org/wiki/Zen)
