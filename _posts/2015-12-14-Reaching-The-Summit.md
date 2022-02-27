@@ -1,6 +1,6 @@
 ---
 title: Reaching the Summit
-published: false
+published: True
 ---
 
 What important truth do very few people agree with you?
