@@ -1,6 +1,6 @@
 ---
 title: What They Won’t Tell You about Pursuing an Economics PhD
-published: True
+published: true
 ---
 
 # What They Won’t Tell You about Pursuing an Economics PhD
