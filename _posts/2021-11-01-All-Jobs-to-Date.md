@@ -8,7 +8,7 @@ It made me reflect on the many I've had in my first 30 years.
 
 
 | Educational Attainment   | Job Title          | Weekly Hours          | Role or Project |
-| :----------------------: | :------------------| :-------------------- |---------------- |
+| :----------------------: | :------------------:| :--------------------: |:----------------: |
 | Junior High            | Mowing lawns         | 5                     | Project |
 | Junior High            | Landscaping          | 10                    | Project |
 | Junior High            | Construction         | 5                     | Project |
@@ -40,3 +40,4 @@ I had an underweight BMI until my upper 20s. Similarly, I developed hobbies arou
 - Coming from a working class background, the belief that "working hard" will eventually pay off is bad advice until Post Undergraduate. I think "working smarter" is almost always better than "working harder" as the former can be sustained (caveats apply that I won't go into detail here).
 - For _minimum_ wage jobs, the goal should be working toward the _minimum_ level of effort. That seems fair.
 - After my undergraduate working full-time, high skill employers really don't care those low skill positions. The competition was able to secure internships/research roles while you were trying to survive. It is in the employers best interest to choose the talent who has slightly relevant work experience & uncertain work ethic VS no relevant work experience & equally uncertain work ethic.
+- Notice the irony between the last two points (ie work toward the minimum effort; employers think you're doing this). It's extremely unlikely any of your professional employers will reach out to your low skill employers to see if you were the exception. _Note, I explored the naive "word harder" approach with very little return._
