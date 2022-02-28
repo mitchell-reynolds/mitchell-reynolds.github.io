@@ -44,5 +44,7 @@ Next, I’m going to write about my initial roller coaster ride of being a Data 
 
 ---
 _¹The National Center for Education Statistics found that of those born into the bottom quartile of socioeconomic status, only 14.2% receive a bachelor’s degree or higher._
+
 _²Indeed Engineering ends with “Although the field is predominantly populated by individuals with MAs and PhDs, there are still plenty of individuals with bachelor degrees (26%) in the role.” And from the graph 2nd graph, I estimated about 15% have a Business/Economics Degree. Since there is surely overlap, I increased the product of these percentages to 5%._
+
 _³According to the Bureau of Labor Statistics (accessed October-2020), the Information (Data) Scientist market is projected to grow by 15% between 2019–2029. Depending on when you view this article, the BLS updates their projected growth as I remember 20% back in 2017._
