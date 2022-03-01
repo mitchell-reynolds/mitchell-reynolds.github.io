@@ -14,9 +14,19 @@ title: Lists
 - **Doing Good Better** Will Macaskill
 - **Thinking, Fast and Slow** by Daniel Kahneman
 - **Superintelligence** by Nick Bostrom
+- **Superforecasting** by Philip Tetlock & Gardner
 - **Principles** by Ray Dalio
 - **The Changing World Order** by Ray Dalio
+- **Why Nations Fail** by Ace
+- **Wealth of Nations** by Adam Smith
 - **Zero to One** by Peter Thiel
+- **The Hard Thing About Hard Things** by Ben Horowitz
+- **Tools of Titans** by Tim Ferris
+- **Better Angels of Our Nature** by Steven Pinker
+- **The Last Lecture** by Randy Paunsch
+- **Stumbling on Happiness** by Daniel Gilbert
+- **Outliers** by Malcolm Gladwell
+- **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
 
 
