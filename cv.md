@@ -11,6 +11,8 @@ title: Curriculum Vitae
 - **Data Scientist**, Consulting, 2017 - 2018
 - **Analyst**, First Republic Bank, 2016 - 2017
 - **Analyst**, Advantage Solutions, 2015 - 2016
+- **Customer Service**, Various Roles, Full-time, 2010 - 2015
+- **Customer Service**, Various Roles, Part-time, 2008 - 2010
 
 
 ## Professional Certifications
@@ -20,14 +22,16 @@ title: Curriculum Vitae
 
 
 ## Education
-**Bachelor's of Arts**, Economics, University of Arkansas, June 2015
+**Bachelor of Arts**, Economics Major, Philosophy Minor, International Business Minor, University of Arkansas, June 2015
 
-**Associate of Science**, General Studies, Northwest Arkansas Community College, June 2012
+**Associate of Science**, Northwest Arkansas Community College, June 2012
+
+**High School Graduate**, Bentonville High School, June 2010
 
 
 ## Honors & Awards
-- Arkansas Academic Challenge Scholarship Recipient, 2013-2015
-- Chancellor's Transfer Scholarship Recipient, 2012-2015
+- Arkansas Academic Challenge Scholarship Recipient, 2013 - 2015
+- Chancellor's Transfer Scholarship Recipient, 2012 - 2015
 - Distinguished Honors Graduate, 2012
 
 
@@ -37,13 +41,13 @@ title: Curriculum Vitae
 
 
 ## Service
-- **Advisor, Lead Organizer**, Effective Altruism Local Group, 2018 - Present
+- **Advisor, Former Lead Organizer**, Effective Altruism Local Group in San Francisco, 2018 - Present
 - **Treasurer**, McAllister Cooperative, 2019 - 2021
 - **Events Lead**, San Francisco Zen Center, 2019 - 2020
 
 
 ## Conferences
-- [2022] Attendee at Stanford Existential Risk Conference
-- [2020] Attendee at NeurIps
-- [2019] Attendee at Kaggle Days
-- [2015] Presenter at the Economics Scholars Program hosted at The Federal Reserve of Dallas
+- Attendee, Stanford Existential Risk Conference, Virtual, 2022
+- Attendee, NeurIps, Virtual, 2020
+- Attendee, Kaggle Days, San Francisco, CA, 2019
+- Presenter, the Economics Scholars Program hosted at The Federal Reserve of Dallas, Dallas, TX, 2015
