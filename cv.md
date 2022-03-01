@@ -11,8 +11,8 @@ title: Curriculum Vitae
 - **Data Scientist**, Consulting, 2017 - 2018
 - **Analyst**, First Republic Bank, 2016 - 2017
 - **Analyst**, Advantage Solutions, 2015 - 2016
-- **Customer Service**, Various Roles, Full-time, 2010 - 2015
-- **Customer Service**, Various Roles, Part-time, 2008 - 2010
+- **Customer Service**, Various Companies, Full-time, 2010 - 2015
+- **Customer Service**, Various Companies, Part-time, 2008 - 2010
 
 
 ## Professional Certifications
@@ -30,9 +30,9 @@ title: Curriculum Vitae
 
 
 ## Honors & Awards
-- Arkansas Academic Challenge Scholarship Recipient, 2013 - 2015
-- Chancellor's Transfer Scholarship Recipient, 2012 - 2015
-- Distinguished Honors Graduate, 2012
+- Arkansas Academic Challenge Scholarship Recipient, University of Arkansas, 2013 - 2015
+- Chancellor's Transfer Scholarship Recipient, University of Arkansas, 2012 - 2015
+- Distinguished Honors Graduate, Northwest Arkansas Community College, 2012
 
 
 ## Research
