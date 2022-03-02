@@ -3,21 +3,24 @@ layout: page
 title: Lists
 ---
 
-# Applications - Mobile Focused
-- [Loop Habits](https://loophabits.org/) (tracking positive habits)
-- Google Calendar (enables me to be dependable and maximize time with those I care for most)
-- Google Home & Assistant (easily the best virtual assistant that controls)
-- Mint by Intuit (makes budgeting 10x easier)
+# Mantras & Questions
+- "If my little brother were in my situation, what would I tell him?"
+- "How long can you grasp the sunshine?"
+- "Is your memory of me, me?"
+- "What would I be without this thought?"
+- "Can you be free from freedom?"
+- "If you've lived exactly the life of another person, you'd likely be in their situation."
+- "Be interested more than interesting."
 
 
 # Books - Nonfiction
 - **Doing Good Better** Will Macaskill
 - **Thinking, Fast and Slow** by Daniel Kahneman
 - **Superintelligence** by Nick Bostrom
-- **Superforecasting** by Philip Tetlock & Gardner
+- **Superforecasting** by Philip Tetlock & Dan Gardner
 - **Principles** by Ray Dalio
 - **The Changing World Order** by Ray Dalio
-- **Why Nations Fail** by Ace
+- **Why Nations Fail** by Daron Acemoglu & James Robinson
 - **Wealth of Nations** by Adam Smith
 - **Zero to One** by Peter Thiel
 - **The Hard Thing About Hard Things** by Ben Horowitz
@@ -34,8 +37,15 @@ title: Lists
 - **Siddhartha** by Hermann Hesse
 - **Candide** by Voltaire
 - **Slaughterhouse Five** by Kurt Vonnegut
+- **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan (reading now)
-- **Exhalations** by Ted Chiang (reading now)
+
+
+# Applications - Mobile Focused
+- [Loop Habits](https://loophabits.org/) (tracking positive habits)
+- Google Calendar (enables me to be dependable and maximize time with those I care for most)
+- Google Home & Assistant (easily the best virtual assistant that controls)
+- Mint by Intuit (makes budgeting 10x easier)
 
 
 # Chrome Extensions
@@ -59,8 +69,14 @@ title: Lists
 - Deep Learning Specialization (MOOC)
 
 
-# Music - Bands/Artists, Albums, Songs
+# Personality Tests
+- Meyers-Briggs: ENTJ
+- Enneagram: Reformer (1)
+- DiSC: Creative Archetype (High D & C)
+- PrinciplesYou: Shaper
 
+
+# Music - Bands/Artists, Albums, Songs
 - **The Mars Volta** (Band)
 - **Childish Gambino** (Artist)
 - **Skrillex** (Artist)

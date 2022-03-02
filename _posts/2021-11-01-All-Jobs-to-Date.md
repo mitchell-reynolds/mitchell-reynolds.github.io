@@ -42,3 +42,8 @@ I had an underweight BMI until my upper 20s. Similarly, I developed hobbies arou
 - For _minimum_ wage jobs, the goal should be working toward the _minimum_ level of effort required. That seems fair.
 - After my undergraduate working full-time, high skill employers really don't care those low skill positions. The competition was able to secure internships/research roles while you were trying to survive. It is in the employers best interest to choose the talent who has slightly relevant work experience & uncertain work ethic VS no relevant work experience & equally uncertain work ethic.
 - Notice the irony between the last two points (ie work toward the minimum effort; employers think you're doing this). It's extremely unlikely any of your professional employers will reach out to your low skill employers to see if you were the exception. _Note, I explored the naive "word harder" approach with very little return._
+
+# Soft Lessons Learned from being Low Skill Labor
+- Be kind. Even if I was having a tough day, I made the effort to be kind & polite. Others will naturally reciprocate and it'll end up making your day slightly better.
+- A mantra I still use is "If you had lived that person's exact life, you'd likely be just like them." I think this deepens empathy while also respecting one's agency as two people can have nearly identical experiences but have different outcomes. 
+- Always tip. If you're out to eat, you should factor in tipping as part of your meal.
