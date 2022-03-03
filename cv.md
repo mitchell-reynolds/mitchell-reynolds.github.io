@@ -16,17 +16,14 @@ title: Curriculum Vitae
 
 
 ## Education
-**Bachelor of Arts**, Economics Major, Philosophy Minor, International Business Minor, University of Arkansas, June 2015
-
-**Associate of Science**, Northwest Arkansas Community College, June 2012
-
-**High School Graduate**, Bentonville High School, June 2010
+- **Bachelor of Arts**, Economics Major, Philosophy Minor, International Business Minor, University of Arkansas, June 2015
+- **Associate of Science**, Northwest Arkansas Community College, June 2012
+- **High School Graduate**, Bentonville High School, June 2010
 
 
 ## Professional Certifications
-**Deep Learning Specialization**, Coursera, March 2022
-
-**Coding Bootcamp Graduate**, Data Science Immersive (500 hours), General Assembly, June 2017
+- **Deep Learning Specialization**, Coursera, March 2022
+- **Coding Bootcamp Graduate**, Data Science Immersive (500 hours), General Assembly, June 2017
 
 
 ## Honors & Awards
