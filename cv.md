@@ -12,11 +12,11 @@ title: Curriculum Vitae
 - **Analyst**, First Republic Bank, 2016 - 2017
 - **Analyst**, Advantage Solutions, 2015 - 2016
 - **Customer Service**, Various Companies, Full-time, 2010 - 2015
-- **Customer Service**, Various Companies, Part-time, 2008 - 2010
+- **Customer Service**, Various Companies, Part-time, 2007 - 2010
 
 
 ## Education
-- **Bachelor of Arts**, Economics Major, Philosophy Minor, International Business Minor, University of Arkansas, June 2015
+- **Bachelor of Arts**, Economics Major, Philosophy Minor, University of Arkansas, June 2015
 - **Associate of Science**, Northwest Arkansas Community College, June 2012
 - **High School Graduate**, Bentonville High School, June 2010
 
@@ -27,9 +27,11 @@ title: Curriculum Vitae
 
 
 ## Honors & Awards
+- Dean's List, University of Arkansas, 2014 - 2015
 - Arkansas Academic Challenge Scholarship Recipient, University of Arkansas, 2013 - 2015
 - Chancellor's Transfer Scholarship Recipient, University of Arkansas, 2012 - 2015
 - Distinguished Honors Graduate, Northwest Arkansas Community College, 2012
+- Dean's List, Northwest Arkansas Community College, 2010 - 2012
 
 
 ## Research
@@ -49,4 +51,4 @@ title: Curriculum Vitae
 - Attendee, NeurIps, Virtual, 2020
 - Attendee, Synapse by Segment, San Francisco, CA, 2019
 - Attendee, Kaggle Days, San Francisco, CA, 2019
-- Presenter, the Economics Scholars Program hosted at The Federal Reserve of Dallas, Dallas, TX, 2015
+- Presenter, Economics Scholars Program hosted at The Federal Reserve, Dallas, TX, 2015

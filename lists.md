@@ -4,17 +4,24 @@ title: Lists
 ---
 
 # Mantras & Questions
-- "If my little brother were in my situation, what would I tell him?"
+- "If my little brother were in my situation, what would be my guidance?"
+- "What are you working on at the moment, & why do you think it’s really important?" (Hamming)
+- " What important truth do very few people agree with you?" (Thiel)
 - "How long can you grasp the sunshine?"
 - "Is your memory of me, me?"
-- "What would I be without this thought?"
 - "Can you be free from freedom?"
+- "Who would I be without this thought?" (Katie)
 - "If you've lived exactly the life of another person, you'd likely be in their situation."
-- "Be interested more than interesting."
+- "Be interested more than interesting." (Carnegie)
 
+# Blogs, Forums, & Websites
+- [Cold Takes](https://cold-takes.com/)
+- [80,000 Hours](https://80000hours.org/)
+- [LessWrong](https://www.lesswrong.com/)
+- [Zen Habits](https://zenhabits.net/)
 
 # Books - Nonfiction
-- **Doing Good Better** Will Macaskill
+- **Doing Good Better** by Will Macaskill
 - **Thinking, Fast and Slow** by Daniel Kahneman
 - **Superintelligence** by Nick Bostrom
 - **Superforecasting** by Philip Tetlock & Dan Gardner
@@ -44,7 +51,7 @@ title: Lists
 # Applications - Mobile Focused
 - [Loop Habits](https://loophabits.org/) (tracking positive habits)
 - Google Calendar (enables me to be dependable and maximize time with those I care for most)
-- Google Home & Assistant (easily the best virtual assistant that controls)
+- Google Assistant with Home (best virtual assistant)
 - Mint by Intuit (makes budgeting 10x easier)
 
 
@@ -57,22 +64,23 @@ title: Lists
 
 
 # Courses - University, Bootcamp, MOOC
-- Human Nature and the Meaningful Life (University)
-- Advanced Ethics (University)
+- Human Nature & the Meaningful Life (University)
+- Classical Ethics (University)
 - Symbolic Logic (University)
 - Econometrics (University)
 - Microeconomic Development (University)
 - Macroeconomics in Emerging Markets (University)
-- Calculus (University)
-- Linear Algebra (Data Science Bootcamp)
+- Calculus I & II (University)
+- Statistics & Probability (University)
 - Bayesian Statistics (Data Science Bootcamp)
+- Linear Algebra (Data Science Bootcamp)
 - Deep Learning Specialization (MOOC)
 
 
 # Personality Tests
 - Meyers-Briggs: ENTJ
 - Enneagram: Reformer (1)
-- DiSC: Creative Archetype (High D & C)
+- DISC Assessment: Creative Archetype (High D & C)
 - PrinciplesYou: Shaper
 
 

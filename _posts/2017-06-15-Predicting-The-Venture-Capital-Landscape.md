@@ -3,6 +3,8 @@ title: Predicting the Venture Capital Landscape
 published: true
 ---
 
+**I recommend reading [original article with all the graphs on Medium](https://towardsdatascience.com/predicting-the-venture-capital-landscape-4e3496f8b92f)**
+
 # Introduction
 Where is the market headed? Will there be a slowdown or a rush for funding? What sectors are emerging or struggling?
 Living in San Francisco startups fade and boom into conversations just as they do in the news and in the market. And as most residents of the Bay Area, I moved here to actualize the dreams of being part of the rising tide of change coming out of Silicon Valley. From my early fascination of startups, I felt motivated to better understand startups and started with funding.

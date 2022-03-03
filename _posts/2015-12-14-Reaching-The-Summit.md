@@ -31,7 +31,7 @@ Multiple reports have spun-out of large banks betting on self-driven cars, which
 Mobile phones, tablets, laptops and computers are the center of daily life. Yet, the problem exists that with all this connectivity that individuals can often be overwhelmed with information and countless notifications from their multiple devices. Already, many large corporations are putting a stake into the Internet of Things (IOT - where things can be treated as a variable) to solve this small issue and address larger ones. The goal will be connect a user's multiple devices and predict what the individual wants as it is happening. Right now the internet is reactive. The IOT will be proactively providing you with only relevant information.
 
 # The Head Fake
-I'm biased. I believe all the above ventures will converge within one another and cannot wait for this future to materialize. The IOT will connect cars and dramatically increase the efficiency of travel and increase safety. Tesla already provides software updates that will eventually come with self-driven features.
+I'm biased. I believe all the above ventures will converge within one another and cannot wait for this future to materialize. The IOT will connect cars and dramatically increase the efficiency of travel and increase safety. Tesla already provides software updates that will eventually come with self-driving features.
 
 _Have you found my ~hidden~ truth?_
 
