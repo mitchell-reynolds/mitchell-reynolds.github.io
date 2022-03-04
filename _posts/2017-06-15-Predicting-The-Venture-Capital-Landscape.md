@@ -1,6 +1,7 @@
 ---
 title: Predicting the Venture Capital Landscape
 published: true
+categories: eudaimonia
 ---
 
 **I recommend reading [original article with all the graphs on Medium](https://towardsdatascience.com/predicting-the-venture-capital-landscape-4e3496f8b92f)**

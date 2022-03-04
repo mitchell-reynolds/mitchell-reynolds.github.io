@@ -1,6 +1,7 @@
 ---
 title: Modeling Fit
 published: false
+categories: eudaimonia
 ---
 
 I believe there are 5 major components for a person being competent in their role:

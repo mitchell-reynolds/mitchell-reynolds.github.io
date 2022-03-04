@@ -1,6 +1,7 @@
 ---
 title: What They Won’t Tell You about Pursuing an Economics PhD
 published: true
+categories: eudaimonia
 ---
 
 A couple years ago, I made a serious investment in a cost-benefit analysis for an Economics PhD. I’ve also included some rapid fire advice at the end of this article for those short on time. Given the current macroeconomic climate, I hope this provides a novel perspective on any graduate program research that you are currently undertaking.

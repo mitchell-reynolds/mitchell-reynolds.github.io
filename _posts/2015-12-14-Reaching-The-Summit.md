@@ -1,6 +1,7 @@
 ---
 title: Reaching the Summit
 published: true
+categories: eudaimonia
 ---
 
 > What important truth do very few people agree with you?

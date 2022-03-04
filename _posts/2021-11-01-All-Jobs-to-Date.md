@@ -1,6 +1,7 @@
 ---
 title: All Jobs to Date & Their Impact
 published: false
+categories: eudaimonia
 ---
 
 I recently listened to a podcast where the hosts were talking about their various jobs.
