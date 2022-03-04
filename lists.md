@@ -6,7 +6,7 @@ title: Lists
 # Mantras & Questions
 - "If my little brother were in my situation, what would be my guidance?"
 - "What are you working on at the moment, & why do you think it’s really important?" (Hamming)
-- " What important truth do very few people agree with you?" (Thiel)
+- "What important truth do very few people agree with you?" (Thiel)
 - "How long can you grasp the sunshine?"
 - "Is your memory of me, me?"
 - "Can you be free from freedom?"
