@@ -11,7 +11,7 @@ Professionally, I’m a Data Science Manager at Hint Water where I focus on auto
 
 Personally, I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);
-playing guitar left-handed while being right-handed everywhere else; and meditating every day & lifting weights listening to heavy metal.
+playing guitar left-handed while being right-handed everywhere else; and meditating every day then lifting weights listening to heavy metal.
 
 Writing gives me clarity & will focus on:
 

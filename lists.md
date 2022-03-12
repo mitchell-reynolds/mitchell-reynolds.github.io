@@ -4,8 +4,8 @@ title: Lists
 ---
 
 # Mantras & Questions
-- "If my little brother were in my situation, what would be my guidance?"
-- "What are you working on at the moment, & why do you think it’s really important?" (Hamming)
+- "If my younger brother were in my situation, what would be my guidance?"
+- "What's the most important problem in your field? What are you doing to solve that?" (Hamming)
 - "What important truth do very few people agree with you?" (Thiel)
 - "How long can you grasp the sunshine?"
 - "Is your memory of me, me?"
@@ -38,20 +38,23 @@ title: Lists
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
+- **Human Compatible** by Stuart J. Russell (reading now)
 
 
 # Books - Fiction
 - **Siddhartha** by Hermann Hesse
 - **Candide** by Voltaire
 - **Slaughterhouse Five** by Kurt Vonnegut
+- **Hitchhiker's Guide to the Galaxy** by Douglas Adams
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan (reading now)
+- **Cat's Cradle** by Kurt Vonnegut (reading now)
 
 
 # Applications - Mobile Focused
 - [Loop Habits](https://loophabits.org/) (tracking positive habits)
 - Google Calendar (enables me to be dependable and maximize time with those I care for most)
-- Google Assistant with Home (best virtual assistant)
+- Google Assistant with Home Mini (best virtual assistant)
 - Mint by Intuit (makes budgeting 10x easier)
 
 
