@@ -27,7 +27,7 @@ It made me reflect on the many I've had in my first 30 years.
 | Post Undergraduate     | Analyst, CPG         | 40                    | Role    |
 | Post Undergraduate     | Analyst, Loans       | 50                    | Role    |
 | Post Undergraduate     | Data Scientist       | 50                    | Role    |
-| Post Undergraduate     | Math Tutor           | 10                    | Project |
+| Post Undergraduate     | Math Tutor           | 10                    | Role    |
 | Post Undergraduate     | Data Scientist       | 60                    | Role    |
 | Post Undergraduate     | Data Science Manager | 60                    | Role    |
 

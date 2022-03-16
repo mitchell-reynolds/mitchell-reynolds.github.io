@@ -4,7 +4,7 @@ published: true
 categories: eudaimonia
 ---
 
-**I recommend reading [original article with all the graphs on Medium](https://towardsdatascience.com/predicting-the-venture-capital-landscape-4e3496f8b92f)**
+**I recommend reading the [original article with all the graphs on Medium.](https://towardsdatascience.com/predicting-the-venture-capital-landscape-4e3496f8b92f)**
 
 # Introduction
 Where is the market headed? Will there be a slowdown or a rush for funding? What sectors are emerging or struggling?

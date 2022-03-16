@@ -19,6 +19,7 @@ title: Lists
 - [80,000 Hours](https://80000hours.org/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Zen Habits](https://zenhabits.net/)
+- [Terence Tao](https://terrytao.wordpress.com/)
 
 # Books - Nonfiction
 - **Doing Good Better** by Will Macaskill
@@ -34,11 +35,15 @@ title: Lists
 - **Tools of Titans** by Tim Ferris
 - **Better Angels of Our Nature** by Steven Pinker
 - **The Last Lecture** by Randy Paunsch
+- **Tuesdays with Morrie** by Mitchell TODO
 - **Stumbling on Happiness** by Daniel Gilbert
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
 - **Human Compatible** by Stuart J. Russell (reading now)
+- **[Applied Rationality Handbook](https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf)** by CFAR (to read)
+- **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths (to read)
+- **Measured What Matters** by John Doerr (to read)
 
 
 # Books - Fiction
@@ -82,6 +87,7 @@ title: Lists
 
 # Personality Tests
 - Meyers-Briggs: ENTJ
+- OCEAN Test: High O; High C; High E; Low A; High N
 - Enneagram: Reformer (1)
 - DISC Assessment: Creative Archetype (High D & C)
 - PrinciplesYou: Shaper
