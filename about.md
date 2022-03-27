@@ -7,7 +7,7 @@ I'm Mitchell Reynolds and here's a digital representation of me:
 
 <img src="/assets/2019-12-17-profile-photo.jpeg" alt="mphoto" width="540" heigh="540"/>
 
-Professionally, I’m a Data Science Manager at Hint Water where I focus on automation with some Diet ML.
+Professionally, I’m a Data Science Manager at Hint Water where I focus on growth marketing & operations with the help of Diet ML.
 
 Personally, I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);

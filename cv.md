@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 
 ### Employment
-- **Senior Manager, Data Science**, Hint Water, 2020 - Present
+- **Senior Manager, Data Science Marketing**, Hint Water, 2020 - Present
 - **Data Scientist**, Hint Water, 2018 - 2020
 - **Data Scientist**, Consulting, 2017 - 2018
 - **Analyst**, First Republic Bank, 2016 - 2017
@@ -46,8 +46,9 @@ title: Curriculum Vitae
 - **Events Lead**, San Francisco Zen Center, 2019 - 2020
 
 
-### Conferences
+### Conferences & Outreach
 - Attendee, Stanford Existential Risk Conference, Virtual, 2022
+- Interviewee, Data Skeptic Podcast, Virtual, 2021
 - Attendee, NeurIps, Virtual, 2020
 - Attendee, Synapse by Segment, San Francisco, CA, 2019
 - Attendee, Kaggle Days, San Francisco, CA, 2019
