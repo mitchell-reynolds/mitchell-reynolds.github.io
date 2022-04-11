@@ -36,7 +36,3 @@ You may find me on [Facebook](https://www.facebook.com/mitchellsreynolds),
 I practice [taking control](https://www.humanetech.com/take-control)
 of and reducing my reliance on technology & media.
 Therefore, you should anticipate longer than normal response times from the above.
-
-Lastly, I optimize with the end in mind & make a large update to my
-[Bucket List](https://docs.google.com/presentation/d/13PBCeHsg2fWXOJ0NDQTl7dovCwSd5jfSxYgwVC6YC_4/edit?usp=sharing)
-every spring equinox with smaller updates about once per quarter.
