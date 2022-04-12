@@ -6,7 +6,8 @@ title: Curriculum Vitae
 
 
 ### Employment
-- **Senior Manager, Data Science Marketing**, Hint Water, 2020 - Present
+- **Senior Manager, Data Science**, Transparent Partners, 2022 - Present
+- **Senior Manager, Data Science**, Hint Water, 2020 - 2022
 - **Data Scientist**, Hint Water, 2018 - 2020
 - **Data Scientist**, Consulting, 2017 - 2018
 - **Analyst**, First Republic Bank, 2016 - 2017
@@ -22,8 +23,8 @@ title: Curriculum Vitae
 
 
 ### Professional Certifications
-- **Deep Learning Specialization**, Coursera, March 2022
-- **Coding Bootcamp Graduate**, Data Science Immersive (500 hours), General Assembly, June 2017
+- **Deep Learning Specialization**, Coursera, April 2022
+- **Coding Bootcamp Graduate**, Data Science Immersive (700 hours), General Assembly, June 2017
 
 
 ### Honors & Awards
