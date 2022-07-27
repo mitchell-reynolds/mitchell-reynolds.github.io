@@ -40,9 +40,9 @@ title: Lists
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Nonviolent Communication** by Marshall Rosenberg
+- **Human Compatible** by Stuart J. Russell (read)
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths (reading now)
-- **Human Compatible** by Stuart J. Russell (reading now)
 - **[Applied Rationality Handbook](https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf)** by CFAR (to read)
 
 
