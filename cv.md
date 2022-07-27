@@ -23,7 +23,7 @@ title: Curriculum Vitae
 
 
 ### Professional Certifications
-- **Deep Learning Specialization**, Coursera, April 2022
+- **Deep Learning Specialization**, Coursera, August 2022
 - **Coding Bootcamp Graduate**, Data Science Immersive (700 hours), General Assembly, June 2017
 
 
@@ -48,9 +48,10 @@ title: Curriculum Vitae
 
 
 ### Conferences & Outreach
+- Speaker, Effective Altruism Global, San Francisco, CA, 2022
 - Attendee, Stanford Existential Risk Conference, Virtual, 2022
 - Interviewee, Data Skeptic Podcast, Virtual, 2021
 - Attendee, NeurIps, Virtual, 2020
 - Attendee, Synapse by Segment, San Francisco, CA, 2019
 - Attendee, Kaggle Days, San Francisco, CA, 2019
-- Presenter, Economics Scholars Program hosted at The Federal Reserve, Dallas, TX, 2015
+- Speaker, Economics Scholars Program hosted at The Federal Reserve, Dallas, TX, 2015
