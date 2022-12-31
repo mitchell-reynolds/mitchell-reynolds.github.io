@@ -5,7 +5,7 @@ title: About
 
 I'm Mitchell Reynolds and here's a digital representation of me:
 
-<img src="/assets/2019-12-17-profile-photo.jpeg" alt="mphoto" width="540" heigh="540"/>
+<img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540" heigh="540"/>
 
 Professionally, I’m a Senior Manager in management consulting where I focus on growth marketing, data science, and analytics.
 
