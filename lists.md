@@ -40,9 +40,9 @@ title: Lists
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Nonviolent Communication** by Marshall Rosenberg
-- **Human Compatible** by Stuart J. Russell (read)
+- **Human Compatible** by Stuart J. Russell
+- **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
-- **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths (reading now)
 - **[Applied Rationality Handbook](https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf)** by CFAR (to read)
 
 
@@ -52,7 +52,7 @@ title: Lists
 - **Slaughterhouse Five** by Kurt Vonnegut
 - **Hitchhiker's Guide to the Galaxy** by Douglas Adams
 - **Exhalations** by Ted Chiang
-- **AI 2041** by Kai-Fu Lee & Chen Qiufan (reading now)
+- **AI 2041** by Kai-Fu Lee & Chen Qiufan
 - **Cat's Cradle** by Kurt Vonnegut (reading now)
 
 
@@ -97,14 +97,16 @@ title: Lists
 - **The Mars Volta** (Band)
 - **Childish Gambino** (Artist)
 - **Skrillex** (Artist)
+- **Flume** (Artist)
+- **Zhu** (Artist)
 - **Jon Hopkins** (Artist)
 - **Jean-Michel Blais** (Artist)
 - **Frederic Chopin** (Composer)
 - **Arthur Rubinstein** (Pianist)
-- _Colors_ by **Between the Buried and Me**
-- "Bowl of Oranges" by **Bright Eyes**
-- "Of Moons, Birds & Monsters" by **MGMT**
-- "Swim to the Moon" by **Between the Buried and Me**
+- _Colors_ by **Between the Buried and Me** (album)
+- "Swim to the Moon" by **Between the Buried and Me** (song)
+- "Bowl of Oranges" by **Bright Eyes** (song)
+- "Of Moons, Birds & Monsters" by **MGMT** (song)
 
 
 # Art Movements & Genres
@@ -112,6 +114,7 @@ title: Lists
 - Impressionism (Monet, Van Gogh)
 - Romantic Era Music (eg Chopin, Tchaikovsky)
 - Experimental Electronic / Contemporary Music (usually small, indie artists)
+- Metal (metalcore or heavier for exercising)
 - Modern & Contemporary Architecture; Minimalist Living
 - Comedies (prefer films over shows generally)
-- Normcore Fashion to minimize cost, both in terms of time and money (selvedge denim; simple colors; black preferred)
+- Normcore fashion to minimize cost, both in terms of time and money (selvedge denim; simple colors; black preferred)
