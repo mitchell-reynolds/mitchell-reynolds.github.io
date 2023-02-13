@@ -7,18 +7,17 @@ categories:
 ---
 
 # Reading & speaking speeds 
-I have mild dyslexia where I'm attuned to fonts & have searched to optimized my reading. 
-A person reading English averages [about 200 words per minute [WPM]](https://secure.execuread.com/facts/). 
-This can be roughly doubled (500 WPM) by simply following along with a bookmark on a physical book. 
+I have mild dyslexia where I'm attuned to fonts & have searched to optimize my reading. 
+A person reading English averages [about 200 words per minute [WPM]](https://secure.execuread.com/facts/) as our base rate. 
+This base rate can be roughly doubled (500 WPM) by simply following along with a bookmark on a physical book. 
 I've tested myself to confirm these speeds. 
 
-Speed Reading courses claim to 4-6x some of these base rates up to 2000 WPM.
-There are also Chrome Extensions that can increase online reading speed (200 WPM)
-by fixing one's focus to a specific point. 
+Speed Reading courses claim to 10x the above base rate up to 2000 WPM.
+There are also Chrome Extensions that can increase online reading speed (200 WPM) by fixing one's focus to a specific point. 
 I've found the 500 WPM to be comfortable & retainable; although, it requires some training to time one's blinking.
 
 For audio, a person [speaks at 140 WPM](https://tfcs.baruch.cuny.edu/speaking-rate/) on average. 
-Therefore, podcasts can be doubled to reach above average reading speeds without a bookmark.
+Therefore, podcasts can be doubled to reach above average base rate reading speeds without a bookmark.
 Yet, I find podcasts to be best consumed while commuting or easy chores at 1.25x speed (or 180 WPM).
 
 # Audiovisual Uncertainty
@@ -35,7 +34,7 @@ All in all, I'd be delighted to meet an information scientist or theorist who co
 # Relevancy for AI Safety 
 As we develop AGI systems, I believe it will be necessary for this AGI to explain it's advanced reasoning to us.
 If we stick with the definition of an AGI that's as smart as a committee of intelligent humans, it will need a way to summarize & relate its findings to us.
-I'm borrowing the beginning stage of Paul Christiano's [Iterated Distillation and Amplification](https://www.lesswrong.com/posts/HqLxuZ4LhaFhmAHWk/iterated-distillation-and-amplification-1)
+I'm borrowing from the beginning stage of Paul Christiano's [Iterated Distillation and Amplification](https://www.lesswrong.com/posts/HqLxuZ4LhaFhmAHWk/iterated-distillation-and-amplification-1)
 where we're still interacting directly with the AGI. 
 It's unclear to me what medium of information exchange will be required during this phase. 
 
