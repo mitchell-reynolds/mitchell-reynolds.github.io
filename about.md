@@ -7,7 +7,7 @@ I'm Mitchell Reynolds and here's a digital representation of me:
 
 <img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540" heigh="540"/>
 
-Professionally, I’m a Senior Manager in management consulting where I focus on growth marketing, data science, and analytics.
+Professionally, I’m a Data Science Manager where I focus on growth marketing & data science.
 
 Personally, I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);
