@@ -16,7 +16,7 @@ I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);
 playing guitar left-handed while being right-handed everywhere else; 
 and meditating every day then later lifting weights listening to metalcore.
-My hobbies range from playing tabletop games, discussing philosophy (focus on ethics & consciousness),
+My other hobbies range from playing tabletop games, discussing philosophy (focus on ethics & consciousness),
 and supporting the arts through comedy & experiential art.
 
 ## Purpose (blog specific):
@@ -47,7 +47,7 @@ I largely identify as an
 [Absurdist](https://en.wikipedia.org/wiki/Absurdism), and
 [Aspiring Polymath](https://en.wikipedia.org/wiki/Polymath).
 
-## Connect
+## Connection:
 [LinkedIn](https://www.linkedin.com/in/mitchellsreynolds/),
 [LessWrong](https://www.lesswrong.com/users/mitchell-reynolds),
 [Metaculus](https://www.metaculus.com/accounts/profile/126624/),
