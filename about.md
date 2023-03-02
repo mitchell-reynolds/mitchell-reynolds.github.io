@@ -5,7 +5,7 @@ title: About
 
 I'm Mitchell Reynolds and here's a digital representation of me:
 
-<img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540" height="540"/>
+<img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540"/>
 
 ## Professionally:
 I’m a Data Science Manager where I have extensive experience 
@@ -28,8 +28,8 @@ Writing gives me clarity & will focus on:
 
 ## Purpose (lifelong):
 I've defined my own life purpose to be something like:
-- Be a polymath (arist, scientist, mover)
-- Reduce suffering & try to not cause harm (see intellectual stuff below)
+- Be a polymath (artist, scientist, mover)
+- Reduce suffering & try to not cause harm (see intellectual identification below)
 - Have fun because life is absurd
 
 Around each spring equinox, I make a major update to 
@@ -42,7 +42,7 @@ I plan on using something more like [YearCompass](https://yearcompass.com/) star
 I largely identify as an
 [Effective Altruist](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism),
 [Longtermist](https://en.wikipedia.org/wiki/Longtermism),
-[Deontologist](https://plato.stanford.edu/entries/ethics-deontological/),
+[Ethical Deontologist](https://plato.stanford.edu/entries/ethics-deontological/),
 [Rationalist](https://www.lesswrong.com/rationality), 
 [Absurdist](https://en.wikipedia.org/wiki/Absurdism), and
 [Aspiring Polymath](https://en.wikipedia.org/wiki/Polymath).
