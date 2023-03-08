@@ -6,26 +6,49 @@ categories:
 ---
 
 # Background, Context, & Goals
-This is the first installment of my summary for the Artificial General Intelligence Safety Fundamentals Program [Program] 
-offered by 
+This is the first installment of my summary & extrapolations for the 
+Artificial General Intelligence Safety Fundamentals Program [Program] offered by 
 [BlueDot,](https://www.agisafetyfundamentals.com/) which spun out of 
 [Effective Altruism Cambridge](https://www.eacambridge.org/) in collaboration with
 [Richard Ngo.](https://www.richardcngo.com/)
 My involvement with the Program began in 2021 where I started as a participant facilitated by Michael Chen. 
 In 2022 and 2023, I was offered to be a paid facilitator for 1 cohort each iteration. 
 
-My goals for facilitating are to:
+My goals for facilitating & writing these summaries are to:
 1. Improve participants understanding on this important topic.
 2. Establish connections with those also interested in contributing to the AI alignment problem.
-   - Connections (Direct work): Either these folks will be future colleagues or will have overlap in.
-   - Connections (Indirect work): As most participants are technical, I can see a future where SWE/researchers are working for any of the [MAMAA](https://fortune.com/2021/10/29/faang-mamaa-jim-cramer-tech-facebook-meta/) companies and could be part of the capabilities frontier.
-3. Improve my clarity and communication around this challenging topic while also staying up to date on the latest research.
-4. [Bonus] Establish myself as a credible, nuanced source of AGI safety knowledge.
-5. [Bonus] Directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
+   - Connections (Direct work): Either these folks will be future colleagues or will have overlap in the field of AI alignment. In my view, I most industries will be impacted by the advancements of AI.
+   - Connections (Indirect work): As most participants are technical, I can see a future where SWE/researchers are working for any of the [MAMAA](https://fortune.com/2021/10/29/faang-mamaa-jim-cramer-tech-facebook-meta/) companies and could be part of the capabilities frontier. I believe that capabilities SWE/researchers should be knowledgeable about AGI safety.
+3. Improve, clarify, & solidify my own understanding around this challenging topic while also staying up to date on the latest research.
+4. Practice my oral & written communication skills for AGI safety information.
+5. [Bonus] Establish myself as a credible, nuanced source of AGI safety knowledge.
+6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
 # Week 0: Introduction to ML
 
+High level, machine learning (a subset of artificial intelligence) is giving a machine a method to which it may learn from data.
+The current paradigm leverages mostly deep learning where the system is often shown millions of examples to generalize to
+a sample of never-before-seen information (aka [train-dev-test split](https://cs230.stanford.edu/blog/split/)).
+In my view, generalization is the most interesting aspect as it is so difficult for AI. 
+Humans are given a few examples and generalize rather easily. As of right now, AIs struggle (more in my Week 1 summary below).
+
+The diagram below by Ngo
+<img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="540"/>
+_Diagram from [A short introduction to machine learning by Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
+
+_Ngo says that each box should be seen as having the notifier of "and others" where I'd like to add evolutionary computation
+partially inspired from the book, [The Master Algorithm.](https://en.wikipedia.org/wiki/The_Master_Algorithm)_
+
+<img src="/assets/2021-ngo-detailed-breakdown.png" alt="NgoDetails" width="540"/>
+_Diagram from [A short introduction to machine learning by Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
+
 # Week 1: Artificial General Intelligence
+
+Although AIs struggle right now with generalizing (and other human capabilities), I believe our uniqueness & intellectual superiority will _largely_ fade by the end of this century. 
+
+Steve Wozniak has the clever, cute
+["Coffee Test"](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
+to determine whether a system possesses general intelligence. 
 
 # Week 2: Reward misspecification and instrumental convergence
 
@@ -42,7 +65,7 @@ _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38N
 - [Machine Learning for Humans (2017) by Vishi Maini and Sabri](https://medium.com/@v_maini/supervised-learning-740383a2feab)
 
 ### Videos
-- [But what is a neural network(2017)](https://www.youtube.com/watch?v=aircAruvnKk)
+- [But what is a neural network (2017)](https://www.youtube.com/watch?v=aircAruvnKk)
 - [Gradient descent, how neural networks learn (2017)](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 - [What is backpropagation really doing? (2021)](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 - [What is self-supervised learning? (2021)](https://youtu.be/sJzuNAisXHA)
