@@ -37,13 +37,13 @@ Ngo's diagram outlines Optimization techniques and Neural network architectures
 where the [~2 hours of videos](./AGI-Safety-Program-Part-1#videos) cover both of these deep learning concepts in detail.
 The most salient of these is the transformer as it has been demonstrated to learn context and be deployed in various use cases (such as text and images).
 
-<img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="540"/>
+<img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="512" class="center"/>
 
 _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
 
 Finally, Ngo breaks down ML tasks further toward the end of his post. 
 
-<img src="/assets/2021-ngo-detailed-breakdown.png" alt="NgoDetails" width="540"/>
+<img src="/assets/2021-ngo-detailed-breakdown.png" alt="NgoDetails" width="512" class="center"/>
 
 _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
 
@@ -57,9 +57,7 @@ Steve Wozniak has the clever/cute
 [Coffee Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
 to determine whether a system possesses general intelligence. 
 
-"
-A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons.
-"
+"A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons."
 
 Although AIs struggle right now with generalizing (and [other human capabilities](https://intelligence.org/2015/07/24/four-background-claims/)), 
 I believe our uniqueness & intellectual superiority will _largely_ fade by the end of this century.
@@ -71,7 +69,7 @@ her forecast in late 2022 with the median likelihood to be ~2040 now vs. ~2050 p
 By induction, I can assume that she also increased her ~80% forecast as well but am not able to say precisely. 
 It is worth noting that these forecasts are to bound our expectations vs. seeing them as precise figures to defend.
 
-<img src="/assets/2020-cotra-forecast.png" alt="Cotra2020FC" width="540"/>
+<img src="/assets/2020-cotra-forecast.png" alt="Cotra2020FC" width="1024" class="center"/>
 
 Given these timelines, I hope (and with modest confidence believe) we're in the [slow takeoff scenario](https://sideways-view.com/2018/02/24/takeoff-speeds/)
 where we'll see continuous acceleration of technological progress. Practically speaking, I don't think 
@@ -86,7 +84,7 @@ Although the Program doesn't cover the various types of intelligent agents, I'd 
 
 All of that said, I also think we're in the most important century and have included Holden Karnofsky's fascinating [graphic](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/) below.
 
-<img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="540"/>
+<img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="2024"/>
 
 # Week 2: Reward misspecification and instrumental convergence
 
