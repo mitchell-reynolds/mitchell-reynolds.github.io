@@ -76,15 +76,26 @@ where we'll see continuous acceleration of technological progress. Practically s
 there's much value in considering a fast takeoff scenario as we'd be unable to react to a superintelligent agent - more below.
 
 Although the Program doesn't cover the various types of intelligent agents, I'd like to do so below for the most popular kinds:
-- Transformative AI: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [OpenPhil](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
-- Artificial General Intelligence: An AI that's broadly capable of most/all functions that an animal can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, and humans. We're quickly scaling up the ladder as artificial minds become more and more capable.
-   - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps and dolphins first). [Longer list](https://thehumaneleague.org/article/animal-intelligence)   
+- Transformative AI [TAI]: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [OpenPhil](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
+- Artificial General Intelligence [AGI]: An AI that's broadly capable of most/all functions that an animal can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, and humans. We're quickly scaling up the ladder as artificial minds become more and more capable.
+   - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first). [Longer list](https://thehumaneleague.org/article/animal-intelligence)   
+- Seed AI: An AGI that recursively rewrites its own source code without human intervention. [Yudkowsky (2007)](http://intelligence.org/files/LOGI.pdf)
 - Superintelligent AI: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
-   - In my view, an AGI will very likely become a superintelligent agent. We'd need to box/bound in the AGI or rethink how design AI systems. Bostrom explores several methods in his book that aren't all that promising.  
+   - In my view, an AGI will very likely become a superintelligent agent. We'd need to bound the AGI or rethink how we design AI systems. Bostrom explores several boxing methods in his book that aren't all that promising and suggests of coming up with novel ways to ensure that a Seed AI has certain values "pre-loaded."
+The ordering above has a feeling of increasing levels of complexity or impressiveness. 
+A lighter version is explored in several candid/hopeful short stories in Kai-Fu Lee's **AI 2041.** 
+He describes _realistic AI,_ or "technologies that either already exist 
+or can be reasonably expected to mature within the next twenty years."
+Lee and others seem skeptical of TAI happening this century. 
+I think the best resource pushing back on this view is from
+[All Possible Views About Humanity's Future Are Wild.](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/)
+In this post Karnofsky explores this conservative view by steelmanning various timelines of 100, 500, and even 100,000 years.
+For galaxy-scale timelines this would converge on the same pixel as the below visual. 
+Granted the level of urgency would (thankfully) lift from our shoulders, but we'd still be among a tiny group of people placed in an important time period. 
 
-All of that said, I also think we're in the most important century and have included Holden Karnofsky's fascinating [graphic](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/) below.
+<img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="1012"/>
 
-<img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="2024"/>
+[Cold Takes](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)
 
 # Week 2: Reward misspecification and instrumental convergence
 
