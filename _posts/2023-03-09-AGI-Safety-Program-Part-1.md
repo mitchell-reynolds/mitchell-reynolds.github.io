@@ -24,17 +24,17 @@ My goals for facilitating & writing these summaries are to:
 5. [Bonus] Establish myself as a credible & properly nuanced source of AGI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-# Week 0: Introduction to ML
+# Week 0 (Optional): Introduction to ML
 
 High level, machine learning (a subset of artificial intelligence) is giving a machine a method to which it may learn from data.
 The current paradigm leverages mostly deep learning where the system is often shown millions of examples to generalize to
-a sample of never-before-seen information (aka [train-dev-test split](https://cs230.stanford.edu/blog/split/)).
+a sample of never-before-seen information (via a [train-dev-test split](https://cs230.stanford.edu/blog/split/) process).
 In my view, generalization is among the most interesting aspects of ML as it is so difficult to do well. 
 Humans are given a few examples and generalize rather easily. As of right now, AIs struggle to generalize (more in my Week 1 summary below).
 
 Given that most of the latest research deploys deep learning, 
 Ngo's diagram outlines Optimization techniques and Neural network architectures
-where the [~2 hours of videos](./AGI-Safety-Program-Part-1#videos) cover both in detail.
+where the [~2 hours of videos](./AGI-Safety-Program-Part-1#videos) cover both of these deep learning concepts in detail.
 The most salient of these is the transformer as it has been demonstrated to learn context and be deployed in various use cases (such as text and images).
 
 <img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="540"/>
@@ -57,17 +57,36 @@ Steve Wozniak has the clever/cute
 [Coffee Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
 to determine whether a system possesses general intelligence. 
 
-"""
+"
 A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons.
-"""
+"
 
 Although AIs struggle right now with generalizing (and [other human capabilities](https://intelligence.org/2015/07/24/four-background-claims/)), 
 I believe our uniqueness & intellectual superiority will _largely_ fade by the end of this century.
-This forecast of "AGI is ~80% likely by the end of this century" comes from [Bio-anchors by Ajeya Cotra (2020)]()
+This forecast of "AGI is ~80% likely by the end of this century" comes from [Bio-anchors by Ajeya Cotra (2020)](https://www.alignmentforum.org/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines)
 where 2021 Holden Karnofsky [summarizes where the "Experts" stand](https://www.cold-takes.com/where-ai-forecasting-stands-today/)
 and concludes a ~2/3 chance by the end of this century. 
 Cotra [updated](https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines)
-her forecast in late 2022 with the median likelihood to be ~2040 now vs. ~2050 previously.
+her forecast in late 2022 with the median likelihood to be ~2040 now vs. ~2050 previously. 
+By induction, I can assume that she also increased her ~80% forecast as well but am not able to say precisely. 
+It is worth noting that these forecasts are to bound our expectations vs. seeing them as precise figures to defend.
+
+<img src="/assets/2020-cotra-forecast.png" alt="Cotra2020FC" width="540"/>
+
+Given these timelines, I hope (and with modest confidence believe) we're in the [slow takeoff scenario](https://sideways-view.com/2018/02/24/takeoff-speeds/)
+where we'll see continuous acceleration of technological progress. Practically speaking, I don't think 
+there's much value in considering a fast takeoff scenario as we'd be unable to react to a superintelligent agent - more below.
+
+Although the Program doesn't cover the various types of intelligent agents, I'd like to do so below for the most popular kinds:
+- Transformative AI: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [OpenPhil](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
+- Artificial General Intelligence: An AI that's broadly capable of most/all functions that an animal can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, and humans. We're quickly scaling up the ladder as artificial minds become more and more capable.
+   - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps and dolphins first). [Longer list](https://thehumaneleague.org/article/animal-intelligence)   
+- Superintelligent AI: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
+   - In my view, an AGI will very likely become a superintelligent agent. We'd need to box/bound in the AGI or rethink how design AI systems. Bostrom explores several methods in his book that aren't all that promising.  
+
+All of that said, I also think we're in the most important century and have included Holden Karnofsky's fascinating [graphic](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/) below.
+
+<img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="540"/>
 
 # Week 2: Reward misspecification and instrumental convergence
 
