@@ -28,8 +28,11 @@ Writing gives me clarity & will focus on:
 
 ## Purpose (lifelong):
 I've defined my own life purpose to be something like:
-- Be a polymath (artist, scientist, mover)
-- Reduce suffering & try to not cause harm (see intellectual identification below)
+- Be a polymath (scientist, artist, mover)
+   - Sciences: Computer, Economics, Physics
+   - Arts: Guitarist, Writer
+   - Mover: Top 5% physically by benching bodyweight, squatting 1.5x, and deadlifting 2x bodyweight; Chess Boxing; Climbing
+- Reduce suffering, increase happiness/eudaimonia & try to not cause harm (see intellectual identification below)
 - Have fun because life is absurd
 
 Around each spring equinox, I make a major update to 

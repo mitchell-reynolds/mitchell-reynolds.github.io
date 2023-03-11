@@ -19,7 +19,7 @@ Lastly, my involvement with the Program began in 2021 where I started as a parti
 In both 2022 & 2023, I was offered to be a paid facilitator for 1 cohort each iteration. 
 
 ## Instrumental Goals
-My goals for facilitating the Program & independently writing these summaries are to:
+My instrumental goals for facilitating the Program & independently writing these summaries are to:
 1. Improve participants' & readers' understanding on this important topic.
 2. Establish connections with those also interested in contributing to the AI alignment problem.
    - Connections (Direct work): Either these folks will be future colleagues or will have overlap in the field of AI alignment. In my view, I believe most industries will be impacted by the advancements of AI.
@@ -28,6 +28,8 @@ My goals for facilitating the Program & independently writing these summaries ar
 4. Practice my oral & written communication skills for AGI safety information and to ["find ways to help people understand the core parts of the challenges we might face, in as much detail as is feasible."](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/)
 5. [Bonus] Establish myself as a credible & properly nuanced source of AGI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
+
+My final goals are [here.](./about#purpose-lifelong)
 
 # Week 0 (Optional): Introduction to ML
 
@@ -54,12 +56,20 @@ _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZm
 
 # Week 1: Artificial General Intelligence
 
-The Program officially begins with narrowing on the definition of Artificial General Intelligence [AGI].
+The Program officially begins with a recently defined term "foundation models."
+A foundation model is a model trained on broad data that can be fine-tuned to a range of more specific tasks.
+The scale & scope of foundation models are what makes it unique. 
+AI progress traditionally has 3 inputs: software, hardware, and data. 
+To me, foundation models is emphasizing the leveraging of Moore's Law (hardware acceleration via improved computation costs)
+that's able to intake gigabytes of data (Sutton's scaling law)
+in larger, generalized methods via transformers (new software from a 2017 paper).
+EFF used to [track various narrow AI/ML metrics](https://www.eff.org/ai/metrics) with the last entries from Feb-2019,
+ending with GPT2. The main story then (and still today) is that progress is happening rapidly.
+
+Then, the program better defines intelligence and, in particular, Artificial General Intelligence [AGI].
 "Intelligence measures an agent’s ability to achieve goals in a wide range of environments."
 [Legg & Hutter 2.6 (2007)](https://ar5iv.labs.arxiv.org/html/0712.3329)
 Legg & Hutter define intelligence mathematically in their paper but the vague intuition works well for the Program.
-EFF used to [track various narrow AI/ML metrics](https://www.eff.org/ai/metrics) with the last entries in 2019,
-the same year as GPT2. The main story then (and still today) is that progress is happening rapidly.
 Steve Wozniak has the clever/cute
 [Coffee Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
 to determine whether a system possesses general intelligence. 
@@ -77,6 +87,8 @@ By induction, I can assume that she also increased her ~80% forecast as well but
 It is worth noting that these forecasts are to bound our expectations vs. seeing them as precise figures to defend.
 
 <img src="/assets/2020-cotra-forecast.png" alt="Cotra2020FC" width="1024" class="center"/>
+
+_Chart from [Bio-Anchors by Cotra from Cold Takes](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)_
 
 Given these timelines, I hope (and with modest confidence believe) we're in the [slow takeoff scenario](https://sideways-view.com/2018/02/24/takeoff-speeds/)
 where we'll see continuous acceleration of technological progress. Practically speaking, I don't think 
@@ -117,19 +129,25 @@ Why put safety into "AGI Safety" at all?
 > 3. Even if the above two are solved, it is still possible for an AGI to create a terrible outcome that results from the **value loading problem.**
 >    - Using the example goal of "cure cancer" to an AGI: the AGI _could_ solve for this by giving everyone a pill where they die at the age of 40. The AGI found that cancer is much more common in old age and solved the goal given but is not aligned with human values.
 
-_["Why AGI?"](./Why-AGI#beliefs--arguments)_
+_From my ["Why AGI?"](./Why-AGI#beliefs--arguments) post_
 
 This is how I was introduced to the Alignment Problem.
 [MIRI](https://intelligence.org/2013/05/05/five-theses-two-lemmas-and-a-couple-of-strategic-implications/) 
 also has these points and more in their major concerns for alignment. 
 
-**Reward hacking** is where RL agents exploit gaps in misspecified reward functions [Pan (2022)](https://ar5iv.labs.arxiv.org/html/2201.03544)
+The program begins to break down these "what could go wrong" theses focusing first on reward misspecification.
+**Reward misspecification** occur because real-world tasks have numerous, often conflicting desiderata.
+**Reward hacking** (a subset of reward misspecification) is where RL agents exploit gaps in misspecified reward functions.
+[Pan (2022)](https://ar5iv.labs.arxiv.org/html/2201.03544) 
+The other type of reward misspecification is from humans not designing the correct reward function in the first place
+(eg TODO). 
 **Specification gaming** is a behaviour that satisfies the literal specification of an objective
 without achieving the intended outcome.
 [Deepmind (2020)](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
-My example under point 3 above is one hypothetical example as well as the myth of [King Midas](https://en.wikipedia.org/wiki/Midas) 
-and the researchers at Deepmind made a
-[combined list of examples from AI research.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+Point 3 above is one hypothetical example as well as the myth of [King Midas,](https://en.wikipedia.org/wiki/Midas) 
+The researchers at Deepmind made a
+[combined list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+of examples from AI research if that's of interest.
 
 # Week 3: Goal misgeneralization
 
@@ -139,7 +157,8 @@ and the researchers at Deepmind made a
 # Links to Materials [~7 hours]
 
 _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38NoahF5?si=2567ed53d3944784) for the 
-2022 iteration of the Program with **some** of the readings that should be viewed as supplemental and not as a substitution._ 
+2022 iteration of the Program with **some** of the readings that should be viewed as supplemental and not as a substitution.
+Lastly, I add in optional readings that I personally view as important enough to be included here & would recommend._ 
 
 ## Materials for Week 0: Introduction to ML [~165 minutes]
 ### Readings
@@ -166,6 +185,9 @@ _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38N
 - [Intelligence explosion: evidence and import (2012) by Luke Muehlhauser and Anna Salamon](https://drive.google.com/file/d/1QxMuScnYvyq-XmxYeqBRHKz7cZoOosHr/view?usp=sharing)
 - [[Advanced ML] Future ML Systems Will Be Qualitatively Different (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/)
 - [[Advanced ML] More Is Different for AI (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/more-is-different-for-ai/)
+- [[Optional] The Bitter Lesson (2019) by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [[Optional] AI and Efficiency (2020) by Danny Hernandez and Tom Brown](https://openai.com/research/ai-and-efficiency)
+- [[Optional]](https://cset.georgetown.edu/wp-content/uploads/AI-and-Compute-How-Much-Longer-Can-Computing-Power-Drive-Artificial-Intelligence-Progress.pdf)
 
 ---
 
