@@ -16,6 +16,7 @@ title: Lists
 
 # Blogs, Forums, & Websites
 - [Cold Takes](https://cold-takes.com/)
+- [Alignment Forum](https://www.alignmentforum.org/)
 - [80,000 Hours](https://80000hours.org/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Zen Habits](https://zenhabits.net/)
@@ -43,7 +44,6 @@ title: Lists
 - **Human Compatible** by Stuart J. Russell
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
-- **[Applied Rationality Handbook](https://www.rationality.org/files/CFAR_Handbook_2021-01.pdf)** by CFAR (to read)
 
 
 # Books - Fiction
@@ -51,6 +51,7 @@ title: Lists
 - **Candide** by Voltaire
 - **Slaughterhouse Five** by Kurt Vonnegut
 - **Hitchhiker's Guide to the Galaxy** by Douglas Adams
+- **Fight Club** by Chuck Palahniuk
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan
 - **Cat's Cradle** by Kurt Vonnegut (reading now)

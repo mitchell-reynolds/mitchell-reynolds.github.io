@@ -1,5 +1,5 @@
 ---
-title: Artificial General Intelligence Safety Fundamentals Summary (2023 Cohort) - Part 1
+title: AGI Safety Summary (2023 Cohort) - Part 1
 published: true
 categories:
 - agi
@@ -10,11 +10,16 @@ This is the first installment of my summary & extrapolations for the
 Artificial General Intelligence Safety Fundamentals Program [Program] offered by 
 [BlueDot,](https://www.agisafetyfundamentals.com/) which spun out of 
 [Effective Altruism Cambridge](https://www.eacambridge.org/) in collaboration with
-[Richard Ngo.](https://www.richardcngo.com/)
-My involvement with the Program began in 2021 where I started as a participant facilitated by Michael Chen. 
-In 2022 and 2023, I was offered to be a paid facilitator for 1 cohort each iteration. 
+[Richard Ngo](https://www.richardcngo.com/).
+Although I have [~1000s hours of AI/ML training](https://mitchell-reynolds.github.io/Why-AGI#ai-training-1000s-of-hours),
+the program begins with an optional Week 0 that takes ~2 hours to get up to speed conceptually. 
+I will assume this (admittedly small) audience has this level of familiarity and 
+that these summaries go more into "what it's like inside my mind." 
+Lastly, my involvement with the Program began in 2021 where I started as a participant facilitated by Michael Chen. 
+In both 2022 & 2023, I was offered to be a paid facilitator for 1 cohort each iteration. 
 
-My goals for facilitating & writing these summaries are to:
+## Instrumental Goals
+My goals for facilitating the Program & independently writing these summaries are to:
 1. Improve participants' & readers' understanding on this important topic.
 2. Establish connections with those also interested in contributing to the AI alignment problem.
    - Connections (Direct work): Either these folks will be future colleagues or will have overlap in the field of AI alignment. In my view, I believe most industries will be impacted by the advancements of AI.
@@ -37,13 +42,13 @@ Ngo's diagram outlines Optimization techniques and Neural network architectures
 where the [~2 hours of videos](./AGI-Safety-Program-Part-1#videos) cover both of these deep learning concepts in detail.
 The most salient of these is the transformer as it has been demonstrated to learn context and be deployed in various use cases (such as text and images).
 
-<img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="512" class="center"/>
+<img src="/assets/2021-ngo-ml-summary-diagram.png" alt="NgoSummary" width="1024" class="center"/>
 
 _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
 
 Finally, Ngo breaks down ML tasks further toward the end of his post. 
 
-<img src="/assets/2021-ngo-detailed-breakdown.png" alt="NgoDetails" width="512" class="center"/>
+<img src="/assets/2021-ngo-detailed-breakdown.png" alt="NgoDetails" width="1024" class="center"/>
 
 _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
 
@@ -53,13 +58,15 @@ The Program officially begins with narrowing on the definition of Artificial Gen
 "Intelligence measures an agent’s ability to achieve goals in a wide range of environments."
 [Legg & Hutter 2.6 (2007)](https://ar5iv.labs.arxiv.org/html/0712.3329)
 Legg & Hutter define intelligence mathematically in their paper but the vague intuition works well for the Program.
+EFF used to [track various narrow AI/ML metrics](https://www.eff.org/ai/metrics) with the last entries in 2019,
+the same year as GPT2. The main story then (and still today) is that progress is happening rapidly.
 Steve Wozniak has the clever/cute
 [Coffee Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
 to determine whether a system possesses general intelligence. 
 
 > A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons.
 
-Although AIs struggle right now with generalizing (and [other human capabilities](https://intelligence.org/2015/07/24/four-background-claims/)), 
+Although AIs struggle right now with generalizing, 
 I believe our uniqueness & intellectual superiority will _largely_ fade by the end of this century.
 This forecast of "AGI is ~80% likely by the end of this century" (paraphrasing) comes from [Bio-anchors by Ajeya Cotra (2020)](https://www.alignmentforum.org/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines)
 where 2021 Holden Karnofsky [summarizes where the "Experts" stand,](https://www.cold-takes.com/where-ai-forecasting-stands-today/)
@@ -81,20 +88,20 @@ Although the Program doesn't cover the various types of intelligent agents, I'd 
    - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first). [Longer list](https://thehumaneleague.org/article/animal-intelligence)   
 - **Seed AI**: An AGI that recursively rewrites its own source code without human intervention. [Yudkowsky (2007)](http://intelligence.org/files/LOGI.pdf)
 - **Superintelligent AI**: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
-   - In my view, an AGI will very likely become a superintelligent agent. We'd need to bound the AGI or rethink how we design AI systems. Bostrom explores several boxing methods in his book that aren't all that promising and suggests of coming up with novel ways to ensure that a Seed AI has certain values "pre-loaded."
+   - In my view, an AGI will very likely become a superintelligent agent. We'd need to bound the AGI or rethink how we design AI systems. Bostrom explores several boxing methods in his [book](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) that aren't all that promising and suggests of coming up with novel ways to ensure that a Seed AI has certain values "pre-loaded."
 
 The ordering above has a feeling of increasing levels of complexity or impressiveness. 
-A lighter version is explored in several candid/hopeful short stories in Kai-Fu Lee's **AI 2041.** 
+A lighter version is explored in several candid/hopeful short stories in **AI 2041** Kai-Fu Lee. 
 He describes _realistic AI,_ or "technologies that either already exist 
 or can be reasonably expected to mature within the next twenty years."
-Lee and others seem skeptical of TAI happening this century. 
+Lee & other leaders in AI plausibly seem skeptical of TAI happening this century. 
 I think the best resource pushing back on this view is from
-[All Possible Views About Humanity's Future Are Wild.](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/)
-In this post Karnofsky explores this conservative view by steelmanning various timelines of 100, 500, and even 100,000 years.
-For galaxy-scale timelines these 100-100,000 year gaps would converge on the same pixel in the visual below. 
+[All Possible Views About Humanity's Future Are Wild by Holden Karnofsky.](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/)
+In this post Karnofsky explores this "conservative view" by steelmanning various timelines of 100, 500, and even 100,000 years.
+For galaxy-scale timelines these 100 to 100,000 year gaps would converge on the same pixel in the visual below. 
 Granted the level of urgency would (thankfully) lift from our shoulders, but we'd still be among a tiny group of people placed in an important time period.
 In other posts Karnofsky expands on the idea that AI alignment is challenging and many problems remain unsolved.
-The rest of the Program focuses on the various problems/issues that emerge.   
+The rest of the Program focuses on the various problems/issues that emerge.[1](./AGI-Safety-Program-Part-1#footnotes)  
 
 <img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="1012"/>
 
@@ -102,24 +109,32 @@ _[Image from Cold Takes](https://www.cold-takes.com/forecasting-transformative-a
 
 # Week 2: Reward misspecification and instrumental convergence
 
-I've included my shortened versions of Nick Bostrom's "Orthogonality Thesis" & Steve Omohundro's "Instrumental convergence" (later expanded by Bostrom) 
-from [my "Why AGI?" post.](https://mitchell-reynolds.github.io/Why-AGI#beliefs--arguments)
+We refined our formal definition of intelligence & have some high-level intuition of progress & capabilities for AI.
+Why put safety into "AGI Safety" at all?
 
-> 1. **Orthogonality Thesis**: Intelligence and final goals can be two different axes within an AGI. Therefore, the space of possibilities includes "Superintelligence, Misaligned with Human Goals."
-> 2. An AGI being misaligned to human values seems more likely than to be aligned. This is because by-and-large the AGI will seek power (almost always an **instrumental goal**) to accomplish its terminal or final goal.
+> 1. **Orthogonality Thesis**: Intelligence and final goals can be two different axes within an AGI. Therefore, the space of possibilities includes "Superintelligence, Misaligned with Human Goals." [Bostrom]
+> 2. An AGI being misaligned to human values seems more likely than to be aligned. This is because by-and-large the AGI will seek power (almost always an **instrumental goal**) to accomplish its terminal or final goal. [Omohundro]
 > 3. Even if the above two are solved, it is still possible for an AGI to create a terrible outcome that results from the **value loading problem.**
 >    - Using the example goal of "cure cancer" to an AGI: the AGI _could_ solve for this by giving everyone a pill where they die at the age of 40. The AGI found that cancer is much more common in old age and solved the goal given but is not aligned with human values.
 
-TODO
+_["Why AGI?"](./Why-AGI#beliefs--arguments)_
 
+This is how I was introduced to the Alignment Problem.
+[MIRI](https://intelligence.org/2013/05/05/five-theses-two-lemmas-and-a-couple-of-strategic-implications/) 
+also has these points and more in their major concerns for alignment. 
+
+**Reward hacking** is where RL agents exploit gaps in misspecified reward functions [Pan (2022)](https://ar5iv.labs.arxiv.org/html/2201.03544)
 **Specification gaming** is a behaviour that satisfies the literal specification of an objective
-without achieving the intended outcome with a 
-[combined list of examples.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+without achieving the intended outcome.
 [Deepmind (2020)](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
+My example under point 3 above is one hypothetical example as well as the myth of [King Midas](https://en.wikipedia.org/wiki/Midas) 
+and the researchers at Deepmind made a
+[combined list of examples from AI research.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 
 # Week 3: Goal misgeneralization
 
-# Footnotes [PLACEHOLDER]
+# Footnotes
+1) I'm purposefully distinguishing between the traditional usage of "problem" where a solution _may_ exist. What is usually really meant here is "issue." 
 
 # Links to Materials [~7 hours]
 
