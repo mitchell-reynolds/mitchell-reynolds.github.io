@@ -1,5 +1,5 @@
 ---
-title: AGI Safety Fundamentals Summary - Part 1
+title: Artificial General Intelligence Safety Fundamentals Summary (2023 Cohort) - Part 1
 published: true
 categories:
 - agi
@@ -57,13 +57,13 @@ Steve Wozniak has the clever/cute
 [Coffee Test](https://en.wikipedia.org/wiki/Artificial_general_intelligence#Tests_for_testing_human-level_AGI)
 to determine whether a system possesses general intelligence. 
 
-"A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons."
+> A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons.
 
 Although AIs struggle right now with generalizing (and [other human capabilities](https://intelligence.org/2015/07/24/four-background-claims/)), 
 I believe our uniqueness & intellectual superiority will _largely_ fade by the end of this century.
-This forecast of "AGI is ~80% likely by the end of this century" comes from [Bio-anchors by Ajeya Cotra (2020)](https://www.alignmentforum.org/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines)
-where 2021 Holden Karnofsky [summarizes where the "Experts" stand](https://www.cold-takes.com/where-ai-forecasting-stands-today/)
-and concludes a ~2/3 chance by the end of this century. 
+This forecast of "AGI is ~80% likely by the end of this century" (paraphrasing) comes from [Bio-anchors by Ajeya Cotra (2020)](https://www.alignmentforum.org/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines)
+where 2021 Holden Karnofsky [summarizes where the "Experts" stand,](https://www.cold-takes.com/where-ai-forecasting-stands-today/)
+and he concludes a ~2/3 chance by the end of this century. 
 Cotra [updated](https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines)
 her forecast in late 2022 with the median likelihood to be ~2040 now vs. ~2050 previously. 
 By induction, I can assume that she also increased her ~80% forecast as well but am not able to say precisely. 
@@ -76,12 +76,13 @@ where we'll see continuous acceleration of technological progress. Practically s
 there's much value in considering a fast takeoff scenario as we'd be unable to react to a superintelligent agent - more below.
 
 Although the Program doesn't cover the various types of intelligent agents, I'd like to do so below for the most popular kinds:
-- Transformative AI [TAI]: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [OpenPhil](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
-- Artificial General Intelligence [AGI]: An AI that's broadly capable of most/all functions that an animal can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, and humans. We're quickly scaling up the ladder as artificial minds become more and more capable.
+- **Transformative AI [TAI]**: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [OpenPhil](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
+- **Artificial General Intelligence [AGI]**: An AI that's broadly capable of most/all functions that an animal can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, and humans. We're quickly scaling up the ladder as artificial minds become more and more capable.
    - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first). [Longer list](https://thehumaneleague.org/article/animal-intelligence)   
-- Seed AI: An AGI that recursively rewrites its own source code without human intervention. [Yudkowsky (2007)](http://intelligence.org/files/LOGI.pdf)
-- Superintelligent AI: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
+- **Seed AI**: An AGI that recursively rewrites its own source code without human intervention. [Yudkowsky (2007)](http://intelligence.org/files/LOGI.pdf)
+- **Superintelligent AI**: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
    - In my view, an AGI will very likely become a superintelligent agent. We'd need to bound the AGI or rethink how we design AI systems. Bostrom explores several boxing methods in his book that aren't all that promising and suggests of coming up with novel ways to ensure that a Seed AI has certain values "pre-loaded."
+
 The ordering above has a feeling of increasing levels of complexity or impressiveness. 
 A lighter version is explored in several candid/hopeful short stories in Kai-Fu Lee's **AI 2041.** 
 He describes _realistic AI,_ or "technologies that either already exist 
@@ -90,16 +91,35 @@ Lee and others seem skeptical of TAI happening this century.
 I think the best resource pushing back on this view is from
 [All Possible Views About Humanity's Future Are Wild.](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/)
 In this post Karnofsky explores this conservative view by steelmanning various timelines of 100, 500, and even 100,000 years.
-For galaxy-scale timelines this would converge on the same pixel as the below visual. 
-Granted the level of urgency would (thankfully) lift from our shoulders, but we'd still be among a tiny group of people placed in an important time period. 
+For galaxy-scale timelines these 100-100,000 year gaps would converge on the same pixel in the visual below. 
+Granted the level of urgency would (thankfully) lift from our shoulders, but we'd still be among a tiny group of people placed in an important time period.
+In other posts Karnofsky expands on the idea that AI alignment is challenging and many problems remain unsolved.
+The rest of the Program focuses on the various problems/issues that emerge.   
 
 <img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="1012"/>
 
-[Cold Takes](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)
+_[Image from Cold Takes](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)_
 
 # Week 2: Reward misspecification and instrumental convergence
 
+I've included my shortened versions of Nick Bostrom's "Orthogonality Thesis" & Steve Omohundro's "Instrumental convergence" (later expanded by Bostrom) 
+from [my "Why AGI?" post.](https://mitchell-reynolds.github.io/Why-AGI#beliefs--arguments)
+
+> 1. **Orthogonality Thesis**: Intelligence and final goals can be two different axes within an AGI. Therefore, the space of possibilities includes "Superintelligence, Misaligned with Human Goals."
+> 2. An AGI being misaligned to human values seems more likely than to be aligned. This is because by-and-large the AGI will seek power (almost always an **instrumental goal**) to accomplish its terminal or final goal.
+> 3. Even if the above two are solved, it is still possible for an AGI to create a terrible outcome that results from the **value loading problem.**
+>    - Using the example goal of "cure cancer" to an AGI: the AGI _could_ solve for this by giving everyone a pill where they die at the age of 40. The AGI found that cancer is much more common in old age and solved the goal given but is not aligned with human values.
+
+TODO
+
+**Specification gaming** is a behaviour that satisfies the literal specification of an objective
+without achieving the intended outcome with a 
+[combined list of examples.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+[Deepmind (2020)](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
+
 # Week 3: Goal misgeneralization
+
+# Footnotes [PLACEHOLDER]
 
 # Links to Materials [~7 hours]
 
@@ -140,7 +160,7 @@ _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38N
 - [Learning to Summarize with Human Feedback (2020) by Jeffrey Wu et alia](https://openai.com/blog/learning-to-summarize-with-human-feedback/)
 - [The alignment problem from a deep learning perspective (2022) by Richard Ngo et alia](https://ar5iv.labs.arxiv.org/html/2209.00626)
 - [Superintelligence: Instrumental convergence (2014) by Nick Bostrom](https://drive.google.com/file/d/1KewDov1taegTzrqJ4uurmJ2CJ0Y72EU3/view?usp=sharing)
-- [[Video]Inverse reinforcement learning example (2016)](https://www.youtube.com/watch?v=h7uGyBcIeII)
+- [[Video] Inverse reinforcement learning example (2016)](https://www.youtube.com/watch?v=h7uGyBcIeII)
 - [The easy goal inference problem is still hard (2018) by Paul Christiano](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc/p/h9DesGT3WT9u2k7Hr)
 - [[Advanced ML] Optimal Policies Tend To Seek Power (2021) by Alex Turner et alia](https://neurips.cc/virtual/2021/poster/28400)
 
@@ -148,7 +168,7 @@ _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38N
 
 ## Materials for Week 3: Goal misgeneralization [~95 minutes]
 - [Goal misgeneralization: why correct specifications aren’t enough for correct goals (2022) by Rohin Shah et alia](https://ar5iv.labs.arxiv.org/html/2210.01790)
-- [[Video]The other alignment problem: mesa-optimisers and inner alignment (2021)](https://youtu.be/bJLcIBixGj8)
+- [[Video] The other alignment problem: mesa-optimisers and inner alignment (2021)](https://youtu.be/bJLcIBixGj8)
 - [Why alignment could be hard with modern deep learning (2021) by Ajeya Cotra](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
 - [What failure looks like (2019) by Paul Christiano](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)
 - [[Advanced ML] Thought Experiments Provide a Third Anchor (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/thought-experiments-provide-a-third-anchor/)

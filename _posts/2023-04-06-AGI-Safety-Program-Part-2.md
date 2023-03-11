@@ -1,5 +1,5 @@
 ---
-title: AGI Safety Fundamentals Summary - Part 2
+title: Artificial General Intelligence Safety Fundamentals Summary (2023 Cohort) - Part 2
 published: false
 categories:
 - agi
@@ -22,6 +22,7 @@ My goals for facilitating & writing these summaries are to:
 4. Practice my oral & written communication skills for AGI safety information.
 5. [Bonus] Establish myself as a credible, nuanced source of AGI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
+
 # Week 4
 
 # Week 5
