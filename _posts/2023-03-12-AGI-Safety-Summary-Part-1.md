@@ -63,8 +63,6 @@ AI progress traditionally has 3 inputs: software, hardware, and data.
 To me, foundation models is emphasizing the leveraging of Moore's Law (hardware acceleration via improved computation costs)
 that's able to intake gigabytes of data (Sutton's scaling law)
 in larger, generalized methods via transformers (new software from a 2017 paper).
-EFF used to [track various narrow AI/ML metrics](https://www.eff.org/ai/metrics) with the last entries from Feb-2019,
-ending with GPT2. The main story then (and still today) is that progress is happening rapidly.
 
 Then, the program better defines intelligence and, in particular, Artificial General Intelligence [AGI].
 "Intelligence measures an agent’s ability to achieve goals in a wide range of environments."
@@ -119,10 +117,24 @@ The rest of the Program focuses on the various problems/issues that emerge.[1](.
 
 _[Image from Cold Takes](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/)_
 
+Lastly, I will outline a few other approaches to understanding AI timelines and the main players in the space.
+EFF used to [track various narrow AI/ML metrics](https://www.eff.org/ai/metrics)
+with the last entries from Feb-2019, ending with GPT2. 
+The main story then (and still today) is that progress is happening rapidly. 
+Riedel & Deibel put together a [bibliographic database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
+for the major institutions (excluding academia).
+Relatedly, ~25% of deep learning research comes from the Fortune Global 500 (Tech)
+[companies.](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+[Figure 7](https://arxiv.org/pdf/2010.15581.pdf)
+And ~40% of deep learning research comes from the Top 50 Universities.
+This is consistent with Tim Dettmers’ broad statement about research in his 
+[blog post:](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/#School_Name_and_Resources) 
+“0.0006% of people publish 41% of papers in research journals.”
+
 # Week 2: Reward misspecification and instrumental convergence
 
 We refined our formal definition of intelligence & have some high-level intuition of progress & capabilities for AI.
-Why put safety into "AGI Safety" at all?
+Why put safety into "AGI Safety" at all? This how I was introduced to the Alignment Problem:
 
 > 1. **Orthogonality Thesis**: Intelligence and final goals can be two different axes within an AGI. Therefore, the space of possibilities includes "Superintelligence, Misaligned with Human Goals." [Bostrom]
 > 2. An AGI being misaligned to human values seems more likely than to be aligned. This is because by-and-large the AGI will seek power (almost always an **instrumental goal**) to accomplish its terminal or final goal. [Omohundro]
@@ -131,7 +143,6 @@ Why put safety into "AGI Safety" at all?
 
 _From my ["Why AGI?"](./Why-AGI#beliefs--arguments) post_
 
-This is how I was introduced to the Alignment Problem.
 [MIRI](https://intelligence.org/2013/05/05/five-theses-two-lemmas-and-a-couple-of-strategic-implications/) 
 also has these points and more in their major concerns for alignment. 
 
@@ -139,8 +150,7 @@ The program begins to break down these "what could go wrong" theses focusing fir
 **Reward misspecification** occur because real-world tasks have numerous, often conflicting desiderata.
 **Reward hacking** (a subset of reward misspecification) is where RL agents exploit gaps in misspecified reward functions.
 [Pan (2022)](https://ar5iv.labs.arxiv.org/html/2201.03544) 
-The other type of reward misspecification is from humans not designing the correct reward function in the first place
-(eg TODO). 
+The other type of reward misspecification is from humans not designing the correct reward function in the first place.
 **Specification gaming** is a behaviour that satisfies the literal specification of an objective
 without achieving the intended outcome.
 [Deepmind (2020)](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
@@ -148,6 +158,16 @@ Point 3 above is one hypothetical example as well as the myth of [King Midas,](h
 The researchers at Deepmind made a
 [combined list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 of examples from AI research if that's of interest.
+
+Instead of explicitly outlining our criteria directly into a reward function, 
+researchers have implemented a couple methods of allowing an AI to learn from humans.
+
+1. **Reinforcement Learning from Human Feedback [RLHF]:** A "human in the loop" process where a human judge ranks two outputs with one being better than the other. Then, feed that information back into the model and iterate. 
+2. **Inverse Reinforcement Learning:** Allows the reward function to be learned (or create a black-box model of the reward function) purely from observations.
+
+If you're not convinced and short on time, I think the most accessible resource for the AGI alignment problem is in
+[What failure looks like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)
+by Paul Christiano, which I think could make for an interesting novel.
 
 # Week 3: Goal misgeneralization
 
