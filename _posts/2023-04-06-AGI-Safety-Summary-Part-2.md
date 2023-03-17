@@ -42,7 +42,7 @@ on most skills relevant to the task at hand.
 
 # Week 7
 
-# Links to Materials
+# Links to Part 2 Materials
 
 _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38NoahF5?si=2567ed53d3944784) for the 
 2022 iteration of the Program with **some** of the readings that should be viewed as supplemental and not as a substitution.

@@ -22,7 +22,7 @@ I'm personally driven more by increasing the chances I marginally improve the lo
 As of 2022, human life has never been better but our existential risks have also never been higher -
 eg risks from advanced AI, biorisk, nuclear risks. All of this creates the label of a 
 [longtermist](https://en.wikipedia.org/wiki/Longtermism).
-There are over 12,000 future-people for _each_ person alive today.
+There are over 12,000 future-people for _each_ person alive today or [125 quadrillion expected future persons](https://ourworldindata.org/longtermism#our-potential-future).
 
 Lastly, I spend a lot of my time thinking, reading, and working in a field that requires a lot of mental processing. 
 It's become somewhat clear that some philosophical questions don't have a clean cut answer 
