@@ -6,7 +6,6 @@ categories:
 ---
 
 <base target="_blank">
-<a href="https://www.agisafetyfundamentals.com/" target="_blank">BlueDot & /special/ characters, [everywhere] as a test</a>
 
 # Background, Context, & Goals
 This is the first installment of my summary & extrapolations for the 
@@ -184,18 +183,28 @@ by Paul Christiano, which I think could make for an interesting novel.
 
 # Week 3: Goal misgeneralization
 
-- **Goal misgeneralization:** An instance<sup>[3](./AGI-Safety-Summary-Part-1#footnotes)</sup> of misgeneralisation in which a system’s capabilities generalise but its goal does not generalise as desired. [Deepmind (2022)](https://deepmindsafetyresearch.medium.com/goal-misgeneralisation-why-correct-specifications-arent-enough-for-correct-goals-cf96ebc60924)
-- **Inner alignment:** y
-- **Outer alignment:** z
-   - Evolution Example: 
+- **Goal misgeneralization:** An instance of misgeneralisation in which a system’s capabilities generalise but its goal does not generalise as desired. [Deepmind (2022)](https://deepmindsafetyresearch.medium.com/goal-misgeneralisation-why-correct-specifications-arent-enough-for-correct-goals-cf96ebc60924)<sup>[3](./AGI-Safety-Summary-Part-1#footnotes)</sup>
+- **Situational awareness:** At some point, an AI agent becomes knowledgeable enough to understand that it's a deep learning model being trained to accomplish some goal. This kind of knowledge "is likely helpful for getting good performance on complex real-world tasks." [[Cotra (2021)]](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
+- **Outer alignment:** The human takes their meta-objective and codes this into the base objective function with an AI agent.
+- **Inner alignment:** Further inside the AI agent, the system has a mesa-objective encoded via its deep learning architecture.
+   - Evolution Analogy: Evolution's goal is for us to produce as many offspring as possible. This is the base objective. Yet, humans puruse many goals that may or may not relate to Evolution's goals (say being happy for its own sake). We may have inner alignment with evolution. Yet, it's possible to be inner misaligned by being childfree. Evolution did its outer alignment job and created a person. 
+   - _It's also possible for evolution to have outer misalignment in the case of dodo bird where it was able to produce offspring yet winning the (possibly the first?) [Darwin Award](https://en.wikipedia.org/wiki/Darwin_Awards) as it was unfit for survival when sailors brought them to extinction._
+
+Another problem that emerges within this category is being deceptively aligned.
+While I generally try to avoid anthropomorphising AI, it is easier to imagine an AI that behaves well during training while _knowing_ it is in training. Then once deployed, it will pursue its real goals. Ideally, we want to avoid this kind of misalignment, and this remains an active realm of research. Cotra creates an analogy where you've inherited a substantial amount of wealth as an 8-year-old (strikingly similar to Harry Potter) yet without a trusted adult. Therefore, the goal is then to set up a process/test to find the "Saints" knowing the other two types exist. Cotra outlines 3 types of models/agents we're likely to encounter using the deep learning paradigm.
+- Saints: genuinely want to help you.
+- Sycophants: want your approval, regardless of long-term consequences
+- Schemers: want your wealth to pursue their own agendas.
+
+We have already seen [simpler forms of deception.](https://openai.com/research/learning-from-human-preferences#challenges) In this example, the goal was for the digital robot arm to grab the ball. Yet, it found the greedy solution was to place itself between the ball and camera making it appear as if it accomplished the goal. While this is a toy example with a concrete goal, how would we go about solving real-world problems that have fuzzy goals?
 
 
 # Footnotes
-1) I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.
-2) The researchers at Deepmind made a
+1. I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.
+2. The researchers at Deepmind made a
 [combined list](http://tinyurl.com/specification-gaming)
 of specificaction gaming examples from AI research if that's of interest.
-3) The researchers at Deepmind made a different
+3. The researchers at Deepmind made a different
 [combined list](http://tinyurl.com/goal-misgeneralisation)
 of goal misgeneralization examples from AI research if that's of interest.
 
