@@ -5,6 +5,9 @@ categories:
 - agi
 ---
 
+<base target="_blank">
+<a href="https://www.agisafetyfundamentals.com/" target="_blank">BlueDot & /special/ characters, [everywhere] as a test</a>
+
 # Background, Context, & Goals
 This is the first installment of my summary & extrapolations for the 
 Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
@@ -167,7 +170,7 @@ The other type of reward misspecification is from humans not designing the corre
 **Specification gaming** is a behaviour that satisfies the literal specification of an objective
 without achieving the intended outcome.
 [[Deepmind (2020)]](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
-Point 3 above is one hypothetical example of many. <sup>[2](./AGI-Safety-Summary-Part-1#footnotes)</sup>
+Point 3 above is one hypothetical example of many.<sup>[2](./AGI-Safety-Summary-Part-1#footnotes)</sup>
 
 Instead of explicitly outlining our criteria directly into a reward function, 
 researchers have implemented a couple methods of allowing an AI to learn from humans.
@@ -181,11 +184,20 @@ by Paul Christiano, which I think could make for an interesting novel.
 
 # Week 3: Goal misgeneralization
 
+- **Goal misgeneralization:** An instance<sup>[3](./AGI-Safety-Summary-Part-1#footnotes)</sup> of misgeneralisation in which a system’s capabilities generalise but its goal does not generalise as desired. [Deepmind (2022)](https://deepmindsafetyresearch.medium.com/goal-misgeneralisation-why-correct-specifications-arent-enough-for-correct-goals-cf96ebc60924)
+- **Inner alignment:** y
+- **Outer alignment:** z
+   - Evolution Example: 
+
+
 # Footnotes
 1) I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.
 2) The researchers at Deepmind made a
-[combined list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
-of examples from AI research if that's of interest.
+[combined list](http://tinyurl.com/specification-gaming)
+of specificaction gaming examples from AI research if that's of interest.
+3) The researchers at Deepmind made a different
+[combined list](http://tinyurl.com/goal-misgeneralisation)
+of goal misgeneralization examples from AI research if that's of interest.
 
 
 # Links to Part 1 Materials [~7 hours]
