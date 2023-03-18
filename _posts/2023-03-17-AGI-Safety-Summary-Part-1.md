@@ -5,8 +5,6 @@ categories:
 - agi
 ---
 
-<base target="_blank">
-
 # Background, Context, & Goals
 This is the first installment of my summary & extrapolations for the 
 Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
@@ -26,6 +24,7 @@ In both 2022 & 2023, I was offered to be a paid facilitator for 1 cohort each it
 ## Instrumental Goals
 My instrumental goals for facilitating the Course & independently writing these summaries are to:
 1. Distill ~30 hours of readings & discussions into ~30 minutes of reading here.
+   - 30 minute estimate = ~6k words at [200 WPM](./Human-Info-Speed#reading--speaking-speeds)
 2. Improve, clarify, & solidify my own understanding around this challenging topic while also staying up to date on the latest research.
 3. Practice my communication skills for AI safety information and to "find ways to help people understand the core parts of the challenges we might face, in as much detail as is feasible." [[Cold Takes]](https://www.cold-takes.com/spreading-messages-to-help-with-the-most-important-century/)
 4. Establish connections with those also interested in working in AI safety.
