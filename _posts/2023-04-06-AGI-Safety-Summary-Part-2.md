@@ -1,5 +1,5 @@
 ---
-title: AGI Safety Fundamentals Summary (2023 Cohort) - Part 2
+title: AGI Safety Summary (2023 Cohort) - Part 2
 published: true
 categories:
 - agi
@@ -26,9 +26,10 @@ My final goals are [here.](./about#purpose-lifelong)
 
 # Week 4: Task decomposition for scalable oversight
 
-**Scalable Oversight:** The problem of supervising systems that potentially outperform us
+- **Scalable Oversight:** The problem of supervising systems that potentially outperform us
 on most skills relevant to the task at hand.
-**Task decomposition:** 
+- **Task decomposition:** 
+- **Iterated amplification:**
 
 <img src="/assets/2021-christiano-alignment-map.jpeg" alt="ChristianoMap" width="1024" class="center"/>
 
