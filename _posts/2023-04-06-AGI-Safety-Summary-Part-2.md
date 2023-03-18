@@ -30,6 +30,8 @@ My final goals are [here.](./about#purpose-lifelong)
 on most skills relevant to the task at hand.
 **Task decomposition:** 
 
+<img src="/assets/2021-christiano-alignment-map.jpeg" alt="ChristianoMap" width="1024" class="center"/>
+
 # Week 5: Adversarial techniques for scalable oversight
 
 # Week 6: Interpretability
