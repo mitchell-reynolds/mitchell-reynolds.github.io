@@ -15,8 +15,8 @@ interfacing between business stakeholders & technical teams.
 I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);
 playing guitar left-handed while being right-handed everywhere else; 
-and meditating every day then later lifting weights listening to metalcore.
-My other hobbies range from playing tabletop games, discussing philosophy (focus on ethics & consciousness),
+and meditating every day then later lifting weights listening to heavy metal.
+My other hobbies range from playing tabletop games, discussing philosophy (focus on economics, ethics, consciousness, & technology),
 and supporting the arts through comedy & experiential art.
 
 ## Purpose (blog specific):
