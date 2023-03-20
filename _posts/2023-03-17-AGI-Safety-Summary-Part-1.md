@@ -5,7 +5,7 @@ categories:
 - agi
 ---
 
-# Background, Context, & Goals
+# Background, Context, & Goals 📚
 This is the first installment of my summary & extrapolations for the 
 Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
 [BlueDot,](https://www.agisafetyfundamentals.com/) which spun out of 
@@ -33,7 +33,7 @@ My instrumental goals for facilitating the Course & independently writing these 
 5. [Bonus] Establish myself as a credible & properly nuanced source of AI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-My final goals are [here.](./about#purpose-lifelong)
+_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard).🐈 _
 
 # Week 0 (Optional): Introduction to ML
 
@@ -58,7 +58,7 @@ Finally, Ngo breaks down ML tasks further toward the end of his post.
 
 _Diagram by [Richard Ngo (2021)](https://www.alignmentforum.org/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)_
 
-# Week 1: Artificial General Intelligence
+# Week 1: Artificial General Intelligence 🤖
 
 ## Intelligence
 The Course first better defines intelligence and, in particular, Artificial General Intelligence [AGI].
@@ -139,12 +139,12 @@ The Course defines the recently created term "foundation models."
 A foundation model is a model trained on broad data that can be fine-tuned to a range of more specific tasks.
 The scale & scope of foundation models are what makes it unique. 
 AI progress traditionally has 3 inputs: software, hardware, and data. 
-To me, foundation models is emphasizing the leveraging of Moore's Law (hardware acceleration via improved computation costs)
-that's able to intake mountains of data (Sutton's scaling law)
+To me, the term foundation model is emphasizing the leveraging of Moore's Law (hardware acceleration via improved computation costs)
+that's able to intake mountains of data ([Sutton's scaling law](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
 in larger, generalized methods via transformers (new software from a 2017 paper).
 Bringing this all together, it seems like foundation models might be the catalyst in which we see TAI.
 
-# Week 2: Reward misspecification and instrumental convergence
+# Week 2: Reward misspecification and instrumental convergence 🏅
 
 We refined our formal definition of intelligence & have some high-level intuition of progress & capabilities for AI.
 Why put safety into "AGI Safety" at all? This how I was introduced to the Alignment Problem:
@@ -180,7 +180,7 @@ If you're not convinced & short on time, I think the most accessible resource fo
 [What failure looks like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)
 by Paul Christiano, which I think could make for an interesting novel.
 
-# Week 3: Goal misgeneralization
+# Week 3: Goal misgeneralization 🥅
 
 - **Goal misgeneralization:** An instance of misgeneralisation in which a system’s capabilities generalise but its goal does not generalise as desired. [Deepmind (2022)](https://deepmindsafetyresearch.medium.com/goal-misgeneralisation-why-correct-specifications-arent-enough-for-correct-goals-cf96ebc60924)<sup>[3](./AGI-Safety-Summary-Part-1#footnotes)</sup>
 - **Situational awareness:** At some point, an AI agent becomes knowledgeable enough to understand that it's a deep learning model being trained to accomplish some goal. This kind of knowledge "is likely helpful for getting good performance on complex real-world tasks." [[Cotra (2021)]](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
@@ -198,7 +198,7 @@ While I generally try to avoid anthropomorphising AI, it is easier to imagine an
 We have already seen [simpler forms of deception.](https://openai.com/research/learning-from-human-preferences#challenges) In this example, the goal was for the digital robot arm to grab the ball. Yet, it found the greedy solution was to place itself between the ball and camera making it appear as if it accomplished the goal. While this is a toy example with a concrete goal, how would we go about solving real-world problems that have fuzzy goals?
 
 
-# Footnotes
+# Footnotes 🦿
 1. I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.
 2. The researchers at Deepmind made a
 [combined list](http://tinyurl.com/specification-gaming)
@@ -208,7 +208,7 @@ of specificaction gaming examples from AI research if that's of interest.
 of goal misgeneralization examples from AI research if that's of interest.
 
 
-# Links to Part 1 Materials [~7 hours]
+# Links to Part 1 Materials [~7 hours] 🔗
 
 _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38NoahF5?si=2567ed53d3944784) for the 
 2022 iteration of the Course with **some** of the readings that should be viewed as supplemental and not as a substitution.
@@ -241,7 +241,7 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Advanced ML] More Is Different for AI (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/more-is-different-for-ai/)
 - [[Optional] The Bitter Lesson (2019) by Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - [[Optional] AI and Efficiency (2020) by Danny Hernandez and Tom Brown](https://openai.com/research/ai-and-efficiency)
-- [[Optional]](https://cset.georgetown.edu/wp-content/uploads/AI-and-Compute-How-Much-Longer-Can-Computing-Power-Drive-Artificial-Intelligence-Progress.pdf)
+- [[Optional] AI and Compute (2022) by Andrew Lohn and Micah Musser](https://cset.georgetown.edu/wp-content/uploads/AI-and-Compute-How-Much-Longer-Can-Computing-Power-Drive-Artificial-Intelligence-Progress.pdf)
 
 ---
 

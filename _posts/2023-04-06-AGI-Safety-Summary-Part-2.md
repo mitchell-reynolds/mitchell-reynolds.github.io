@@ -5,10 +5,10 @@ categories:
 - agi
 ---
 
-# Background, Context, & Goals
+# Background, Context, & Goals 📚
 This is the second installment of my summary & extrapolations for the 
 Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter).
-Please check out [Part 1 here](./AGI-Safety-Summary-Part-1) 
+Please read [Part 1](./AGI-Safety-Summary-Part-1) first as the Course builds upon itself.
 
 ## Instrumental Goals
 My instrumental goals for facilitating the Course & independently writing these summaries are to:
@@ -22,9 +22,9 @@ My instrumental goals for facilitating the Course & independently writing these 
 5. [Bonus] Establish myself as a credible & properly nuanced source of AI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-My final goals are [here.](./about#purpose-lifelong)
+_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard).🐈 _
 
-# Week 4: Task decomposition for scalable oversight
+# Week 4: Task decomposition for scalable oversight 👀
 
 - **Scalable Oversight:** The problem of supervising systems that potentially outperform us
 on most skills relevant to the task at hand.
@@ -33,19 +33,19 @@ on most skills relevant to the task at hand.
 
 <img src="/assets/2021-christiano-alignment-map.jpeg" alt="ChristianoMap" width="1024" class="center"/>
 
-# Week 5: Adversarial techniques for scalable oversight
+# Week 5: Adversarial techniques for scalable oversight 👾 
 
-# Week 6: Interpretability
+# Week 6: Interpretability 🔍
 
-# Week 7: Governance
+# Week 7: Governance 🏛️
 
-# Links to Part 2 Materials
+# Links to Part 2 Materials [~7 hours] 🔗
 
 _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38NoahF5?si=2567ed53d3944784) for the 
 2022 iteration of the Program with **some** of the readings that should be viewed as supplemental and not as a substitution.
 Lastly, I add in optional readings that I personally view as important enough to be included here & would recommend._ 
 
-## Materials for Week 4: Task decomposition for scalable oversight
+## Materials for Week 4: Task decomposition for scalable oversight [~110 minutes]
 - [[Video] AI Alignment Landscape (2020) by Paul Christiano](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment)
 - [Measuring Progress on Scalable Oversight for Large Language Models (2022) by Samuel Bowman](https://ar5iv.labs.arxiv.org/html/2211.03540)
 - [Learning Complex Goals with Iterated Amplification (2018) by Paul Christiano and Dario Amodei](https://openai.com/blog/amplifying-ai-training/)
@@ -54,7 +54,7 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [Language Models Perform Reasoning via Chain of Thought (2022) by Jason Wei, Denny Zhou and Google](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (2022) by Denny Zhou et alia](https://ar5iv.labs.arxiv.org/html/2205.10625)
 
-## Materials for Week 5: Adversarial techniques for scalable oversight
+## Materials for Week 5: Adversarial techniques for scalable oversight [~90 minutes]
 - [AI-written critiques help humans notice flaws: blog post (2022) by Jan Leike et alia](https://openai.com/research/critiques)
 - [AI safety via debate (2018) by Geoffrey Irving, Paul Christiano and Dario Amodei](https://ar5iv.labs.arxiv.org/html/1805.00899)
 - [Red-teaming language models with language models (2022) by Ethan Perez et alia](https://www.deepmind.com/blog/red-teaming-language-models-with-language-models)
@@ -65,7 +65,7 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Optional] Debate update: Obfuscated arguments problem (2020) by "Beth Barnes" and Paul Christiano](https://www.alignmentforum.org/posts/PJLABqQ962hZEqhdB/debate-update-obfuscated-arguments-problem)
 - [[Optional] Training robust corrigibility (2019) by Paul Christiano](https://ai-alignment.com/training-robust-corrigibility-ce0e0a3b9b4d)
 
-## Materials for Week 6: Interpretability
+## Materials for Week 6: Interpretability [~100 minutes]
 - [Feature Visualization (2017) by Chris Olah et alia](https://distill.pub/2017/feature-visualization/)
 - [Zoom In: An Introduction to Circuits (2020) by Chris Olah et alia](https://distill.pub/2020/circuits/zoom-in/)
 - [[Advanced ML] Toy Models of Superposition (2022) by Nelson Elhage et alia](https://transformer-circuits.pub/2022/toy_model/index.html)
@@ -76,7 +76,7 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Advanced ML & Optional] Eliciting latent knowledge (2021) by Paul Christiano et alia](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit)
 - [[My Addition] Chris Olah Interview on the 80k Podcast](https://80000hours.org/podcast/episodes/chris-olah-interpretability-research/)
 
-## Materials for Week 7: Governance
+## Materials for Week 7: Governance [~80 minutes]
 - [[Video] AI Strategy, Policy, and Governance (2019) by Allan Dafoe](https://www.youtube.com/watch?v=2IpJ8TIKKtI)
 - [AI Governance: Opportunity and Theory of Impact (2020) by Allan Dafoe](https://www.governance.ai/research-paper/ai-governance-opportunity-and-theory-of-impact)
 - [The AI deployment problem (2022) by Holden Karnofsky](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/)
@@ -89,3 +89,4 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Optional] Some AI governance research ideas (2021) by Markus Anderljung and Alexis Carlier](https://docs.google.com/document/d/13LJhP3ksrcEBKxYFG5GkJaC2UoxHKUYAHCRdRlpePEc/edit)
 - [[Optional] The Semiconductor Supply Chain (2021) by Saif M. Khan](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
 - [[Optional] The Global AI talent tracker (2020) by Macro Polo](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
+- [[Optional] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
