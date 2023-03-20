@@ -1,3 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+
 # AI Alignment Organizations
 _Last updated March 2023_
 
@@ -5,9 +37,9 @@ _Last updated March 2023_
 <p>Collapsible Set:</p>
 <button type="button" class="collapsible">Open Section 1</button>
 <div class="content">
-  <p>Lorem</p>
+  <p>[Testing Link A](https://ai.objectives.institute/) with text</p>
 </div>
-<button type="button" class="collapsible">Open Section 2</button>
+<button type="button" class="collapsible">[Testing Link B](https://ai.objectives.institute/) with Text</button>
 <div class="content">
   <p>Lorem ipsum</p>
 </div>
@@ -17,7 +49,7 @@ _Last updated March 2023_
 </div>
 
 
-## Companies / nonprofits
+## Companies / Nonprofits
 - Alignment Research Center
 - Anthropic 
    - A public benefit corporation founded in 2021 by a group of former OpenAI researchers, described as “an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems.”
