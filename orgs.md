@@ -1,6 +1,22 @@
 # AI Alignment Organizations
 _Last updated March 2023_
 
+## Testing Collapsibles
+<p>Collapsible Set:</p>
+<button type="button" class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem</p>
+</div>
+<button type="button" class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum</p>
+</div>
+<button type="button" class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet.</p>
+</div>
+
+
 ## Companies / nonprofits
 - Alignment Research Center
 - Anthropic 
@@ -73,7 +89,7 @@ _Last updated March 2023_
 - Stanford Existential Risk Institute
 
 # Misc. Resources
-_The above list is mainly from the [BlueDot AGI Resource page](https://www.agisafetyfundamentals.com/resources)
+_The above list is mainly from [BlueDot's AI Safety Resources page](https://www.agisafetyfundamentals.com/resources)
 in alphabetical order with the organizations full name (not using acroymns for ordering) where I've added a few others. I'll likely re-organize these at a later time._
 - [Bibliography Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 - [AI Safety Support](https://www.aisafetysupport.org/resources/lots-of-links)
