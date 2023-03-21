@@ -2,7 +2,7 @@
 _Last updated March 2023_
 
 ## Companies / Nonprofits
-- [Alignment Researchd Center](https://alignmentresearchcenter.org/)
+- [Alignment Research Center](https://alignmentresearchcenter.org/)
 - [Anthropic](https://www.anthropic.com/)
    - A public benefit corporation founded in 2021 by a group of former OpenAI researchers, described as “an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems.”
    - A broad range of interests at this point - watch this space!
@@ -24,10 +24,12 @@ _Last updated March 2023_
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org/)
    - Foundational mathematical research non-profit institute, focused on making superintelligence go well. Leaders in the field of safety on such topics as learned optimisation (inner misalignment), and embedded agency.
 - [Nonlinear](https://www.nonlinear.org/)
-   - Meta/grant making organisation. “We systematically search for high impact strategies to reduce existential and suffering risks… [and] make it happen. An incubator for interventions.” They are currently in a research phase, and I don’t see many opportunities to obtain funding yet.
+   - Meta/grant making organisation. “We systematically search for high impact strategies to reduce existential and suffering risks… [and] make it happen. An incubator for interventions.” They are currently in a research phase.
 - [OpenAI](https://openai.com/)
    - OpenAI was founded “to ensure that artificial general intelligence benefits all of humanity”. They openly commit to building safe AGI and have created some of the most impressive examples of AI systems today, such as the large language model GPT-3 (now open access) and CLIP.
    - Largely a technical company, they have a dedicated “alignment” team and a governance branch called the “AI Futures” team. Originally not-for-profit, it now has a for-profit arm.
+- [Ought](https://ought.org/)
+   - Working on advanced reasoning in AI systems. Was founded by safety-aligned people.
 - [Partnership on AI](https://partnershiponai.org/)
 - [Redwood Research](https://www.redwoodresearch.org/)
    - Founded in 2021, its mission is “to align superhuman AI”, which it openly believes is more likely than not to be developed than not this century. They are currently internalising human values into language models, and doing some field-building work such as the ML for Alignment Bootcamp.
@@ -38,7 +40,7 @@ _Last updated March 2023_
 - [Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/)
    - A research institute in Cambridge, UK, “dedicated to the study and mitigation of risks that could lead to human extinction or civilisational collapse”. They are largely governance-focused and consider the complex interactions of global risks.
 - [Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/)
-   A research institute in Oxford, UK. They collaborate with Oxford DPhil students - Oxford’s name for PhD students - and house academics. Their interests are broad, spanning governance and alignment, and “include idealized reasoning, the incentives of AI systems, and the limitations of value learning.”
+   - A research institute in Oxford, UK. They collaborate with Oxford DPhil students - Oxford’s name for PhD students - and house academics. Their interests are broad, spanning governance and alignment, and “include idealized reasoning, the incentives of AI systems, and the limitations of value learning.”
 - [David Krueger’s](https://www.davidscottkrueger.com/) Research Group (University of Cambridge)
    - Set up in 2021. Krueger is interested in many alignment-related topics, and is an accomplished ML researcher. 
 - [Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/)
@@ -48,7 +50,7 @@ _Last updated March 2023_
 - [Effective Altruism Funds (EA Funds)](https://funds.effectivealtruism.org/)
 - Survival and Flourishing Funds ([SFP](http://survivalandflourishing.org/) and [SFF](https://survivalandflourishing.fund/)) 
 
-## Other institutes (not necessarily focused on safety)
+## Other organizations (not necessarily focused on safety)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
    - Runs [AI Safety Camp](https://aisafety.camp/) and provides career advice & community building.
 - [Allen Institute for AI](https://allenai.org/)
@@ -60,18 +62,16 @@ _Last updated March 2023_
 - [Global Priorities Institute](https://globalprioritiesinstitute.org/)
 - [Google Brain](https://research.google/teams/brain/)
 - [Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/)
-   - Pursues massive decentralised research projects, mostly replicating state of the art large ML systems (e.g. their GPT-J). As I understand it, their mission is to make the benefits of advanced AI open source and in individuals’ hands. They have access to compute from CoreWeave.
+   - Pursues massive decentralised research projects, mostly replicating state of the art large ML systems (e.g. their GPT-J). Their mission is to make the benefits of advanced AI open source and in individuals’ hands. They have access to compute from CoreWeave.
 - [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/)
 - [Median Group](http://mediangroup.org/)
-- [Ought](https://ought.org/)
-   - Working on advanced reasoning in AI systems. Was founded by safety-aligned people.
 - [Preamble](https://www.preamble.com/about-us)
 - [Stanford Existential Risk Institute](https://seri.stanford.edu/)
 - [Stanford Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
 # Misc. Resources
-_The above list is mainly from [BlueDot's AI Safety Resources page](https://www.agisafetyfundamentals.com/resources)
-in alphabetical order with the organizations full name (not using acroymns for ordering) where I've added a few others. I'll likely re-organize these at a later time._
+_The above list is mainly from [BlueDot's AI Safety Resources page](https://www.agisafetyfundamentals.com/resources) with added commentary by [Jamie Bernardi.](https://jamiebernardi.com/)
+The lists are in alphabetical order with the organizations full name (not using acroymns for ordering) where I've added several others. I'll likely re-organize these at a later time._
 - [Bibliography Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 - [AI Safety Support](https://www.aisafetysupport.org/resources/lots-of-links)
 - [Awesome AI Alignment](https://github.com/dit7ya/awesome-ai-alignment)
