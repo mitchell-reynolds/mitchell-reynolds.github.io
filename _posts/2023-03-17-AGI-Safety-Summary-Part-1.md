@@ -87,9 +87,10 @@ This forecast of "TAI is ~80% likely by the end of this century" (paraphrasing) 
 Holden Karnofsky later [summarizes where the "Experts" stood in 2021,](https://www.cold-takes.com/where-ai-forecasting-stands-today/)
 and he concludes a ~2/3 chance by the end of this century. 
 Cotra later [updated](https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines)
-her forecast in 2022 with the median likelihood to be ~2040 now vs. ~2050 previously. 
+her forecast in 2022 with the median likelihood to be ~2040 now vs. ~2050 previously.
 By induction, I can assume that she also increased her ~80% forecast of TAI by the end of this century as well. 
 It is worth noting that these forecasts are to bound our expectations vs. seeing them as precise figures.
+[Metaculus](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) has its median forecast for AGI around 2035 during this writing.
 
 <img src="/assets/2020-cotra-forecast.png" alt="Cotra2020FC" width="1024" class="center"/>
 
