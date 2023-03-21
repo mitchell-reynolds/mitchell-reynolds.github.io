@@ -13,7 +13,7 @@ Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" h
 [Richard Ngo](https://www.richardcngo.com/).
 In total, the Course is expected to take ~30 hours taking place over 8 weeks with pre-readings & discussions and includes a self-guided project.
 
-Although I have [~1000s hours of AI/ML training](https://mitchell-reynolds.github.io/Why-AGI#ai-training-1000s-of-hours),
+Although I have [~1000s hours of AI/ML training](./Why-AGI#ai-training-1000s-of-hours),
 the Course begins with an optional Week 0 that takes ~2 hours to get up to speed conceptually.
 I will assume this (admittedly small) audience has this level of familiarity and
 that these summaries gloss over those preliminary details.
@@ -33,7 +33,7 @@ My instrumental goals for facilitating the Course & independently writing these 
 5. [Bonus] Establish myself as a credible & properly nuanced source of AI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard).🐈 _
+_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard._🐈
 
 # Week 0 (Optional): Introduction to ML
 
@@ -74,7 +74,7 @@ to determine whether a system possesses general intelligence.
 Although the Course doesn't officially cover the various types of intelligent agents, I'd like to do so below for the most popular kinds:
 - **Transformative AI [TAI]**: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [[OpenPhil]](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
 - **Artificial General Intelligence [AGI]**: An AI that's broadly capable of most/all functions that an animal (traditionally a human) can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, & humans. We're quickly scaling up the ladder as artificial minds become more and more capable - see Galaxy timelines chart where mouse-brain-sized model is projected for 2023.
-   - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first with a longer [here](https://thehumaneleague.org/article/animal-intelligence))
+   - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first with a [longer list here](https://thehumaneleague.org/article/animal-intelligence))
 - **Seed AI**: An AGI that recursively rewrites its own source code without human intervention. [[Yudkowsky (2007)]](http://intelligence.org/files/LOGI.pdf)
 - **Superintelligent AI**: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
    - In my view, an AGI will very likely become a superintelligent agent. We'd need to bound the AGI or rethink how we design AI systems. Bostrom explores several boxing methods in his [book](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies) that aren't all that promising and suggests of coming up with novel ways to ensure that a Seed AI has certain values "pre-loaded."
@@ -100,7 +100,7 @@ Given these timelines, I hope (and with modest confidence believe) we're in the 
 where we'll see continuous acceleration of technological progress. Practically speaking, I don't think 
 there's much value in considering a fast takeoff scenario as we'd be unable to react to a superintelligent agent.
 
-The ordering above has a feeling of increasing levels of complexity or impressiveness. 
+The bulleted list of the types of intelligence has a feeling of increasing levels of complexity or impressiveness. 
 A lighter version is explored in several candid/hopeful short stories in **AI 2041** by Kai-Fu Lee. 
 He describes _realistic AI,_ or "technologies that either already exist 
 or can be reasonably expected to mature within the next twenty years."
@@ -114,7 +114,7 @@ Granted the level of urgency would (thankfully) lift from our collective ~10 bil
 However, we'd still be among a tiny group of people placed in an important time period.
 With 125 quadrillion (10<sup>15</sup>) [possible future persons on Earth](https://ourworldindata.org/longtermism#our-potential-future),
 we're in the first ~100 billion people so far (or among the first 0.0001% people to ever exist on this planet).
-In other posts Karnofsky expands on the challenged within AI safety & that many problems remain unsolved.
+In other posts Karnofsky expands on the challenges within AI safety & that many problems remain unsolved.
 The rest of the Course focuses on the various problems & issues that emerge. <sup>[1](./AGI-Safety-Summary-Part-1#footnotes)</sup>
 
 <img src="/assets/2021-karnofsky-cosmic-endowment.png" alt="Karnofsky2021Cosmic" width="1012"/>
@@ -127,9 +127,14 @@ with the last entries from Feb-2019, ending with GPT2.
 The main story then (and still today) is that progress is happening rapidly. 
 Riedel & Deibel put together a [bibliographic database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 for the 16 major institutions (excluding academia) tracking the output of AI safety papers.
-Relatedly, ~25% of deep learning papers come from the Fortune Global 500 (Tech)
-[companies.](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
-[[Figure 7]](https://arxiv.org/pdf/2010.15581.pdf)
+Relatedly, ~25% of deep learning papers come from the
+[Fortune Global 500 (Tech)](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+companies.
+
+<img src="/assets/2020-Compute-Inequality.png" alt="AIGini" width="1024" class="center"/>
+
+_[Figure from this paper](https://arxiv.org/pdf/2010.15581.pdf)_
+
 And ~40% of deep learning research comes from the Top 50 Universities.
 This is consistent with Tim Dettmers’ broad statement about research in his 
 [blog post:](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/#School_Name_and_Resources) 

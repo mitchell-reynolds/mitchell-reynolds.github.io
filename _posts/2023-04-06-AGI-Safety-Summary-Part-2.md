@@ -22,12 +22,11 @@ My instrumental goals for facilitating the Course & independently writing these 
 5. [Bonus] Establish myself as a credible & properly nuanced source of AI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard).🐈 _
+_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard._🐈
 
 # Week 4: Task decomposition for scalable oversight 👀
 
-- **Scalable Oversight:** The problem of supervising systems that potentially outperform us
-on most skills relevant to the task at hand.
+- **Scalable Oversight:** The problem of supervising systems that potentially outperform us on most skills relevant to the task at hand.
 - **Task decomposition:** 
 - **Iterated amplification:**
 
@@ -89,4 +88,4 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Optional] Some AI governance research ideas (2021) by Markus Anderljung and Alexis Carlier](https://docs.google.com/document/d/13LJhP3ksrcEBKxYFG5GkJaC2UoxHKUYAHCRdRlpePEc/edit)
 - [[Optional] The Semiconductor Supply Chain (2021) by Saif M. Khan](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
 - [[Optional] The Global AI talent tracker (2020) by Macro Polo](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
-- [[Optional] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
+- [[My Addition] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
