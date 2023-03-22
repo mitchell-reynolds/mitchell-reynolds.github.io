@@ -36,7 +36,12 @@ _My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to th
 
 # Week 6: Interpretability 🔍
 
-# Week 7: Governance 🏛️
+# Week 7: Agent Foundations & Governance 🏛️
+_My cohort chose Agent Foundations while I preferred the default choice of Governance/Strategy._
+
+## Agent Foundations
+
+## Governance 
 
 # Links to Part 2 Materials [~7 hours] 🔗
 
@@ -75,17 +80,25 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Advanced ML & Optional] Eliciting latent knowledge (2021) by Paul Christiano et alia](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit)
 - [[My Addition] Chris Olah Interview on the 80k Podcast](https://80000hours.org/podcast/episodes/chris-olah-interpretability-research/)
 
-## Materials for Week 7: Governance [~80 minutes]
+## Materials for Week 7 - Default: Governance [~80 minutes]
 - [[Video] AI Strategy, Policy, and Governance (2019) by Allan Dafoe](https://www.youtube.com/watch?v=2IpJ8TIKKtI)
 - [AI Governance: Opportunity and Theory of Impact (2020) by Allan Dafoe](https://www.governance.ai/research-paper/ai-governance-opportunity-and-theory-of-impact)
 - [The AI deployment problem (2022) by Holden Karnofsky](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/)
 - [Why and How Governments Should Monitor AI Development (2021) by Jess Whittlestone and Jack Clarke](https://ar5iv.labs.arxiv.org/html/2108.12427)
 - [Transformative AI and Compute (2021) by Lennart Heim](https://www.alignmentforum.org/s/bJi3hd8E8qjBeHz9Z)
 - [Information security considerations for AI and the long term future (2022) by Jeffrey Ladish and Lennart Heim](https://forum.effectivealtruism.org/posts/WqQDCCLWbYfFRwubf/information-security-considerations-for-ai-and-the-long-term)
-- [Cooperation, Conflict and Transformative AI (2019) by Jesse Clifton](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)
 - [[Optional] Sharing Powerful AI Models (2022) by Toby Shevlane](https://www.governance.ai/post/sharing-powerful-ai-models)
 - [[Optional] AI Governance: A research agenda (2018) by Allan Dafoe](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
 - [[Optional] Some AI governance research ideas (2021) by Markus Anderljung and Alexis Carlier](https://docs.google.com/document/d/13LJhP3ksrcEBKxYFG5GkJaC2UoxHKUYAHCRdRlpePEc/edit)
 - [[Optional] The Semiconductor Supply Chain (2021) by Saif M. Khan](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
 - [[Optional] The Global AI talent tracker (2020) by Macro Polo](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 - [[My Addition] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
+
+## Materials for Week 7 - Alternative: Agent Foundations [~100 minutes]
+- [What is AIXI? (2020) by Marcus Hutter](https://www.youtube.com/watch?v=g4M7stjzR1I)
+- [Embedded Agents: Part 1 (2018) by Scott Garrabrant and Demski](https://intelligence.org/2018/10/29/embedded-agents/)
+- [Logical decision theory (2017) by Eliezer Yudkowsky](https://arbital.com/p/logical_dt/?l=5d6)
+- [Logical Induction: Blog post (2016) by Nate Soares](https://intelligence.org/2016/09/12/new-paper-logical-induction/)
+- [Progress on Causal Influence diagrams: blog post (2021) by Tom Everitt et alia](https://www.alignmentforum.org/posts/Cd7Hw492RqooYgQAS/progress-on-causal-influence-diagrams)
+- [Avoiding Side Effects By Considering Future Tasks (2020) by Victoria Krakovna](https://arxiv.org/abs/2010.07877)
+- [Cooperation, Conflict and Transformative AI (2019) by Jesse Clifton](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)

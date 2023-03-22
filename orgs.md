@@ -51,7 +51,7 @@ _Last updated March 2023_
 - [Effective Altruism Funds (EA Funds)](https://funds.effectivealtruism.org/)
 - Survival and Flourishing Funds ([SFP](http://survivalandflourishing.org/) and [SFF](https://survivalandflourishing.fund/)) 
 
-## Other organizations (not necessarily focused on safety)
+## Other organizations (mix of safety & capabilities)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
    - Runs [AI Safety Camp](https://aisafety.camp/) and provides career advice & community building.
 - [Allen Institute for AI](https://allenai.org/)
@@ -59,16 +59,21 @@ _Last updated March 2023_
 - [Berkeley Existential Risk Initiative (BERI)](https://existence.org/)
 - [Cohere](https://cohere.ai/)
 - [EleutherAI](https://www.eleuther.ai/)
+- [Forefront](https://www.forefront.ai/)
 - [Global Catastrophic Risk Institute (GCRI)](http://gcrinstitute.org/)
 - [Global Priorities Institute](https://globalprioritiesinstitute.org/)
 - [Google Brain](https://research.google/teams/brain/)
+- [Hugging Face](https://huggingface.co/)
 - [Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/)
    - Pursues massive decentralised research projects, mostly replicating state of the art large ML systems (e.g. their GPT-J). Their mission is to make the benefits of advanced AI open source and in individuals’ hands. They have access to compute from CoreWeave.
 - [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/)
 - [Median Group](http://mediangroup.org/)
 - [Preamble](https://www.preamble.com/about-us)
+- [Render](https://rendertoken.com/)
 - [Stanford Existential Risk Institute](https://seri.stanford.edu/)
 - [Stanford Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
+- [Vast](https://vast.ai/)
+- [Weights & Biases](https://wandb.ai/site)
 
 # Misc. Resources
 _The above list is mainly from [BlueDot's AI Safety Resources page](https://www.agisafetyfundamentals.com/resources) with added commentary by [Jamie Bernardi.](https://jamiebernardi.com/)
