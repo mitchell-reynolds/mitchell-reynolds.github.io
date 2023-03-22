@@ -20,6 +20,7 @@ _Last updated March 2023_
    - They are largely a technical company with a safety & ethics branch, and their policy research team includes Alan Dafoe, leader of GovAI (see below).
 - [Fathom Radiant](https://fathomradiant.co/)
    - Public benefit company building hardware to enable beneficial machine intelligence.
+- [Fund for Alignment Research (FAR)](https://far.ai/)
 - [Future of Life Institute](https://futureoflife.org/ai-safety-research/)
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org/)
    - Foundational mathematical research non-profit institute, focused on making superintelligence go well. Leaders in the field of safety on such topics as learned optimisation (inner misalignment), and embedded agency.
