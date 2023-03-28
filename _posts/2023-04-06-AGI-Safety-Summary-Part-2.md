@@ -93,6 +93,8 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Optional] The Semiconductor Supply Chain (2021) by Saif M. Khan](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
 - [[Optional] The Global AI talent tracker (2020) by Macro Polo](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
 - [[My Addition] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
+- [GPTs are GPTs by Tyna Eloundou et alia](https://arxiv.org/pdf/2303.10130.pdf)
+- [Sparks of AGI in GPT4 by Sebastien Bubeck et alia](https://arxiv.org/pdf/2303.12712.pdf)
 
 ## Materials for Week 7 - Alternative: Agent Foundations [~100 minutes]
 - [What is AIXI? (2020) by Marcus Hutter](https://www.youtube.com/watch?v=g4M7stjzR1I)

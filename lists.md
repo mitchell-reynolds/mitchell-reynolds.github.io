@@ -25,6 +25,7 @@ title: Lists
 # Books - Nonfiction
 - **Doing Good Better** by Will Macaskill
 - **Thinking, Fast and Slow** by Daniel Kahneman
+- **Human Compatible** by Stuart J. Russell
 - **Superintelligence** by Nick Bostrom
 - **Superforecasting** by Philip Tetlock & Dan Gardner
 - **Principles** by Ray Dalio
@@ -35,26 +36,31 @@ title: Lists
 - **The Hard Thing About Hard Things** by Ben Horowitz
 - **Tools of Titans** by Tim Ferris
 - **Better Angels of Our Nature** by Steven Pinker
+- **Atomic Habits** by James Clear
 - **The Last Lecture** by Randy Paunsch
 - **Tuesdays with Morrie** by Mitch Albom
 - **Stumbling on Happiness** by Daniel Gilbert
+- **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
+- **The Mind Illuminated** by John Yates
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
 - **Nonviolent Communication** by Marshall Rosenberg
-- **Human Compatible** by Stuart J. Russell
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
-- **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
+- **Deep Work** by Cal Newport (reading now)
+- **Scout Mindset** by Julia Galef (reading now)
+- **Noise** by Daniel Kahneman (to read)
 
 
 # Books - Fiction
 - **Siddhartha** by Hermann Hesse
 - **Candide** by Voltaire
 - **Slaughterhouse Five** by Kurt Vonnegut
+- **Cat's Cradle** by Kurt Vonnegut
 - **Hitchhiker's Guide to the Galaxy** by Douglas Adams
 - **Fight Club** by Chuck Palahniuk
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan
-- **Cat's Cradle** by Kurt Vonnegut (reading now)
+
 
 
 # Applications - Mobile Focused

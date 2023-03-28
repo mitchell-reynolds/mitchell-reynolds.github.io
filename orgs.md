@@ -1,7 +1,28 @@
-# AI Alignment Organizations
+---
+layout: page
+title: Major AI Organizations
+---
+
+# Major AI Organizations
+========================
 _Last updated March 2023_
 
-## Companies / Nonprofits
+## Predicting first AGI Creator
+1. [30% likelihood] USA Government
+   - My personal view is that once weak AGI is developed, the US Government will mobilize quickly to leverage mankind's last invention.
+   - As far as I know, there's not publically available information on this scenario. This opinion is based solely on the belief that "All USA major decision makers (politicians, DoD Generals etc.) want the USA to stay the global superpower."
+2. [25% likelihood] Google
+   - Subsideraries include Deepmind, Anthropic, & Google Brain.
+3. [20% likelihood] China
+4. [15% likelihood] Microsoft
+   - Major funder for OpenAI
+5. [10% likelihood] Some other State or non-state actor
+
+### USA Government - Technology Emphasis
+- Intelligence Advanced Research Projects Activity (IARPA)
+- TODO
+
+### Companies / Nonprofits
 - [Alignment Research Center](https://alignmentresearchcenter.org/)
 - [Anthropic](https://www.anthropic.com/)
    - A public benefit corporation founded in 2021 by a group of former OpenAI researchers, described as “an AI safety and research company that’s working to build reliable, interpretable, and steerable AI systems.”
@@ -35,7 +56,7 @@ _Last updated March 2023_
 - [Redwood Research](https://www.redwoodresearch.org/)
    - Founded in 2021, its mission is “to align superhuman AI”, which it openly believes is more likely than not to be developed than not this century. They are currently internalising human values into language models, and doing some field-building work such as the ML for Alignment Bootcamp.
 
-## Academic institutions 
+### Academic institutions 
 - [Center for Human-Compatible AI (CHAI)](https://humancompatible.ai/)
    - A research institute in Berkeley, California. Led by Stuart Russell, long term advocate of the problem of control in AI and author of a best-selling AI textbook. They led the charge on inverse reinforcement learning, and are interested in a wide range of control-focused projects.
 - [Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/)
@@ -46,12 +67,12 @@ _Last updated March 2023_
    - Set up in 2021. Krueger is interested in many alignment-related topics, and is an accomplished ML researcher. 
 - [Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/)
 
-## Major Funding bodies
+### Major Funding bodies
 - [Open Philanthropy (Open Phil)](https://www.openphilanthropy.org/)
 - [Effective Altruism Funds (EA Funds)](https://funds.effectivealtruism.org/)
 - Survival and Flourishing Funds ([SFP](http://survivalandflourishing.org/) and [SFF](https://survivalandflourishing.fund/)) 
 
-## Other organizations (mix of safety & capabilities)
+### Other organizations (mix of safety & capabilities)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
    - Runs [AI Safety Camp](https://aisafety.camp/) and provides career advice & community building.
 - [Allen Institute for AI](https://allenai.org/)
@@ -75,7 +96,7 @@ _Last updated March 2023_
 - [Vast](https://vast.ai/)
 - [Weights & Biases](https://wandb.ai/site)
 
-# Misc. Resources
+## Misc. Resources
 _The above list is mainly from [BlueDot's AI Safety Resources page](https://www.agisafetyfundamentals.com/resources) with added commentary by [Jamie Bernardi.](https://jamiebernardi.com/)
 The lists are in alphabetical order with the organizations full name (not using acroymns for ordering) where I've added several others. I'll likely re-organize these at a later time._
 - [Bibliography Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)

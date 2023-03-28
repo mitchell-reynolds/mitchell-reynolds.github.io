@@ -17,13 +17,13 @@ title: Curriculum Vitae
 
 ### Education
 - **Bachelor of Arts**, Economics Major, Philosophy Minor, University of Arkansas, June 2015
-- **Associate of Science**, Northwest Arkansas Community College, June 2012
+- **Associate of Science**, Honors Graduate, Northwest Arkansas Community College, June 2012
 - **High School Graduate**, Bentonville High School, June 2010
 
 ### Professional Certifications
-- UC Berkeley Extension Candidate, 
+- UC Berkeley Extension Candidate, Class of 2024
 - **Deep Learning Specialization**, Coursera, April 2023
-- **Coding Bootcamp Graduate**, Data Science Immersive (700 hours), General Assembly, June 2017
+- **Coding Bootcamp Graduate**, Data Science Immersive, General Assembly, June 2017
 
 ### Honors & Awards
 - Dean's List, University of Arkansas, 2014 - 2015
@@ -34,7 +34,7 @@ title: Curriculum Vitae
 
 ### Research
 - "Predicting the Venture Capital Landscape", General Assembly, June 2017
-- "OECD Financial Assistance Allocation within the Political Landscape of Uganda", Presenter at the Economics Scholars Program hosted at The Federal Reserve Bank of Dallas, April 2015
+- "OECD Financial Assistance Allocation within the Political Landscape of Uganda", Speaker at the Economics Scholars Program hosted at The Federal Reserve Bank of Dallas, April 2015
 
 ### Volunteer & Community Service
 - **Facilitator, Former Participant**, AGI Safety Fundamentals, BlueDot Impact, 2021 - Present
