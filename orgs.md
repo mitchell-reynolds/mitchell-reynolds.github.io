@@ -4,7 +4,6 @@ title: Major AI Organizations
 ---
 
 # Major AI Organizations
-========================
 _Last updated March 2023_
 
 ## Predicting first AGI Creator
