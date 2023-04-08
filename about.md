@@ -52,16 +52,18 @@ I largely identify as an
 [Aspiring Polymath](https://en.wikipedia.org/wiki/Polymath).
 
 ## Connection:
+[Calendly](https://calendly.com/mitchell-reynolds/chat),
 [LinkedIn](https://www.linkedin.com/in/mitchellsreynolds/),
 [LessWrong](https://www.lesswrong.com/users/mitchell-reynolds),
+[EA Forum](https://forum.effectivealtruism.org/users/mitchell-reynolds-1),
 [Metaculus](https://www.metaculus.com/accounts/profile/126624/),
 [GitHub](https://github.com/mitchell-reynolds/),
 [Facebook](https://www.facebook.com/mitchellsreynolds),
 [Email](mailto:mitchell.s.reynolds@gmail.com),
 [Medium](https://medium.com/@mitchell.s.reynolds),
-[AngelList](https://angel.co/u/mitchellsreynolds), or
-[Calendly](https://calendly.com/mitchell-reynolds/chat).
+[AngelList](https://angel.co/u/mitchellsreynolds).
 
 I practice [taking control](https://www.humanetech.com/take-control)
-of and reducing my reliance on technology & media.
+of and reducing my reliance on technology & media to emphasize 
+[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/).
 Therefore, you should anticipate longer than normal response times from the above.

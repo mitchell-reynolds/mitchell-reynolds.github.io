@@ -14,13 +14,15 @@ title: Lists
 - "If you've lived exactly the life of another person, you'd likely be in their situation."
 - "Be interested more than interesting." (Carnegie)
 
-# Blogs, Forums, & Websites
+# Blogs, Vlogs Forums, & Websites
 - [Cold Takes](https://cold-takes.com/)
 - [Alignment Forum](https://www.alignmentforum.org/)
 - [80,000 Hours](https://80000hours.org/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Zen Habits](https://zenhabits.net/)
 - [Terence Tao](https://terrytao.wordpress.com/)
+- [Two Minute Papers]()
+- [Yannic Kilcher]()
 
 # Books - Nonfiction
 - **Doing Good Better** by Will Macaskill
@@ -123,5 +125,5 @@ title: Lists
 - Experimental Electronic / Contemporary Music (usually small, indie artists)
 - Metal (metalcore or heavier for exercising)
 - Modern & Contemporary Architecture; Minimalist Living
-- Comedies (prefer films over shows generally)
+- Comedies (prefer movies over shows generally) and philosophical films (eg Waking Life, I Heart Huckabees, Ex Machina etc.)
 - Normcore fashion to minimize cost, both in terms of time and money (selvedge denim; simple colors; black preferred)

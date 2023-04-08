@@ -42,6 +42,9 @@ _My cohort chose Agent Foundations while I preferred the default choice of Gover
 ## Agent Foundations
 
 ## Governance 
+[When AGI is a 'Manhattan Project' away](https://arxiv.org/ftp/arxiv/papers/2008/2008.04701.pdf)
+[Anthropics LLM Surprise](https://arxiv.org/abs/2202.07785)
+[Holden's AI Strategy set of questions](https://forum.effectivealtruism.org/posts/zGiD94SHwQ9MwPyfW/#Questions_about_AI_strategy__more_)
 
 # Links to Part 2 Materials [~7 hours] 🔗
 

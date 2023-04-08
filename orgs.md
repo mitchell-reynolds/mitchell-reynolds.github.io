@@ -67,17 +67,28 @@ _Last updated March 2023_
 - [Dylan Hadfield-Menell](https://people.csail.mit.edu/dhm/)
 
 ### Major Funding bodies
-- [Open Philanthropy (Open Phil)](https://www.openphilanthropy.org/)
 - [Effective Altruism Funds (EA Funds)](https://funds.effectivealtruism.org/)
+   - [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future)
+- [Future Funding List](https://www.futurefundinglist.com/): Updated table with filters for "Funding for long-term-oriented people and projects"
+- Founder's Pledge
+- Longview Philanthropy
+- [Open Philanthropy (Open Phil)](https://www.openphilanthropy.org/)
+   - [Independent Researcher](https://www.openphilanthropy.org/early-career-funding-for-individuals-interested-in-improving-the-long-term-future/)
+   - [Century Fellow](https://www.openphilanthropy.org/century-fellowship/)
 - Survival and Flourishing Funds ([SFP](http://survivalandflourishing.org/) and [SFF](https://survivalandflourishing.fund/)) 
 
 ### Other organizations (mix of safety & capabilities)
+- [Aligned AI](https://buildaligned.ai/)
+- [ALTER](https://alter.org.il/)
+- [AI Incidents](https://incidentdatabase.ai/about/)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
    - Runs [AI Safety Camp](https://aisafety.camp/) and provides career advice & community building.
 - [Allen Institute for AI](https://allenai.org/)
 - [Aleph Alpha](https://aleph-alpha.de/)
 - [Berkeley Existential Risk Initiative (BERI)](https://existence.org/)
 - [Cohere](https://cohere.ai/)
+- [Conjecture](https://www.conjecture.dev/)
+- [Convergence](https://www.convergenceanalysis.org/)
 - [EleutherAI](https://www.eleuther.ai/)
 - [EnculturedAI](https://www.encultured.ai/)
 - [Forefront](https://www.forefront.ai/)
@@ -89,6 +100,7 @@ _Last updated March 2023_
    - Pursues massive decentralised research projects, mostly replicating state of the art large ML systems (e.g. their GPT-J). Their mission is to make the benefits of advanced AI open source and in individuals’ hands. They have access to compute from CoreWeave.
 - [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/)
 - [Median Group](http://mediangroup.org/)
+- [Obelisk](https://astera.org/obelisk/)
 - [Preamble](https://www.preamble.com/about-us)
 - [Render](https://rendertoken.com/)
 - [Stanford Existential Risk Institute](https://seri.stanford.edu/)
