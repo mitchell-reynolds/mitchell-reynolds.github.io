@@ -47,4 +47,4 @@ Meditation has led me to seeing human consciousness as the universe looking back
 Through my eyes (and yours), 
 my seemingly unique experience fades away as being special and rests peacefully into what is, the Future Self.
 To me, the Future Self is a unified consciousness where all individual minds converge 
-if allowed enough time to flourish.
+if allowed enough time to flourish. Paradoxically there can be mutliple copies of this Future Self giving rise to the name of this blog: Future Selves.
