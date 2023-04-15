@@ -22,7 +22,7 @@ My instrumental goals for facilitating the Course & independently writing these 
 5. [Bonus] Establish myself as a credible & properly nuanced source of AI safety knowledge.
 6. [Bonus] By staying up-to-date on the latest research, directly contribute to the advancement of ["helpful, honest, and harmless"](https://ar5iv.labs.arxiv.org/html/2112.00861) AI systems with a focus on strategy.
 
-_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat Bunny for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard._🐈
+_My final goals are [here.](./about#purpose-lifelong) Lastly, I would like to thank Greg Tracy & my cat [Bunny](./assets/2022-Bunny.jpg) for feedback where all the mistakes are my own or Bunny's suggestions from walking on the keyboard._🐈
 
 # Week 4: Task decomposition for scalable oversight 👀
 

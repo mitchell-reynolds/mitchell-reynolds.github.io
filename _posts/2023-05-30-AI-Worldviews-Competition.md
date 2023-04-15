@@ -31,6 +31,14 @@ Additionally, this analysis will not consider the possibility of humans controll
 ## Methodology
 The question narrows only onto the control problem. Stuart Russell provides the definition of an advanced agent with a seemingly innocuous, limited goal that could seek out a vast quantity of physical resources—including resources crucial for humans—in order to fulfill that goal as effectively as possible.
 
+Forecasting unique events like this traditionally lean on three approaches: reference class, inside view, and decomposition. 
+
+### Reference Class
+
+### Inside View
+
+### Decomposition
+
 ### Who?
 If AGI is possible earlier, it'll be backed by large nation states (USA, China etc.) if they're able to prioritize budgets.
 If AGI is possible slightly later, it'll be developed by a large tech/research company (Alphabet [Google Brain, Deepmind, Anthropic], Microsoft [OpenAI] etc.).

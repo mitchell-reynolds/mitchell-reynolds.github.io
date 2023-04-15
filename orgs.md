@@ -80,6 +80,7 @@ _Last updated March 2023_
 ### Other organizations (mix of safety & capabilities)
 - [Aligned AI](https://buildaligned.ai/)
 - [ALTER](https://alter.org.il/)
+- Apollo Research (Marius Hobbhahn)
 - [AI Incidents](https://incidentdatabase.ai/about/)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
    - Runs [AI Safety Camp](https://aisafety.camp/) and provides career advice & community building.

@@ -8,8 +8,7 @@ I'm Mitchell Reynolds and here's a digital representation of me:
 <img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540"/>
 
 ## Professionally:
-I’m a Data Science Manager where I have extensive experience 
-interfacing between business stakeholders & technical teams.
+I'm a determined, probabilistic leader with a decade of practice in project management, strategy, deep learning, and data science. I've depolyed dozens of ML models and have thousands of hours of hands-on AI experience. Seeking opportunities AI Safety to deliver scalable solutions with oversight in organizations.
 
 ## Personally:
 I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
@@ -32,7 +31,7 @@ I've defined my own life purpose to be something like:
    - Sciences: Economics; Engineering (AI/ML focus)
    - Philosophy: AI Safety; Ethics
    - Arts: Guitarist; Writer; Artist
-   - Mover: Chess Boxing; Climbing; Top 5% physically by benching bodyweight, squatting 1.5x, and deadlifting 2x bodyweight
+   - Mover: Top 5% physically by benching bodyweight, squatting 1.5x, and deadlifting 2x bodyweight
 - Reduce suffering, increase happiness/eudaimonia & try to not cause harm (see intellectual identification below)
 - Have fun because life is absurd
 

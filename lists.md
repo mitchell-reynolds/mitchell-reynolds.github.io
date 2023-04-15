@@ -3,6 +3,13 @@ layout: page
 title: Lists
 ---
 
+# Core Values
+- Autonomy
+- Principled actions
+- Compassion
+- Epistemic humility
+
+
 # Mantras & Questions
 - "If my younger brother were in my situation, what would be my guidance?"
 - "What's the most important problem in your field? What are you doing to solve that?" (Hamming)
@@ -14,15 +21,28 @@ title: Lists
 - "If you've lived exactly the life of another person, you'd likely be in their situation."
 - "Be interested more than interesting." (Carnegie)
 
-# Blogs, Vlogs Forums, & Websites
-- [Cold Takes](https://cold-takes.com/)
-- [Alignment Forum](https://www.alignmentforum.org/)
-- [80,000 Hours](https://80000hours.org/)
-- [LessWrong](https://www.lesswrong.com/)
-- [Zen Habits](https://zenhabits.net/)
-- [Terence Tao](https://terrytao.wordpress.com/)
-- [Two Minute Papers]()
-- [Yannic Kilcher]()
+
+# Personality Tests
+- Meyers-Briggs: ENTJ
+- OCEAN Test: High O; High C; High E; Median A; Median N
+- Enneagram: Reformer (1)
+- DISC Assessment: Creative Archetype (High D & C)
+- PrinciplesYou: Shaper
+
+
+# Courses - University, Bootcamp, MOOC
+- Human Nature & the Meaningful Life (University)
+- Classical Ethics (University)
+- Symbolic Logic (University)
+- Econometrics (University)
+- Microeconomic Development (University)
+- Macroeconomics in Emerging Markets (University)
+- Calculus I & II (University)
+- Statistics & Probability (University)
+- Bayesian Statistics (Data Science Bootcamp)
+- Linear Algebra (Data Science Bootcamp)
+- Deep Learning Specialization (MOOC)
+
 
 # Books - Nonfiction
 - **Doing Good Better** by Will Macaskill
@@ -49,8 +69,8 @@ title: Lists
 - **Nonviolent Communication** by Marshall Rosenberg
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
 - **Deep Work** by Cal Newport (reading now)
-- **Scout Mindset** by Julia Galef (reading now)
-- **Noise** by Daniel Kahneman (to read)
+- **The Scout Mindset** by Julia Galef (reading now)
+- **Noise: A Flaw in Human Judgment** by Daniel Kahneman (to read)
 
 
 # Books - Fiction
@@ -63,6 +83,16 @@ title: Lists
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan
 
+
+# Blogs, Vlogs, Forums, & Websites
+- [Cold Takes](https://cold-takes.com/)
+- [Alignment Forum](https://www.alignmentforum.org/)
+- [80,000 Hours](https://80000hours.org/)
+- [LessWrong](https://www.lesswrong.com/)
+- [Zen Habits](https://zenhabits.net/)
+- [Terence Tao](https://terrytao.wordpress.com/)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/videos)
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
 
 # Applications - Mobile Focused
@@ -78,28 +108,6 @@ title: Lists
 - [Dark Reader - Changes Background Color & Fonts](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en)
 - [SwiftRead - Faster Online Reading](https://chrome.google.com/webstore/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno?hl=en)
 - [Huntr - Kanban Job Tracker with Scrapping](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf?hl=en)
-
-
-# Courses - University, Bootcamp, MOOC
-- Human Nature & the Meaningful Life (University)
-- Classical Ethics (University)
-- Symbolic Logic (University)
-- Econometrics (University)
-- Microeconomic Development (University)
-- Macroeconomics in Emerging Markets (University)
-- Calculus I & II (University)
-- Statistics & Probability (University)
-- Bayesian Statistics (Data Science Bootcamp)
-- Linear Algebra (Data Science Bootcamp)
-- Deep Learning Specialization (MOOC)
-
-
-# Personality Tests
-- Meyers-Briggs: ENTJ
-- OCEAN Test: High O; High C; High E; Median A; Median N
-- Enneagram: Reformer (1)
-- DISC Assessment: Creative Archetype (High D & C)
-- PrinciplesYou: Shaper
 
 
 # Music - Bands/Artists, Albums, Songs
