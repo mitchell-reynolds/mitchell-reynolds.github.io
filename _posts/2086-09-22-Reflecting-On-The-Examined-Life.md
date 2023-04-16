@@ -14,7 +14,7 @@ and worked both backwards & forwards to ensure my life story would be written ex
 
 My parents, grandparents, & great-grandparents all had children before 20 years young. 
 I had the privilege of meeting my great-grandparents who'd fought in WWII & of
-hearing the worldviews from those in the early 20th century. 
+hearing the stories from those in the early 20th century. 
 We're now nearing the 22nd century. 
 Even though they all lacked an undergraduate education, they were supportive in their own ways
 including the deep value of reasoning for its own sake & thinking for one's self.
