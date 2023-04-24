@@ -5,9 +5,9 @@ title: Lists
 
 # Core Values
 - Autonomy
-- Principled actions
 - Compassion
 - Epistemic humility
+- Principled actions
 
 
 # Mantras & Questions
@@ -62,14 +62,19 @@ title: Lists
 - **The Last Lecture** by Randy Paunsch
 - **Tuesdays with Morrie** by Mitch Albom
 - **Stumbling on Happiness** by Daniel Gilbert
-- **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
-- **The Mind Illuminated** by John Yates
 - **Outliers** by Malcolm Gladwell
 - **Foundations of the Metaphysics of Morals** by Immanuel Kant
+- **Nicomachean Ethics** by Aristotle
 - **Nonviolent Communication** by Marshall Rosenberg
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
-- **Deep Work** by Cal Newport (reading now)
+- **Deep Work** by Cal Newport
+- **Talent** by Tyler Cowen & Daniel Gross (reading now)
+- **Atomic Habits** by James Clear (reading now)
+- **The Mind Illuminated** by John Yates (reading now)
 - **The Scout Mindset** by Julia Galef (reading now)
+- **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
+- **Data Pipelines - Pocket Reference** by James Denmore (reading now)
+- **The Righteous Mind** by Jonathan Haidt (to read)
 - **Noise: A Flaw in Human Judgment** by Daniel Kahneman (to read)
 
 
@@ -78,10 +83,14 @@ title: Lists
 - **Candide** by Voltaire
 - **Slaughterhouse Five** by Kurt Vonnegut
 - **Cat's Cradle** by Kurt Vonnegut
+- **The Sirens of Titan** by Kurt Vonnegut
+- **Brave New World** by Aldous Huxley
 - **Hitchhiker's Guide to the Galaxy** by Douglas Adams
 - **Fight Club** by Chuck Palahniuk
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan
+- **Island** by Aldous Huxley (reading now)
+- **The Trial** by Fran Kafka (to read)
 
 
 # Blogs, Vlogs, Forums, & Websites

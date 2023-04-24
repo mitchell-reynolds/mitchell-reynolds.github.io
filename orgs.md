@@ -45,7 +45,8 @@ _Last updated March 2023_
 - [Machine Intelligence Research Institute (MIRI)](https://intelligence.org/)
    - Foundational mathematical research non-profit institute, focused on making superintelligence go well. Leaders in the field of safety on such topics as learned optimisation (inner misalignment), and embedded agency.
 - [Nonlinear](https://www.nonlinear.org/)
-   - Meta/grant making organisation. “We systematically search for high impact strategies to reduce existential and suffering risks… [and] make it happen. An incubator for interventions.” They are currently in a research phase.
+   - Meta/grant making organisation. “We systematically search for high impact strategies to reduce existential and suffering risks… [and] make it happen. An incubator for interventions.” 
+   - [Nonlinear Network](https://nonlinearnetwork.org/) is their funding arm.
 - [OpenAI](https://openai.com/)
    - OpenAI was founded “to ensure that artificial general intelligence benefits all of humanity”. They openly commit to building safe AGI and have created some of the most impressive examples of AI systems today, such as the large language model GPT-3 (now open access) and CLIP.
    - Largely a technical company, they have a dedicated “alignment” team and a governance branch called the “AI Futures” team. Originally not-for-profit, it now has a for-profit arm.
@@ -78,8 +79,9 @@ _Last updated March 2023_
 - Survival and Flourishing Funds ([SFP](http://survivalandflourishing.org/) and [SFF](https://survivalandflourishing.fund/)) 
 
 ### Other organizations (mix of safety & capabilities)
-- [Aligned AI](https://buildaligned.ai/)
+- [Aligned AI](https://www.aligned-ai.com/)
 - [ALTER](https://alter.org.il/)
+- [ARENA](https://www.arena.education/)
 - Apollo Research (Marius Hobbhahn)
 - [AI Incidents](https://incidentdatabase.ai/about/)
 - [AI Safety Support (AISS)](https://www.aisafetysupport.org/home)
