@@ -14,7 +14,7 @@ I'm a determined, probabilistic leader with nearly a decade of practice in proje
 I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to
 [great niche films](https://docs.google.com/spreadsheets/d/1vAO7SOU4HMdmlH4HayZ801kqPu_32CIsfk5mF0Co0ZM/edit?usp=sharing);
 playing guitar left-handed while being right-handed everywhere else; 
-and meditating every day then later lifting weights listening to heavy metal.
+and meditating most days then later lifting weights listening to intense music (EDM and/or heavy metal).
 My other hobbies range from playing tabletop games, discussing philosophy (focus on economics, ethics, consciousness, & technology),
 and supporting the arts through comedy & experiential art.
 
@@ -30,8 +30,8 @@ I've defined my own life purpose to be something like:
 - Be a polymath (scientist, philosopher, artist, mover)
    - Sciences: Economics; Engineering (AI/ML focus)
    - Philosophy: AI Safety; Ethics
-   - Arts: Guitarist; Writer; Artist
-   - Mover: Top 5% physically by benching bodyweight, squatting 1.5x, and deadlifting 2x bodyweight
+   - Arts: Guitarist; Writer/Author; Artist
+   - Mover: Top 5% physically by benching bodyweight, squatting 1.5x bodyweight, and deadlifting 2x bodyweight
 - Reduce suffering, increase happiness/eudaimonia & try to not cause harm (see intellectual identification below)
 - Have fun because life is absurd
 

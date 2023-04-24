@@ -11,14 +11,12 @@ I get asked this quite often and thought I’d finally put my story into writing
 
 Studying econometrics in university, I analyzed the variables for what predicts a person’s income where the largest factor was… parent’s income. Wait, what? Being born into poverty to 19 year old parents, I began unraveling my conceptions of the American Dream. Does this mean I’m also destined to the same struggle? Digging further, I found that only 14% of people like me graduated university.¹ Makes sense as I also worked full-time and didn’t really sleep. Also, I estimated approximately 5% of other Data Scientists are Economics Undergraduate like me.² These estimates lead me to believe about 1% of Data Scientists are similar in this way.
 
-I highlight these external factors because I think I’m incredibly lucky in a multitude of ways. I’ve known about these base rates and have actively worked toward moving out those unfavorable base rates.
+I highlight these external factors because I think I’m _incredibly_ lucky in a multitude of ways. I’ve known about these base rates and have actively worked toward moving out those unfavorable base rates.
 
 **This is the first lesson:** Understand your base rates. Given your background and specific challenges, what are the odds? Are they in your favor or against you? If the odds are against you, investigate in what ways you can improve your chances of success. Even if shown “improbable,” this doesn’t mean impossible.
 
 # Getting into a Bootcamp 🥾
-I always loved mathematics, logic, and critical thinking. Although I didn’t know it at the time, those were the prerequisites to data science. However, my excitement for data science was met with a sales role in the San Francisco Bay Area. My sales role allowed me to explore some Diet Analytics in the Consumer Packaged Goods space. But, I needed out.
-
-After the sales rotation program, I moved into underwriting commercial loans. At the time I thought “Banks pay more” but found the path to analytics too long in banking. I’d have to underwrite loans for 2+ years before transitioning into an Analyst role — not even data science. After being out of university for 2 years, I made the leap: Data Science Bootcamp.
+I always loved mathematics, logic, and critical thinking. Although I didn’t know it at the time, those were the prerequisites to data science. However, my excitement for data science was met with a (mostly) sales role in the San Francisco Bay Area. My sales role allowed me to explore some Diet Analytics in the Consumer Packaged Goods space. But, I needed out. Following the sales rotation program, I moved into banking where quantitative analysis again took a back seat. At the time I thought “Banks pay more” but found the path to data science too long in banking. After being out of university for 2 years, I made the leap: Data Science Bootcamp.
 
 # Bootstrapped into Bootcamp
 Aced the initial take-home analysis on Kickstarter campaigns. Prepared my nascent coding skills with the Bootcamp’s online prerequisite coursework via Dataquest. I was ready for the Data Science Immersive — a full-time, 3 month program.
@@ -45,7 +43,7 @@ These are the three most important lessons I can give for transitioning to a Dat
 2. Choose a Bootcamp that is directly incentivized to get you hired
 3. Build your portfolio by making luck and opportunity meet
 
-Next, I’m going to write about my initial roller coaster ride of being a Data Scientist. Sneak peek: The commercial real estate startup failed. Until then, I’m curious to hear about your experience looking around Data Science Bootcamps. What principles and lessons did you learn along the way?
+Next, I’m going to write about my initial roller coaster ride of being a Data Scientist. Until then, I’m curious to hear about your experience looking around Data Science Bootcamps. What principles and lessons did you learn along the way?
 
 ---
 _¹[The National Center for Education Statistics](https://nces.ed.gov/programs/digest/d14/tables/dt14_104.91.asp) found that of those born into the bottom quartile of socioeconomic status, only 14.2% receive a bachelor’s degree or higher._
