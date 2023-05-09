@@ -15,6 +15,16 @@ title: Curriculum Vitae
 - **Customer Service**, Various Companies, Full-time, 2009-2015
 - **Customer Service**, Various Companies, Part-time, 2007-2009
 
+### Volunteer & Community Service
+- **Facilitator**, AGI Safety Fundamentals, BlueDot Impact, 2022-Present
+- **Advisor, Organizer**, Effective Altruism Local Group in San Francisco, 2018-Present
+- **Treasurer**, McAllister Cooperative, 2019-2021
+- **Events Lead**, San Francisco Zen Center, 2019-2020
+
+### Research
+- "Predicting the Venture Capital Landscape", General Assembly, June 2017
+- "OECD Financial Assistance Allocation within the Political Landscape of Uganda", Speaker at the Economics Scholars Program hosted at The Federal Reserve Bank of Dallas, April 2015
+
 ### Education
 - **Bachelor of Arts**, Economics Major, Philosophy Minor, University of Arkansas, June 2015
 - **Associate of Science**, Honors Graduate, Northwest Arkansas Community College, June 2012
@@ -25,6 +35,7 @@ title: Curriculum Vitae
 - **Deep Learning Specialization**, Coursera, April 2023
 - **Coding Bootcamp Graduate**, Data Science Immersive, General Assembly, June 2017
 
+
 ### Honors & Awards
 - Dean's List, University of Arkansas, 2014 - 2015
 - Arkansas Academic Challenge Scholarship Recipient, University of Arkansas, 2013-2015
@@ -32,18 +43,7 @@ title: Curriculum Vitae
 - Distinguished Honors Graduate, Northwest Arkansas Community College, 2012
 - Dean's List, Northwest Arkansas Community College, 2010-2012
 
-### Research
-- "Predicting the Venture Capital Landscape", General Assembly, June 2017
-- "OECD Financial Assistance Allocation within the Political Landscape of Uganda", Speaker at the Economics Scholars Program hosted at The Federal Reserve Bank of Dallas, April 2015
-
-### Volunteer & Community Service
-- **Facilitator**, AGI Safety Fundamentals, BlueDot Impact, 2022-Present
-- **Advisor, Organizer**, Effective Altruism Local Group in San Francisco, 2018-Present
-- **Treasurer**, McAllister Cooperative, 2019-2021
-- **Events Lead**, San Francisco Zen Center, 2019-2020
-
 ### Conferences & Outreach
-- Attendee, Stanford Existential Risk Conference, Stanford, CA, 2023
 - Attendee, Nvidia GTC, Virtual, 2023
 - Attendee, Nvidia GTC, Virtual, 2022
 - Facilitator, Effective Altruism Global, San Francisco, CA, 2022

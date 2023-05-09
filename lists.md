@@ -69,7 +69,6 @@ title: Lists
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
 - **Deep Work** by Cal Newport
 - **Talent** by Tyler Cowen & Daniel Gross (reading now)
-- **Atomic Habits** by James Clear (reading now)
 - **The Mind Illuminated** by John Yates (reading now)
 - **The Scout Mindset** by Julia Galef (reading now)
 - **Zen Mind, Beginner's Mind** by Shunryu Suzuki (reading now)
@@ -84,11 +83,11 @@ title: Lists
 - **Slaughterhouse Five** by Kurt Vonnegut
 - **Cat's Cradle** by Kurt Vonnegut
 - **The Sirens of Titan** by Kurt Vonnegut
-- **Brave New World** by Aldous Huxley
 - **Hitchhiker's Guide to the Galaxy** by Douglas Adams
 - **Fight Club** by Chuck Palahniuk
 - **Exhalations** by Ted Chiang
 - **AI 2041** by Kai-Fu Lee & Chen Qiufan
+- **Brave New World** by Aldous Huxley
 - **Island** by Aldous Huxley (reading now)
 - **The Trial** by Fran Kafka (to read)
 
@@ -121,7 +120,8 @@ title: Lists
 
 # Music - Bands/Artists, Albums, Songs
 - **The Mars Volta** (Band)
-- **Childish Gambino** (Artist)
+- **Donald Glover / Childish Gambino** (Artist)
+- **Bo Burnham** (Artist & Comedian)
 - **Skrillex** (Artist)
 - **Flume** (Artist)
 - **Zhu** (Artist)
