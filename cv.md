@@ -16,6 +16,7 @@ title: Curriculum Vitae
 - **Customer Service**, Various Companies, Part-time, 2007-2009
 
 ### Volunteer & Community Service
+- **Treasurer**, The Outpost, 2023-Present
 - **Facilitator**, AGI Safety Fundamentals, BlueDot Impact, 2022-Present
 - **Advisor, Organizer**, Effective Altruism Local Group in San Francisco, 2018-Present
 - **Treasurer**, McAllister Cooperative, 2019-2021
