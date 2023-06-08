@@ -22,6 +22,7 @@ title: Lists
 - "Be interested more than interesting." (Carnegie)
 
 # Quips
+- You're 1 in a quintillion!
 - 100% of people are skeptical of statements claiming unilateral agreement.
 
 # Personality Tests
