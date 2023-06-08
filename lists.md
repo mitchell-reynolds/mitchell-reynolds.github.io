@@ -21,6 +21,8 @@ title: Lists
 - "If you've lived exactly the life of another person, you'd likely be in their situation."
 - "Be interested more than interesting." (Carnegie)
 
+# Quips
+- 100% of people are skeptical of statements claiming unilateral agreement.
 
 # Personality Tests
 - Meyers-Briggs: ENTJ

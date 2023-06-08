@@ -5,9 +5,9 @@ title: Curriculum Vitae
 # Mitchell S. Reynolds
 
 ### Employment
-- **Consultant**, 2023-Present
+- **Lead Data Scientist**, 2023-Present
 - **Senior Manager, Data Science**, Transparent Partners, 2022-2023
-- **Senior Manager, Data Science**, Hint Water, 2020-2022
+- **Lead Data Scientist**, Hint Water, 2020-2022
 - **Data Scientist**, Hint Water, 2018-2020
 - **Data Scientist**, Consulting, 2017-2018
 - **Analyst**, First Republic Bank, 2016-2017
@@ -15,7 +15,7 @@ title: Curriculum Vitae
 - **Customer Service**, Various Companies, Full-time, 2009-2015
 - **Customer Service**, Various Companies, Part-time, 2007-2009
 
-### Volunteer & Community Service
+### Volunteer Leadership & Community Service
 - **Treasurer**, The Outpost, 2023-Present
 - **Facilitator**, AGI Safety Fundamentals, BlueDot Impact, 2022-Present
 - **Advisor, Organizer**, Effective Altruism Local Group in San Francisco, 2018-Present
@@ -23,6 +23,7 @@ title: Curriculum Vitae
 - **Events Lead**, San Francisco Zen Center, 2019-2020
 
 ### Research
+- "Generating Ethical Claims with RNNs", Pioneer.app Competition, September 2018
 - "Predicting the Venture Capital Landscape", General Assembly, June 2017
 - "OECD Financial Assistance Allocation within the Political Landscape of Uganda", Speaker at the Economics Scholars Program hosted at The Federal Reserve Bank of Dallas, April 2015
 
@@ -32,7 +33,6 @@ title: Curriculum Vitae
 - **High School Graduate**, Bentonville High School, June 2010
 
 ### Professional Certifications
-- UC Berkeley Extension Candidate, Class of 2024
 - **Deep Learning Specialization**, Coursera, April 2023
 - **Coding Bootcamp Graduate**, Data Science Immersive, General Assembly, June 2017
 
