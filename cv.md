@@ -5,8 +5,8 @@ title: Curriculum Vitae
 # Mitchell S. Reynolds
 
 ### Employment
-- **Lead Data Scientist**, 2023-Present
-- **Senior Manager, Data Science**, Transparent Partners, 2022-2023
+- **Student**, UCLA Extension, 2023-Present
+- **Lead Data Scientist**, Transparent Partners, 2022-2023
 - **Lead Data Scientist**, Hint Water, 2020-2022
 - **Data Scientist**, Hint Water, 2018-2020
 - **Data Scientist**, Consulting, 2017-2018
@@ -17,8 +17,8 @@ title: Curriculum Vitae
 
 ### Volunteer Leadership & Community Service
 - **Treasurer**, The Outpost, 2023-Present
-- **Facilitator**, AGI Safety Fundamentals, BlueDot Impact, 2022-Present
-- **Advisor, Organizer**, Effective Altruism Local Group in San Francisco, 2018-Present
+- **Facilitator**, BlueDot Impact - AI Safety Program; AI Governance Program, 2021-Present
+- **Lead Organizer, Advisor**, SF Bay Area Effective Altruism Local Group, 2018-Present
 - **Treasurer**, McAllister Cooperative, 2019-2021
 - **Events Lead**, San Francisco Zen Center, 2019-2020
 
@@ -29,11 +29,12 @@ title: Curriculum Vitae
 
 ### Education
 - **Bachelor of Arts**, Economics Major, Philosophy Minor, University of Arkansas, June 2015
-- **Associate of Science**, Honors Graduate, Northwest Arkansas Community College, June 2012
+- **Associate of Science**, _Honors Graduate_, Northwest Arkansas Community College, June 2012
 - **High School Graduate**, Bentonville High School, June 2010
 
 ### Professional Certifications
-- **Deep Learning Specialization**, Coursera, April 2023
+- **Database Certificate**, UCLA Extension, March 2024
+- **Deep Learning Specialization**, Coursera, July 2023
 - **Coding Bootcamp Graduate**, Data Science Immersive, General Assembly, June 2017
 
 
