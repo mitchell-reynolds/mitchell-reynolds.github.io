@@ -33,7 +33,7 @@ title: Curriculum Vitae
 - **High School Graduate**, Bentonville High School, June 2010
 
 ### Professional Certifications
-- **Database Certificate**, UCLA Extension, March 2024
+- **(In Progress) Database Certificate**, UCLA Extension, April 2024
 - **Deep Learning Specialization**, Coursera, July 2023
 - **Coding Bootcamp Graduate**, Data Science Immersive, General Assembly, June 2017
 
