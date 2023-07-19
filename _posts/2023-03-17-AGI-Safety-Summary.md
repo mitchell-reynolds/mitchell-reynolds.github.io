@@ -186,6 +186,8 @@ If you're not convinced & short on time, I think the most accessible resource fo
 [What failure looks like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)
 by Paul Christiano, which I think could make for an interesting novel.
 
+Is it an AI Catastrophe for AGI to give us the entire Milky Way but take over the rest of the universe? Upon first glance, it seems like missing out on our cosmic endowment isn’t ideal, but it’s better than going extinct.
+
 # Week 3: Goal misgeneralization 🥅
 
 - **Goal misgeneralization:** An instance of misgeneralisation in which a system’s capabilities generalise but its goal does not generalise as desired. [Deepmind (2022)](https://deepmindsafetyresearch.medium.com/goal-misgeneralisation-why-correct-specifications-arent-enough-for-correct-goals-cf96ebc60924)<sup>[3](./AGI-Safety-Summary-Part-1#footnotes)</sup>
@@ -221,9 +223,12 @@ _My cohort chose Agent Foundations while I preferred the default choice of Gover
 ## Agent Foundations
 
 ## Governance 
-[When AGI is a 'Manhattan Project' away](https://arxiv.org/ftp/arxiv/papers/2008/2008.04701.pdf)
-[Anthropics LLM Surprise](https://arxiv.org/abs/2202.07785)
-[Holden's AI Strategy set of questions](https://forum.effectivealtruism.org/posts/zGiD94SHwQ9MwPyfW/#Questions_about_AI_strategy__more_)
+- [When AGI is a 'Manhattan Project' away](https://arxiv.org/ftp/arxiv/papers/2008/2008.04701.pdf)
+- [Anthropics LLM Surprise](https://arxiv.org/abs/2202.07785)
+- [Holden's AI Strategy set of questions](https://forum.effectivealtruism.org/posts/zGiD94SHwQ9MwPyfW/#Questions_about_AI_strategy__more_)
+- [Stanford AI Index](https://aiindex.stanford.edu/report/)
+- [Why TAI is hard](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
+- [Compute Monitoring](https://ar5iv.labs.arxiv.org/html/2303.11341)
 
 # Footnotes 🦿
 1. I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.

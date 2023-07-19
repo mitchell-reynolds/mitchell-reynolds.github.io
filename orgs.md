@@ -19,6 +19,7 @@ _Last updated March 2023_
 
 ### USA Government - Technology Emphasis
 - Intelligence Advanced Research Projects Activity (IARPA)
+- National Science and Technology Council (NSTC)
 - TODO
 
 ### Companies / Nonprofits
@@ -81,6 +82,7 @@ _Last updated March 2023_
 ### Other organizations (mix of safety & capabilities)
 - [Aligned AI](https://www.aligned-ai.com/)
 - [ALTER](https://alter.org.il/)
+- [Arkrose](https://arkose.org/)
 - [ARENA](https://www.arena.education/)
 - Apollo Research (Marius Hobbhahn)
 - [AI Incidents](https://incidentdatabase.ai/about/)
@@ -121,3 +123,4 @@ The lists are in alphabetical order with the organizations full name (not using 
 - [Estimating AI Safety Employees](https://www.lesswrong.com/posts/mC3oeq62DWeqxiNBx/estimating-the-current-and-future-number-of-ai-safety)
 - [Victoria Krakovna Misc. resources](https://vkrakovna.wordpress.com/ai-safety-resources/#communities)
 - [Gdoc with various resources](https://docs.google.com/document/d/1z0QoDEu6WmubZSqh7ejgGtBjTR0i0SfLwyNgdcD9kBc/edit#heading=h.b7aa6ksd98wr)
+- Non-public Google Sheet of AI Safety Researchers (message me if you'd like the link as the author asked for it to not be widely shared yet)

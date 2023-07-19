@@ -27,7 +27,7 @@ title: Lists
 
 # Personality Tests
 - Meyers-Briggs: ENTJ
-- OCEAN Test: High O; High C; High E; Median A; Median N
+- OCEAN Test (Percentile): Openness (85th); Conscientiousness (99th); Extraversion (93rd); Agreeableness (78th); Emotio**N**al Stability (82nd)
 - Enneagram: Reformer (1)
 - DISC Assessment: Creative Archetype (High D & C)
 - PrinciplesYou: Shaper
@@ -147,3 +147,6 @@ title: Lists
 - Modern & Contemporary Architecture; Minimalist Living
 - Comedies (prefer movies over shows generally) and philosophical films (eg Waking Life, I Heart Huckabees, Ex Machina etc.)
 - Normcore fashion to minimize cost, both in terms of time and money (selvedge denim; simple colors; black preferred)
+
+# Errata
+- __The universe keeps getting colder and trends toward 0 Kelvin. Then once at absolute zero everywhere, the mass “shrinks” slipping into another dimension causing a new Big Bang.__ TODO: Update with Physicist reasoning for why this likely isn't the case.
