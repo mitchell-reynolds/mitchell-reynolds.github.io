@@ -8,7 +8,7 @@ categories:
 
 [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia) translates roughly into happiness in ancient Greek. 
 However, the deeper meaning is human flourishing. 
-Aristotle in Nichomachean Ethics starts his lecture with the argument that most things have a function
+Aristotle in Nicomachean Ethics starts his lecture with the argument that most things have a function
 and the function for humans is to achieve the highest state of human flourishing in accordance with reason. 
 This pursuit is for its own sake.
 
@@ -47,4 +47,4 @@ Meditation has led me to seeing human consciousness as the universe looking back
 Through my eyes (and yours), 
 my seemingly unique experience fades away as being special and rests peacefully into what is, the Future Self.
 To me, the Future Self is a unified consciousness where all individual minds converge 
-if allowed enough time to flourish. Paradoxically there can be mutliple copies of this Future Self giving rise to the name of this blog: Future Selves.
+if allowed enough time to flourish. Paradoxically there can be multiple copies of this Future Self giving rise to the name of this blog: Future Selves.

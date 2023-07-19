@@ -8,7 +8,7 @@ I'm Mitchell Reynolds and here's a digital representation of me:
 <img src="/assets/2022-12-31-profile-photo.jpg" alt="mphoto" width="540"/>
 
 ## Professionally:
-I'm a determined, probabilistic leader with nearly a decade of practice in project management, strategy, deep learning, and data science. I've depolyed dozens of ML models and have thousands of hours of hands-on AI experience. Seeking opportunities in AI Safety to deliver scalable solutions with oversight in high growth organizations.
+I'm a determined, probabilistic leader with nearly a decade of practice in project management, strategy, deep learning, and data science. I've deployed dozens of ML models and have thousands of hours of hands-on AI experience. Seeking opportunities in AI Safety to deliver scalable solutions with oversight in high growth organizations.
 
 ## Personally:
 I enjoy contradictions. Everything from broadly bad movies (The Room etc.) to

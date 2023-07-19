@@ -17,7 +17,7 @@ Although I have [~1000s hours of AI/ML training](./Why-AGI#ai-training-1000s-of-
 the Course begins with an optional Week 0 that takes ~2 hours to get up to speed conceptually.
 I will assume this (admittedly small) audience has this level of familiarity and
 that these summaries gloss over those preliminary details.
-Instead, the focus will be the core 8 weeks of content with the occassional detour into "what it's like inside my mind."
+Instead, the focus will be the core 8 weeks of content with the occasional detour into "what it's like inside my mind."
 Lastly, my involvement with the Course began in 2021 where I started as a participant led by Michael Chen.
 In both 2022 & 2023, I was offered to be a paid facilitator for 1 cohort each iteration.
 
@@ -73,7 +73,7 @@ to determine whether a system possesses general intelligence.
 
 Although the Course doesn't officially cover the various types of intelligent agents, I'd like to do so below for the most popular kinds:
 - **Transformative AI [TAI]**: An AI that brings about a dramatically different future (roughly comparable but probably more significant than the agricultural or industrial revolution). [[OpenPhil]](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/#:~:text=Roughly%20and%20conceptually%2C%20transformative%20AI,the%20agricultural%20or%20industrial%20revolution.)
-- **Artificial General Intelligence [AGI]**: An AI that's broadly capable of most/all functions that an animal (traditionally a human) can do. We are still within the scale what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, & humans. We're quickly scaling up the ladder as artificial minds become more and more capable - see Galaxy timelines chart where mouse-brain-sized model is projected for 2023.
+- **Artificial General Intelligence [AGI]**: An AI that's broadly capable of most/all functions that an animal (traditionally a human) can do. We are still within the scale of what we can comprehend as intellectuals have created a rough intuitive scale of ants, bees, crows, & humans. We're quickly scaling up the ladder as artificial minds become more and more capable - see Galaxy timelines chart where mouse-brain-sized model is projected for 2023.
    - Fun fact: Orangutans, pigs, and octopi are among the smartest, less well-known animals (most think of chimps, dolphins, or mice first with a [longer list here](https://thehumaneleague.org/article/animal-intelligence))
 - **Seed AI**: An AGI that recursively rewrites its own source code without human intervention. [[Yudkowsky (2007)]](http://intelligence.org/files/LOGI.pdf)
 - **Superintelligent AI**: An agent that far surpasses the brightest human minds both individually and even what can be done collectively. If the Manhattan Project was the combination of the brightest minds, a superintelligent agent would view them as intellectually equal as we view ants (but probably even more inferior in this axis if my anthropological lens is true in the first place).
@@ -171,7 +171,7 @@ The Course begins to break down these "what could go wrong" theses focusing firs
 [[Pan (2022)]](https://ar5iv.labs.arxiv.org/html/2201.03544) 
 The other type of reward misspecification is from humans not designing the correct reward function in the first place
 (e.g. [CoastRunners example](https://openai.com/research/faulty-reward-functions)).
-**Specification gaming** is a behaviour that satisfies the literal specification of an objective
+**Specification gaming** is a behavior that satisfies the literal specification of an objective
 without achieving the intended outcome.
 [[Deepmind (2020)]](https://www.deepmind.com/blog/specification-gaming-the-flip-side-of-ai-ingenuity)
 Point 3 above is one hypothetical example of many.<sup>[2](./AGI-Safety-Summary-Part-1#footnotes)</sup>
@@ -203,18 +203,39 @@ While I generally try to avoid anthropomorphising AI, it is easier to imagine an
 
 We have already seen [simpler forms of deception.](https://openai.com/research/learning-from-human-preferences#challenges) In this example, the goal was for the digital robot arm to grab the ball. Yet, it found the greedy solution was to place itself between the ball and camera making it appear as if it accomplished the goal. While this is a toy example with a concrete goal, how would we go about solving real-world problems that have fuzzy goals?
 
+# Week 4: Task decomposition for scalable oversight 👀
+
+- **Scalable Oversight:** The problem of supervising systems that potentially outperform us on most skills relevant to the task at hand.
+- **Task decomposition:** 
+- **Iterated amplification:**
+
+<img src="/assets/2021-christiano-alignment-map.jpeg" alt="ChristianoMap" width="1024" class="center"/>
+
+# Week 5: Adversarial techniques for scalable oversight 👾 
+
+# Week 6: Interpretability 🔍
+
+# Week 7: Agent Foundations & Governance 🏛️
+_My cohort chose Agent Foundations while I preferred the default choice of Governance/Strategy._
+
+## Agent Foundations
+
+## Governance 
+[When AGI is a 'Manhattan Project' away](https://arxiv.org/ftp/arxiv/papers/2008/2008.04701.pdf)
+[Anthropics LLM Surprise](https://arxiv.org/abs/2202.07785)
+[Holden's AI Strategy set of questions](https://forum.effectivealtruism.org/posts/zGiD94SHwQ9MwPyfW/#Questions_about_AI_strategy__more_)
 
 # Footnotes 🦿
 1. I'm borrowing the mathematical definition of "problem" where a solution _may_ exist. [[Wikipedia]](https://en.wikipedia.org/wiki/Mathematical_problem) Some problems don't have a solution (e.g. free will, absolute moral truths etc.). I think what is usually meant is "issue" where there _is_ an existing solution, whether it's known or unknown.
 2. The researchers at Deepmind made a
 [combined list](http://tinyurl.com/specification-gaming)
-of specificaction gaming examples from AI research if that's of interest.
+of specification gaming examples from AI research if that's of interest.
 3. The researchers at Deepmind made a different
 [combined list](http://tinyurl.com/goal-misgeneralisation)
 of goal misgeneralization examples from AI research if that's of interest.
 
 
-# Links to Part 1 Materials [~7 hours] 🔗
+# Links to Materials [~7 hours] 🔗
 
 _I made a [Spotify Playlist](https://open.spotify.com/playlist/4RV5q7Z49XZflV38NoahF5?si=2567ed53d3944784) for the 
 2022 iteration of the Course with **some** of the readings that should be viewed as supplemental and not as a substitution.
@@ -271,3 +292,70 @@ Lastly, I add in optional readings that I personally view as important enough to
 - [[Advanced ML] Thought Experiments Provide a Third Anchor (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/thought-experiments-provide-a-third-anchor/)
 - [[Advanced ML] ML Systems Will Have Weird Failure Modes (2022) by Jacob Steinhardt](https://bounded-regret.ghost.io/ml-systems-will-have-weird-failure-modes-2/)
 - [[Advanced ML]The alignment problem from a deep learning perspective (2022) by Richard Ngo et alia](https://ar5iv.labs.arxiv.org/html/2209.00626)
+
+---
+
+## Materials for Week 4: Task decomposition for scalable oversight [~110 minutes]
+- [[Video] AI Alignment Landscape (2020) by Paul Christiano](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment)
+- [Measuring Progress on Scalable Oversight for Large Language Models (2022) by Samuel Bowman](https://ar5iv.labs.arxiv.org/html/2211.03540)
+- [Learning Complex Goals with Iterated Amplification (2018) by Paul Christiano and Dario Amodei](https://openai.com/blog/amplifying-ai-training/)
+- [Supervising strong learners by amplifying weak experts (2018) by Paul Christiano, Dario Amodei and Buck Shlegeris](https://ar5iv.labs.arxiv.org/html/1810.08575)
+- [Summarizing Books with Human Feedback (2021) by Jeffrey Wu, Ryan Lowe and Jan Leike](https://openai.com/research/summarizing-books)
+- [Language Models Perform Reasoning via Chain of Thought (2022) by Jason Wei, Denny Zhou and Google](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
+- [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models (2022) by Denny Zhou et alia](https://ar5iv.labs.arxiv.org/html/2205.10625)
+
+--- 
+
+## Materials for Week 5: Adversarial techniques for scalable oversight [~90 minutes]
+- [AI-written critiques help humans notice flaws: blog post (2022) by Jan Leike et alia](https://openai.com/research/critiques)
+- [AI safety via debate (2018) by Geoffrey Irving, Paul Christiano and Dario Amodei](https://ar5iv.labs.arxiv.org/html/1805.00899)
+- [Red-teaming language models with language models (2022) by Ethan Perez et alia](https://www.deepmind.com/blog/red-teaming-language-models-with-language-models)
+- [[Advanced ML] Robust Feature-Level Adversaries are Interpretability Tools (2021) by Casper et alia](https://ar5iv.labs.arxiv.org/html/2110.03605)
+- [High-stakes alignment via adversarial training blog posts (2022) by Daniel Ziegler et alia](https://www.alignmentforum.org/posts/A9tJFJY7DsGTFKKkh/high-stakes-alignment-via-adversarial-training-redwood)
+- [Takeaways from our robust injury classifier project (2022) by Daniel Ziegler et alia](https://www.alignmentforum.org/posts/n3LAgnHg6ashQK3fF/takeaways-from-our-robust-injury-classifier-project-redwood)
+- [[Optional] WebGPT (2021) by Jacob Hilton et alia](https://openai.com/research/webgpt)
+- [[Optional] Debate update: Obfuscated arguments problem (2020) by "Beth Barnes" and Paul Christiano](https://www.alignmentforum.org/posts/PJLABqQ962hZEqhdB/debate-update-obfuscated-arguments-problem)
+- [[Optional] Training robust corrigibility (2019) by Paul Christiano](https://ai-alignment.com/training-robust-corrigibility-ce0e0a3b9b4d)
+
+--- 
+
+## Materials for Week 6: Interpretability [~100 minutes]
+- [Feature Visualization (2017) by Chris Olah et alia](https://distill.pub/2017/feature-visualization/)
+- [Zoom In: An Introduction to Circuits (2020) by Chris Olah et alia](https://distill.pub/2020/circuits/zoom-in/)
+- [[Advanced ML] Toy Models of Superposition (2022) by Nelson Elhage et alia](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [Understanding intermediate layers using linear classifier probes (2016) by Guillaume Alain and Yoshua Bengio](https://ar5iv.labs.arxiv.org/html/1610.01644)
+- [[Advanced ML] Discovering Latent Knowledge in Language Models Without Supervision (2022) by Collin Burns](https://ar5iv.labs.arxiv.org/html/2212.03827)
+- [Acquisition of Chess Knowledge in AlphaZero (2021) by Thomas McGrath et alia](https://ar5iv.labs.arxiv.org/html/2111.09259)
+- [Locating and Editing Factual Associations in GPT (2022) by Kevin Meng et alia](https://rome.baulab.info/)
+- [[Advanced ML & Optional] Eliciting latent knowledge (2021) by Paul Christiano et alia](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit)
+- [[My Addition] Chris Olah Interview on the 80k Podcast](https://80000hours.org/podcast/episodes/chris-olah-interpretability-research/)
+
+--- 
+
+## Materials for Week 7 - Default: Governance [~80 minutes]
+- [[Video] AI Strategy, Policy, and Governance (2019) by Allan Dafoe](https://www.youtube.com/watch?v=2IpJ8TIKKtI)
+- [AI Governance: Opportunity and Theory of Impact (2020) by Allan Dafoe](https://www.governance.ai/research-paper/ai-governance-opportunity-and-theory-of-impact)
+- [The AI deployment problem (2022) by Holden Karnofsky](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/)
+- [Why and How Governments Should Monitor AI Development (2021) by Jess Whittlestone and Jack Clarke](https://ar5iv.labs.arxiv.org/html/2108.12427)
+- [Transformative AI and Compute (2021) by Lennart Heim](https://www.alignmentforum.org/s/bJi3hd8E8qjBeHz9Z)
+- [Information security considerations for AI and the long term future (2022) by Jeffrey Ladish and Lennart Heim](https://forum.effectivealtruism.org/posts/WqQDCCLWbYfFRwubf/information-security-considerations-for-ai-and-the-long-term)
+- [[Optional] Sharing Powerful AI Models (2022) by Toby Shevlane](https://www.governance.ai/post/sharing-powerful-ai-models)
+- [[Optional] AI Governance: A research agenda (2018) by Allan Dafoe](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
+- [[Optional] Some AI governance research ideas (2021) by Markus Anderljung and Alexis Carlier](https://docs.google.com/document/d/13LJhP3ksrcEBKxYFG5GkJaC2UoxHKUYAHCRdRlpePEc/edit)
+- [[Optional] The Semiconductor Supply Chain (2021) by Saif M. Khan](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
+- [[Optional] The Global AI talent tracker (2020) by Macro Polo](https://macropolo.org/digital-projects/the-global-ai-talent-tracker/)
+- [[My Addition] Could Advanced AI Drive Explosive Economic Growth (2021) by Tom Davidson](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
+- [GPTs are GPTs by Tyna Eloundou et alia](https://arxiv.org/pdf/2303.10130.pdf)
+- [Sparks of AGI in GPT4 by Sebastien Bubeck et alia](https://arxiv.org/pdf/2303.12712.pdf)
+
+--- 
+
+## Materials for Week 7 - Alternative: Agent Foundations [~100 minutes]
+- [What is AIXI? (2020) by Marcus Hutter](https://www.youtube.com/watch?v=g4M7stjzR1I)
+- [Embedded Agents: Part 1 (2018) by Scott Garrabrant and Demski](https://intelligence.org/2018/10/29/embedded-agents/)
+- [Logical decision theory (2017) by Eliezer Yudkowsky](https://arbital.com/p/logical_dt/?l=5d6)
+- [Logical Induction: Blog post (2016) by Nate Soares](https://intelligence.org/2016/09/12/new-paper-logical-induction/)
+- [Progress on Causal Influence diagrams: blog post (2021) by Tom Everitt et alia](https://www.alignmentforum.org/posts/Cd7Hw492RqooYgQAS/progress-on-causal-influence-diagrams)
+- [Avoiding Side Effects By Considering Future Tasks (2020) by Victoria Krakovna](https://arxiv.org/abs/2010.07877)
+- [Cooperation, Conflict and Transformative AI (2019) by Jesse Clifton](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)
+
