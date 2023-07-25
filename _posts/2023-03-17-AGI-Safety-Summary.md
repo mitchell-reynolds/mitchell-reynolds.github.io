@@ -1,5 +1,5 @@
 ---
-title: AGI Safety Summary (2023 Cohort) - Part 1
+title: AGI Safety Summary (Q1 2023 Cohort)
 published: true
 categories:
 - agi
@@ -10,7 +10,7 @@ This is the first installment of my summary & extrapolations for the
 Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
 [BlueDot,](https://www.agisafetyfundamentals.com/) which spun out of 
 [Effective Altruism Cambridge](https://www.eacambridge.org/) in collaboration with
-[Richard Ngo](https://www.richardcngo.com/).
+[Richard Ngo](https://www.richardcngo.com/) from OpenAI/DeepMind.
 In total, the Course is expected to take ~30 hours taking place over 8 weeks with pre-readings & discussions and includes a self-guided project.
 
 Although I have [~1000s hours of AI/ML training](./Why-AGI#ai-training-1000s-of-hours),
