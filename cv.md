@@ -6,10 +6,10 @@ title: Curriculum Vitae
 
 ### Employment
 - **Student**, UCLA Extension, 2023-Present
-- **Lead Data Scientist**, Transparent Partners, 2022-2023
-- **Lead Data Scientist**, Hint Water, 2020-2022
+- **Senior Manager**, Transparent Partners, 2022-2023
+- **Senior Manager**, Hint Water, 2020-2022
 - **Data Scientist**, Hint Water, 2018-2020
-- **Data Scientist**, Consulting, 2017-2018
+- **Data Scientist**, RealtyShares, 2017-2018
 - **Analyst**, First Republic Bank, 2016-2017
 - **Analyst**, Advantage Solutions, 2015-2016
 - **Customer Service**, Various Companies, Full-time, 2009-2015

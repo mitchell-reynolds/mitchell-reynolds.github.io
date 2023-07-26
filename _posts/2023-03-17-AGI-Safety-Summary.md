@@ -228,6 +228,7 @@ _My cohort chose Agent Foundations while I preferred the default choice of Gover
 - [Holden's AI Strategy set of questions](https://forum.effectivealtruism.org/posts/zGiD94SHwQ9MwPyfW/#Questions_about_AI_strategy__more_)
 - [Stanford AI Index](https://aiindex.stanford.edu/report/)
 - [Why TAI is hard](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
+- [Why AI will Save The World](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 - [Compute Monitoring](https://ar5iv.labs.arxiv.org/html/2303.11341)
 
 # Footnotes 🦿
