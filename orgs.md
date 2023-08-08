@@ -83,6 +83,7 @@ _Last updated March 2023_
 - [Aligned AI](https://www.aligned-ai.com/)
 - [ALTER](https://alter.org.il/)
 - [Arkrose](https://arkose.org/)
+- [AI Infrastructure Alliance](https://ai-infrastructure.org/)
 - [ARENA](https://www.arena.education/)
 - Apollo Research (Marius Hobbhahn)
 - [AI Incidents](https://incidentdatabase.ai/about/)
@@ -124,3 +125,5 @@ The lists are in alphabetical order with the organizations full name (not using 
 - [Victoria Krakovna Misc. resources](https://vkrakovna.wordpress.com/ai-safety-resources/#communities)
 - [Gdoc with various resources](https://docs.google.com/document/d/1z0QoDEu6WmubZSqh7ejgGtBjTR0i0SfLwyNgdcD9kBc/edit#heading=h.b7aa6ksd98wr)
 - Non-public Google Sheet of AI Safety Researchers (message me if you'd like the link as the author asked for it to not be widely shared yet)
+- [AI Safety - Introductory Resource](https://aisafety.info/)
+- [Proposal of Alignment Solutions](https://aialignmentproposals.substack.com/archive)

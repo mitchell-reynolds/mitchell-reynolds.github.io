@@ -1,13 +1,13 @@
 ---
-title: AGI Safety Summary (Q1 2023 Cohort)
+title: AI Safety Summary (Q1 2023 Cohort)
 published: true
 categories:
 - agi
 ---
 
 # Background, Context, & Goals 📚
-This is the first installment of my summary & extrapolations for the 
-Artificial General Intelligence Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
+This is my summary & extrapolations for the 
+Artificial Intelligence Technical Safety Fundamentals Alignment Course ("Course" hereafter) offered by 
 [BlueDot,](https://www.agisafetyfundamentals.com/) which spun out of 
 [Effective Altruism Cambridge](https://www.eacambridge.org/) in collaboration with
 [Richard Ngo](https://www.richardcngo.com/) from OpenAI/DeepMind.
