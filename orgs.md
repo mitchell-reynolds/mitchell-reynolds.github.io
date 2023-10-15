@@ -4,12 +4,13 @@ title: Major AI Organizations
 ---
 
 # Major AI Organizations
-_Last updated March 2023_
+_Last updated October 2023_
 
 ## Predicting first AGI Creator
 1. [30% likelihood] USA Government
    - My personal view is that once weak AGI is developed, the US Government will mobilize quickly to leverage mankind's last invention.
-   - As far as I know, there's not publically available information on this scenario. This opinion is based solely on the belief that "All USA major decision makers (politicians, DoD Generals etc.) want the USA to stay the global superpower."
+   - As far as I know, there's not publically available information on this scenario. This opinion is based solely on the belief that "Most USA major decision makers (politicians, DoD Generals etc.) want the USA to stay the global superpower."
+      - This is further strengthened given that the major AI governing instititions are under the Executive Branch.
 2. [25% likelihood] Google
    - Subsideraries include Deepmind, Anthropic, & Google Brain.
 3. [20% likelihood] China
@@ -17,10 +18,21 @@ _Last updated March 2023_
    - Major funder for OpenAI
 5. [10% likelihood] Some other State or non-state actor
 
-### USA Government - Technology Emphasis
-- Intelligence Advanced Research Projects Activity (IARPA)
-- National Science and Technology Council (NSTC)
-- TODO
+### [USA Government - Technology Emphasis](https://aipolicyportal.org/states/united-states-of-america)
+The non-exhaustive list of U.S. governing institutions below play varied roles in overseeing & advancing AI technologies.
+
+- **Intelligence Advanced Research Projects Activity (IARPA):**
+   - IARPA, housed within the Office of the Director of National Intelligence, spearheads research to tackle challenges pertinent to the U.S. Intelligence Community​. It addresses difficult issues across intelligence agencies, though it doesn't have an operational mission nor directly deploy technologies to the field​. IARPA invests in high-risk, high-payoff research, often exploring multidisciplinary approaches to advance cognition and computation understanding​.
+- **National Science and Technology Council (NSTC):**
+   - The NSTC, through its Select Committee on AI, coordinates federal efforts relating to AI R&D, as chartered by the White House in 2018​. It acts as a cabinet-level council of advisers to the President on science and technology, helping in coordinating the S&T policy-making process​. 
+- **Chief Digital & Artificial Intelligence Office (CDAO):**
+   - CDAO accelerates the Department of Defense's adoption of data, analytics, and AI, reporting to the Deputy Secretary of Defense​. It's expected to release new guidance on the development and adoption of data analytics and AI to support mission-critical operations​.
+- **Department of Defense (DoD) Responsible AI Working Council:**
+   - Formed to ensure input and coordination across the Department for responsible AI, it developed a Responsible AI "Strategy and Implementation Pathway"​.
+- **National Artificial Intelligence Initiative Office (NAIIO):**
+   - Legislated to coordinate and support the National AI Initiative, it's located within the White House Office of Science and Technology Policy​. The office was established following the National Artificial Intelligence Initiative Act of 2020 to codify and expand existing AI policies and initiatives​.
+- **Office of Science and Technology Policy (OSTP):**
+   - OSTP explores both the promise and pitfalls of AI, advising the President on matters related to science and technology​. It also unveiled a "Blueprint for an AI Bill of Rights" to guide the design, use, and deployment of AI systems​.
 
 ### Companies / Nonprofits
 - [Alignment Research Center](https://alignmentresearchcenter.org/)
