@@ -207,11 +207,34 @@ We have already seen [simpler forms of deception.](https://openai.com/research/l
 
 # Week 4: Task decomposition for scalable oversight 👀
 
-- **Scalable Oversight:** The problem of supervising systems that potentially outperform us on most skills relevant to the task at hand.
-- **Task decomposition:** 
-- **Iterated amplification:**
+## Key Terms:
+- **Scalable Oversight:** The ability to provide reliable supervision (in the form of labels, reward signals, or critiques) to models in a way that will remain effective past the point that models start to achieve broadly human-level performance.
+- **Task decomposition:** A planning method that involves breaking down a larger task into smaller, more manageable sub-tasks. This creates a hierarchical model of the root task, which can be dealt with at the lowest possible level.
+- **Iterated amplification:** An approach to AI alignment, led by Paul Christiano. Initially build weak aligned AIs then recursively use each new AI to build a slightly smarter & still aligned AI.
 
 <img src="/assets/2021-christiano-alignment-map.jpeg" alt="ChristianoMap" width="1024" class="center"/>
+
+## ChatGPT
+Introduction
+Training AI models to perform complex tasks remains a formidable challenge. Researchers are continuously exploring new methods to improve the training and performance of AI systems, particularly in areas that are difficult or time-consuming for humans to evaluate. This blog post synthesizes key findings from five recent papers that tackle various aspects of this challenge, from scalable oversight to novel prompting strategies.
+
+Scalable Oversight in AI Systems
+The first paper delves into the concept of "scalable oversight," which is crucial for developing safe, general-purpose AI systems. The paper proposes an experimental design that focuses on tasks where human specialists excel but where both unaided humans and current AI systems fall short. A proof-of-concept experiment demonstrated that humans interacting with an unreliable large-language-model dialog assistant outperformed both the model alone and their unaided selves. This is a promising sign that scalable oversight is feasible to study with current models and that large language models can assist humans in complex tasks.
+
+The Iterated Amplification Strategy
+Two papers discuss a training strategy called "Iterated Amplification." This approach aims to build a training signal for complex problems by solving easier subproblems. Unlike Expert Iteration, another training strategy, Iterated Amplification does not rely on an external reward function. The results in algorithmic environments indicate that this method can efficiently learn complex behaviors. This strategy could be particularly useful for real-world learning tasks with complex objectives that are hard to specify.
+
+Abstractive Summarization of Fiction Novels
+The fourth paper focuses on the task of abstractive summarization of entire fiction novels—a task that is both hard and time-consuming for humans to evaluate. The method combines human feedback with recursive task decomposition. The GPT-3 model was fine-tuned to perform recursive summarization. During inference, the model first summarizes small sections of the book and then recursively summarizes these to produce a final summary. The model achieved state-of-the-art results on the BookSum dataset and performed competitively in the NarrativeQA benchmark. This approach allows human labelers to supervise and evaluate the model quickly, even without reading the entire books.
+
+Improving Reasoning Abilities: Chain of Thought Prompting
+The fifth paper explores how to improve the reasoning abilities of large language models, particularly in multi-step reasoning tasks. It introduces a method called "chain of thought prompting," which enables models to decompose multi-step problems into intermediate steps. This method allows large language models to solve complex reasoning tasks that are not achievable with standard prompting techniques.
+
+Least-to-Most Prompting: A Novel Strategy
+The final paper addresses the limitations of chain-of-thought prompting, particularly when solving problems that are more complex than the demonstration examples. It introduces a new strategy called "least-to-most prompting," which is implemented in two stages. First, it breaks down a complex problem into subproblems. Then, it solves these subproblems sequentially, with each subproblem aided by the solutions to previous ones. This method significantly outperformed chain-of-thought prompting. For instance, the GPT-3 code-davinci-002 model using least-to-most prompting achieved a 99.7% accuracy on the SCAN benchmark with just 14 examples, compared to 16.2% accuracy by chain-of-thought prompting.
+
+Conclusion
+The landscape of AI training strategies is complex and ever-evolving. Researchers are making progress on multiple fronts, from developing methods for scalable oversight to devising new prompting strategies that improve the reasoning abilities of large language models. These advancements are not only academic exercises but are crucial steps toward creating AI systems that can assist humans in increasingly complex tasks. As AI continues to integrate into various aspects of our lives, understanding and implementing these advanced training strategies will be key to ensuring that these systems are both effective and safe.
 
 # Week 5: Adversarial techniques for scalable oversight 👾 
 
