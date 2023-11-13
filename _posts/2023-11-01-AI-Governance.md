@@ -47,7 +47,6 @@ categories:
 - [A Tour of Emerging Cryptographic Technologies by Ben Garfinkel (2021)](https://uploads-ssl.webflow.com/614b70a71b9f71c9c240c7a7/617938781d1308004d007e2d_Garfinkel_Tour_Of_Emerging_Cryptographic_Technologies.pdf)
 - [Historical case studies of technology governance and international agreements by BlueDot Impact (2023)](https://aisafetyfundamentals.com/historical-case-studies/)
 - [Overviews of Some Basic Models of Governments and International Cooperation  by BlueDot Impact (2022)](https://agisf.org/governance-blog/international-cooperation-models)
-- []()
 
 ## Week 7: Additional proposals (60 minutes)
 - [OpenAI Charter by OpenAI (2018)](https://openai.com/charter/) and [LP Announcement by OpenAI (2019)](https://openai.com/blog/openai-lp/)
@@ -55,6 +54,7 @@ categories:
 - [12 Tentative Ideas for US AI Policy  by Luke Muehlhauser (2023)](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/)
 - [Let’s think about slowing down AI  by Katja Grace (2022)](https://blog.aiimpacts.org/p/lets-think-about-slowing-down-ai)
 - [AI Governance: A research agenda by Allan Dafoe (2018)](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
+- [[Optional] International Institutions for Advanced AI by Lewis Ho, Joslyn Barnhart, Robert Trager et al. (2023)](https://ar5iv.labs.arxiv.org/html/2307.04699)
 
 ## Week 8: Career Advice (75 minutes)
 - [Career Resources on AI Strategy Research by BlueDot Impact (2022)](https://agisf.org/governance-blog/ai-strategy-careers)
