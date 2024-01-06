@@ -55,6 +55,7 @@ categories:
 - [Let’s think about slowing down AI  by Katja Grace (2022)](https://blog.aiimpacts.org/p/lets-think-about-slowing-down-ai)
 - [AI Governance: A research agenda by Allan Dafoe (2018)](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
 - [[Optional] International Institutions for Advanced AI by Lewis Ho, Joslyn Barnhart, Robert Trager et al. (2023)](https://ar5iv.labs.arxiv.org/html/2307.04699)
+- [[My Addition] Provably safe systems: the only path to controllable AGI by Max Tegmark and Steve Omohundro](https://ar5iv.org/pdf/2309.01933.pdf)
 
 ## Week 8: Career Advice (75 minutes)
 - [Career Resources on AI Strategy Research by BlueDot Impact (2022)](https://agisf.org/governance-blog/ai-strategy-careers)

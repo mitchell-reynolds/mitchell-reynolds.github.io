@@ -71,6 +71,8 @@ title: Lists
 - **Nonviolent Communication** by Marshall Rosenberg
 - **Algorithms to Live By** by Brian Christian and Thomas L. Griffiths
 - **Deep Work** by Cal Newport
+- **Systems Thinking** by Donella H. Meadows
+- **Replacing Guilt** by Nate Soares
 - **Talent** by Tyler Cowen & Daniel Gross (reading now)
 - **The Mind Illuminated** by John Yates (reading now)
 - **The Scout Mindset** by Julia Galef (reading now)
