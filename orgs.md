@@ -116,14 +116,16 @@ The non-exhaustive list of U.S. governing institutions below play varied roles i
 - [Hugging Face](https://huggingface.co/)
 - [Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](https://iaifi.org/)
    - Pursues massive decentralised research projects, mostly replicating state of the art large ML systems (e.g. their GPT-J). Their mission is to make the benefits of advanced AI open source and in individuals’ hands. They have access to compute from CoreWeave.
+- [Lambda Labs](https://lambdalabs.com/) for decentralized compute.
 - [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/)
 - [Median Group](http://mediangroup.org/)
 - [Obelisk](https://astera.org/obelisk/)
 - [Preamble](https://www.preamble.com/about-us)
 - [Render](https://rendertoken.com/)
+- [RunPod](https://www.runpod.io/) for decentralized compute.
 - [Stanford Existential Risk Institute](https://seri.stanford.edu/)
 - [Stanford Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
-- [Vast](https://vast.ai/)
+- [Vast](https://vast.ai/) for decentralized compute.
 - [Weights & Biases](https://wandb.ai/site)
 
 ## Misc. Resources
